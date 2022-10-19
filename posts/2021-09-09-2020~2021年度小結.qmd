@@ -2,8 +2,9 @@
 toc: false
 layout: post
 description: 一週年前遊戲進度小結
-categories: 雜談
+categories: [雜談]
 title: 雜談：2020-2021年度小結
+date: "2021/09/09"
 ---
 
 <br><br><br>

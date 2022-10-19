@@ -2,8 +2,9 @@
 toc: true
 layout: post
 description: 原文章：https://corocoro.jp/special/307868/ | 此篇訪談翻譯僅作為個人練習。
-categories: 一周年採訪 翻譯 COROCORO
+categories: [一周年採訪, 翻譯, COROCORO]
 title: COROCORO一周年採訪：Giga
+date: "2022/05/09"
 ---
 <br><br><br>
 {% include info.html text="※此篇是以郵件通信的訪談所構成。" %}

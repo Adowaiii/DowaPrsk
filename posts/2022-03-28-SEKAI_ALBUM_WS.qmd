@@ -2,8 +2,9 @@
 toc: false
 layout: post
 description: WS ver. SEKAI ALBUM(V家曲翻唱專輯)開箱
-categories: 開箱
+categories: [開箱]
 title: 開箱：SEKAI ALBUM WS ver.
+date: "2022/03/28"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等了一個月終於來了～做個簡單感想！
