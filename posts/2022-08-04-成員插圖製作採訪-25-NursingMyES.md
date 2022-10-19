@@ -1,0 +1,84 @@
+---
+toc: true
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n74ca748e464e | 此篇訪談翻譯僅作為個人練習。
+categories: 官方部落格採訪 插圖製作 翻譯 ColofulPalette 
+title: 成員插圖製作採訪：Nursing My ES招募
+---
+
+
+<div  id="team-info" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+	<p style="text-align:center;font-weight:bold;">團隊介紹</p>
+	<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+		<tr style="border:none;background-color:transparent;">
+			<th style="width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+			<td style="border:none;">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+		<tr style="border:none;background-color:transparent;background-color:transparent;">
+				<th style="border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+				<td style="border:none;">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+	</table>
+</div>
+
+
+### 概念／構圖
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——「Nursing my ES招募」特訓後的插圖使用了醫院和病房等場所呢。請問是如何決定這次活動的概念的？</blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在這次活動故事中，主角まふゆ和她母親之間的關係描述是主要元素之一，所以這次在概念上想讓這個要素可以留下深刻的印象。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從迄今為止的故事中所描繪的「想成為護士的まふゆ」和「希望女兒成為醫生的母親」，雙方的想法中汲取靈感，我們選用了醫院和病房等場所，並將和這些場所相關的要素放了進去。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;到目前為止，<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>經常在插畫中表現出平時淡然的表情，但這次她表現出了扭曲的面部表情。這可能是她向母親展示的情感中的深層部分也說不定。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>的構圖是在和まふゆ同一家醫院的自動扶梯上。通過畫出不知道朝向何方的自動手扶梯和不知道指向哪裡的資訊版，是想表達出她現在仍然不穩定、不知道要往哪裡前進的現況。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一次出現在「空無一人的世界」中的<code style="background-color:#FFEE11"><span style="color:black;font-weight:bold;">連</span></code>獨自一人迷路了，所以感到很害怕。從整個插畫顯現出的寂寞氣氛和他的表情，我想可以看出他擁有怎麼樣的個性，以及他現在的感受。
+
+<br>
+<img src="https://assets.st-note.com/img/1656998185663-0VBvwrQAOj.png">
+<br><br>
+
+### 衣裝
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——這次的服裝結合了非常有特色的圖案以及和插畫背景共有的植物呢。這兩個要素各有什麼亮點？</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在注重適合每個人的設計的同時，使用的顏色和圖案、心形配飾、裝飾的花卉等等，都反映了他們的處境和感受。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>的服裝是根據她未來夢想的護士服設計的。漩渦狀的線條是表達了她所感受到的動搖和不安。附在服裝上的花是鐵線蓮、黑百合、勿忘我和常春藤。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>的服裝是以まふゆ的為原型，但調整成更適合瑞希的樣式。戴上用繃帶繫的緞帶，泡泡袖的形狀和袖子上的褶邊營造出瑞希的風格。瑞希的服裝搭配的是掛金燈。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11"><span style="color:black;font-weight:bold;">連</span></code>的衣服採用了和25時連的平時衣服一樣、很有特徵的衣領。為了讓衣裝更有他的風格，於是做了袖子很長、露出度較少的設計。連的服裝搭配的是豬牙花。
+
+<br>
+<img src="https://assets.st-note.com/img/1656998317067-6mAY91MDsr.png">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——這次的背景使用了許多纏繞在一起的植物，如果仔細觀察，看起來很像漩渦形狀的模樣和扭曲。請問繪製的過程是如何，最後才決定現在這個樣子呢？ </blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這一次，我們根據概念放入了許多醫院會使用的物品。此外，附在服裝上的植物也讓我們很有印象，所以在背景中到處都畫了它們，以進一步表達各自的心境和狀況。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>身處的房間，如果你仔細觀察，可以看到まふゆ平時房間裡的書桌和水族箱反映在這空間裡。可以從外面觀察的觀察窗和裝在一直延伸到まふゆ的手臂上的點滴袋裡的黑百合，這些都與她周圍的環境聯繫在一起。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>將綁有繃帶組成的緞帶的人體模型等物品結合在一起，整體想傳達出瑞希的風格。常春藤纏繞在自動手扶梯的扶手和資訊版上，看起來想要阻擋他人前行。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11"><span style="color:black;font-weight:bold;">連</span></code>雖然是出現在「空無一人的世界」中，但好像因為親近まふゆ而受到她的影響，在她的繪圖中可以看到的醫療設備和植物，也出現在他的周邊。如果將其與まふゆ的插圖進行比較，也可以看到因器具不同，表現方式也有些差異。
+
+<br>
+<img src="https://assets.st-note.com/img/1656998415203-CcXOJLkOGJ.png">
+<br><br>
+
+### 尾聲
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以活動故事中描繪的まふゆ的痛苦和困惑為中心，我們想通過表達出她們心中隱約可見的不安，來好好描繪出「現在的她們」。希望大家可以在想著她們的同時，也享受圖像中的細節。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝您一直以來對世界計畫的支持。
+  

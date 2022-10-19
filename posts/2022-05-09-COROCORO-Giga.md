@@ -1,0 +1,106 @@
+---
+toc: true
+layout: post
+description: 原文章：https://corocoro.jp/special/307868/ | 此篇訪談翻譯僅作為個人練習。
+categories: 一周年採訪 翻譯 COROCORO
+title: COROCORO一周年採訪：Giga
+---
+<br><br><br>
+{% include info.html text="※此篇是以郵件通信的訪談所構成。" %}
+<br>
+<span style="color:#ee1166">_——首先想先請您做個簡單的自我介紹……！！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;大家好我是Giga♪ 興趣是散步♪
+
+<br>
+
+<span style="color:#ee1166">_——您為世界計畫提供製作了樂曲，想聽一下您當初接到這份委託時的心境是如何！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;「欸！？<span style="font-size:12px;">我</span>嗎？」這樣。
+
+<br>
+
+<span style="color:#ee1166">_——關於您所負責的團體．角色主題曲，第一印象是什麼呢？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;第一次看到VBS的時候，在好的意義上跟其他團體不同，是一個形象不統一、充滿個性的人的組合，感受到了不可思議的魅力呢。
+
+<br>
+
+<span style="color:#ee1166">_——想知道在製作「Ready Steady」時訂的主題是什麼！歌曲的方向性又是怎麼決定的呢？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;最一開始看到Logo跟視覺圖那種pop的風格，想說來做個能炒熱氣氛的歡樂歌曲吧，但後來看了故事之後，想要做一首顯現出讓心羽（小豆澤心羽，Vivid BAD SQUAD成員之一）成長的姿態、沉靜燃燒著的火炎一般的曲子。因為是實力派街頭團體，也放了rap跟即興變奏等等比較難的部分。
+
+<br>
+
+<span style="color:#ee1166">_——有特別喜歡的歌詞嗎？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;歌詞是委託q*Left（向Giga或是八王子提供歌詞的作詞家）製作，放入了許多和故事有關的內容。「向前看齊接續在後還真無趣」（前ならえで後に続いたってつまんねえ）這句話與其說是很喜歡，不如說覺得很認同的一句話呢。
+
+<br>
+
+<span style="color:#ee1166">_——這個問題可能跟上述的問題相似有點不好意思，不過想請教您有沒有認為「這裡必聽」的地方呢！能跟我們分享像是特別點、或是有特別在乎的一些細節也非常感謝！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;女生唱歌非常厲害所以分配旋律、男生聲音非常有特徵所以分配rap，用這樣的想法大致上分配了歌詞擔當。前面主歌、「早く夜よ明けて」開始那段的部分，男聲女聲相呼應我覺得很成功。選擇讓未來唱rap的部份是非常難但很堅持做到的部分。
+
+<br>
+
+<span style="color:#ee1166">_——製作日期大約是多久呢？相較之下算是難產，還是一路順暢……等等，想請您分享製作的難度大概在哪裡呢……！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;看了一下音源的日期，做完最初的Demo大概是在2月6日，完成的音源日期是7月11日……。算是難產的……。
+
+<br>
+
+<span style="color:#ee1166">_——準備實裝上遊戲的樂曲，第一次看到的時候的感想是？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;為歌唱團體寫歌是我的夢想，所以當我看到邊唱邊跳的MV時真的很感動。
+
+<br>
+
+<span style="color:#ee1166">_——在遊戲實裝後，有獲得什麼樣的反響呢？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;由於不是一首很激昂的曲子，能不能被接受有稍微擔心了一下，但最後獲得很多讚美的聲音安心下來了。也出現「我最喜歡這個團體！」這樣的聲音，不自覺產生一種家長的情感，跟著開心了起來。
+
+<br>
+
+<span style="color:#ee1166">_——喜歡這首曲子的粉絲非常地多，想請你跟這些粉絲說幾句話！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;到了一周年的現在，還有許多人聽「Ready Steady」、或是在遊戲裡遊玩這首樂曲，我感到非常開心。其他還有Vocaloid跟其他人的翻唱版本，也歡迎大家去聽聽看。
+
+<br>
+
+<span style="color:#ee1166">_——好的那麼從這裡，想跟Giga老師進行「有關於V家P主的全面疑問｣的QA環節。我想COROCORO的讀者裡應該也有很多將來想要從事V家P主的少年少女們，我想請您回答可能會幫助到他們的問題。首先......您成為P主的契機是！？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;高中的時候自己身邊niconico動畫正在流行，然後開始聽起了Vocaloid。那時自己也開始想要讓Vocaloid唱起歌來！於是第一首曲子就是用巡音流歌製作Vocalod的cover。然後也開始想要製作自己的曲子、開始投稿原創樂曲……就到了現在♪
+
+<br>
+
+<span style="color:#ee1166">_——為了成為P主，會需要什麼樣的技能呢？比如說能讀懂樂譜是必要的！學一項樂器會比較好！等等，想請您分享有什麼可以給孩子們當一個參考的建議呢！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;樂譜的部分因為我曾經是管樂團所以會讀，但我自己製作的曲子是不需要的。如果會彈鋼琴或吉他的話關於和弦的知識會增加，對作曲會非常有幫助！我認為最重要的是，聽各式各樣的曲子輸入進腦子裡♪
+
+<br>
+
+<span style="color:#ee1166">_——有沒有什麼讓你深感「成為P主真是太好了！」的事情呢？_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;我從以前不管做什麼事都很沒自信，很不會表達自己。但是，知道Vocaloid、開始製作Vocaloid曲子後很多人都聽了我的曲子，然後又繼續製作。因為獲得了很多正面的留言和迴響，讓我又更認可了自己一點。
+
+<br>
+
+<span style="color:#ee1166">_——面對以成為P主為目標的青少年們，想請您作為前輩為他們加油打氣！_</span>
+
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;加油加油 ♪ 持續努力才是最重要的 ♪
+
+<br>
+
+<span style="color:#ee1166">_——最後，世界計畫也迎來了一周年了！希望老師能給予一些祝福的話……！_</span>
+
+<code><span style="color:#ee1166">Giga</span></code>&nbsp;&nbsp;Vocaloid+新角色這樣新嘗試的遊戲，最一開始是「不知道會怎樣？」的想法。但是像現在這樣迎來1周年、很多的人都玩得很開心，現在很放心了呢♪　非常恭喜！
+
+<br>
+
+<span style="color:#ee1166">_——非常感謝您參與這次的訪談！！_</span>
+
+___——————————（完）——————————___
+
+※原文共2310字

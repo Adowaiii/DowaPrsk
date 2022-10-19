@@ -1,0 +1,83 @@
+---
+toc: true
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n1f37a4b654a8 | 此篇訪談翻譯僅作為個人練習。
+categories: 官方部落格採訪 插圖製作 翻譯 ColofulPalette 
+title: 成員插圖製作採訪：沈みゆくadolescence招募
+---
+
+
+<div  id="team-info" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+	<p style="text-align:center;font-weight:bold;">團隊介紹</p>
+	<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+		<tr style="border:none;background-color:transparent;">
+			<th style="width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+			<td style="border:none;">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+		<tr style="border:none;background-color:transparent;background-color:transparent;">
+				<th style="border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+				<td style="border:none;">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+	</table>
+</div>
+
+### 概念／構圖
+<br>
+<blockquote style="color:#4455dd;font-weight:bold;"> ——「沈みゆくadolescence招募」特訓後的插畫與平時的LN有著不同的氛圍。這次的概念是怎麼決定的呢？？ </blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在這次的活動故事中，咲希面對了她在醫院時的痛苦回憶。想著如何表達她的痛苦，最後決定將象徵那個時代的物品們散落在畫中。此外，還使用一種沒有現實感的神秘色調表達了她的感受。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>和各種讓人想起她在醫院的時光的物品一起浸泡在充滿水的浴缸裡。源源不斷的水，是聯想自和一種似乎看不到盡頭的疾病奮戰時所感受到的痛苦。也許是因為她正在回憶當時的記憶，咲希也流露出了一種從未見過的表情。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>從水中拿起LN四名成員的合照。整體雖然圍繞著一種寂寞的氣氛，但其中可以感受到一絲溫柔的色調，可能是體現出當時一歌想要貼近咲希的心情的想法。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>饒有興趣地看著音樂課本，輕聲哼著咲希在國中時錯過的曲子。和一歌與咲希的插圖相比，給人的印象稍微明亮一些。希望大家能從整體氛圍感受到連「當時沒能做的事，從今以後一起去填補吧」，這樣積極的思考方式。 
+
+<br>
+<img src="https://assets.st-note.com/img/1661841523050-N4HKUjVmkM.png">
+<br><br>
+
+### 服裝
+<br>
+<blockquote style="color:#4455dd;font-weight:bold;"> ——這次的服裝偏向深暗色調呢。是經過怎樣的構想流程才決定了這次的設計呢？ </blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就像構圖和概念一樣，這次也想用她的服裝來表達咲希的苦惱。這個概念是根據這期活動的故事、歌曲和歌詞，還有咲希住院時期的記憶等等彙整起來的。以LN來說罕見地融入灰暗的元素。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>的服裝乍看之下是很普通的外型，但袖子的剪裁和衣服不自然的層次感表達了她當時的不安情緒。蜘蛛網圖案代表當時她在醫院無法離開、無法自由移動的樣子。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>的襯衫、裙子、吊帶等服裝元素與她平時的團體服裝類似，卻給人一種不完整和黑暗的印象。這反映了當時咲希缺席，所以Leo/need無法開始的情況。襯衫衣襟上的五條線是五線譜的形象，也象徵了由於沒有音符而無法開始演奏的樂譜。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;透過使用連帽衫並融入格子紋，創造了一種具有<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>獨有的頑皮氣息的設計。身上佩戴的配飾反映了咲希住院時的狀態和感受。 
+
+<br>
+<img src="https://assets.st-note.com/img/1661841600079-kH5JO6GegB.png">
+<br><br>
+
+### 背景 
+<br>
+<blockquote style="color:#4455dd;font-weight:bold;"> ——這次在背景中繪製了很多物品呢。有哪些是值得注意的亮點呢？ </blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在這次的插圖中都有水的出現，但這些水其實和咲希插圖中浴缸中累積的水是一樣的。浴缸的水出現在一歌和連所在的地方，或許是受到了想要貼近她的心情的渴望而產生的影響。作為表達咲希感情的重要元素，這次相當重視水的質感進行繪製。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>周圍的物品代表了當時的她必須做的事情，以及即使她想做也做不到的事情。另外，為了和那個時候難忘的記憶聯繫起來，水也有意識地表現出一種混濁泥擰、難以脫身的質感。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可能是因為想貼近咲希的感情，<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>的插圖反映了咲希在醫院時的狀態。只有一張床墊的床和覆蓋著蜘蛛網的天花板，空蕩蕩的房間與當時咲希房間的狀態連繫在一起。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>躺在學校教室的桌子上。國中學生用的課本散落在各處。或許是反映了連對LN成員們的關係，躺著的桌子數量和網上的星星數量都是四個。 
+
+<br>
+<img src="https://assets.st-note.com/img/1661841669613-z34P7zDcfo.png">
+<br><br>
+
+### 最後
+<br>
+<blockquote style="color:#4455dd;font-weight:bold;"> ——請告訴我們您在繪製此插圖時特別看重什麼。 </blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我想以咲希感受到的苦惱為中心，仔細地描繪他們的心情。LN的成員們平常受表現出明亮清新的魅力，希望大家會在這次的插圖中發現新的魅力。即使眼前面對一道高牆、仍然持續前進的她們，希望能和我們一起默默守護她們繼續成長。
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝您一直以來對世界計畫的支持。

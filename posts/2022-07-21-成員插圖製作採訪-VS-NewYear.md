@@ -1,0 +1,103 @@
+---
+toc: true
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n349420d8edd9 | 此篇訪談翻譯僅作為個人練習。
+categories: 官方部落格採訪 插圖製作 翻譯 ColofulPalette 
+title: 成員插圖製作採訪：春想う、宵の一刻招募
+---
+
+
+<div  id="team-info" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+	<p style="text-align:center;font-weight:bold;">團隊介紹</p>
+	<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+		<tr style="border:none;background-color:transparent;">
+			<th style="width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+			<td style="border:none;">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+		<tr style="border:none;background-color:transparent;background-color:transparent;">
+				<th style="border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+				<td style="border:none;">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+	</table>
+</div>
+
+
+  
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;"> ——「春想う、宵の一刻招募」特訓後的插畫，構圖雖然相近但每一幅都有獨特的方式來呈現櫻花呢。請問如何決定這次的概念的呢？</blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這一次正如活動名稱「世界的櫻花，連結的意念（セカイの桜、つながる想い）」提到的，插圖也以「櫻花」為主題。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虛擬歌手在各個世界尋找「櫻花」。在故事中雖然沒找到，但我們很想**描繪出屬於每個世界的櫻花**，首先先畫出未來的草稿。
+<br>
+<figure>
+<img src="https://assets.st-note.com/img/1651059051842-uxaZ3ERzlH.jpg">
+<figcaption style="font-size:12;text-align:center;color:grey;">「風中飄揚的花瓣中」  早期草稿</figcaption>
+</figure>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這次是來自25時世界的<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>，所以雖然主題是櫻花，卻不是藍天下陽光明媚的櫻花，而是選擇描繪「夜櫻」來傳達25時的風格。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「空無一人的世界」中沒有開花的櫻花倒映在水面上，表達了與其他世界的聯繫。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VBS的<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>則是用「塗鴉」畫了櫻花。這是因為他在故事中無法讓其他人看到櫻花，所以自己在「街頭的世界」中創作的意象。或許正因為如此，他的神色也略顯驕傲。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;為了表達LN的世界觀，從「星星」這個無比重要的主題獲得靈感，LN的<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>將「星空」想像成一簇又一簇的櫻花。因此，場景也選擇了夜晚的學校。希望大家看這張畫時能感受到“美麗、平靜、百看不厭”。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;為了體現WS特有的活潑感，WS的<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>將「氣球」當作櫻花，並且作出「作為團長進行謝幕的場景」的意象來表現KAITO自身的帥氣。此外，透過燈光效果表現出櫻花的枝幹，這樣的表現手法是只能在舞台上才能看到的。
+
+<br>
+<img src="https://assets.st-note.com/img/1651061586717-hLitVqLUqy.jpg">
+<br><br>
+
+### 服裝
+<br>
+<blockquote style="font-weight:bold;"> ——服裝上散佈著「櫻花」，是為了貼合概念的設計呢。各套服裝都有什麼亮點呢？</blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**我們不是單純地按照概念全部畫了「和風服裝」，而是將櫻花主題、和風配件融入其中的同時，將各個團體和角色的特徵和魅力傳達出來。**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>採用了和服來搭配鏡面上描繪的夜櫻的氣氛，並入較多和式要素。到目前為止偏向裙裝的服裝較多，所以這次稍微改變印象，換成了褲裝風格，同時也結合褶邊和蕾絲，塑造25未來的風格。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>是以「淘氣」為主題設計。因為他平常給人積極的印象，所以採用了和櫻花、和風也很搭的的絲卡將（※日本一種具有和風圖案的夾克）。我們在設計服裝的同時也需要設計髮型，這次在不讓連看起來太幼稚的範圍內稍微遊玩了一下。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>的服裝之所以選擇「制服」，是因為想創造更符合LN的風格的服裝。基於這個原因，也讓她戴了星形髮飾。襯衫的領子、外套的袖子和背面也加入了櫻花圖案和造型，所以希望大家在3DMV裡好好享受服裝上的細節。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>為了表達大人般的氛圍選擇了中國風的設計，並以光鮮亮麗的色彩彙整起來。強調色使用粉紅，並堅持開衩和內袖的長度，增添了性感的印象。為了不破壞WS的KAITO本身的風格，也融入了肩披風的設計。
+
+<br>
+<img src="https://assets.st-note.com/img/1651061647672-REDSLBH61j.jpg">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="font-weight:bold;"> ——我認為這次的插畫中背景的美得角色更加突出。在背景完成前是經過了哪些流程呢？</blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**在清楚地表現角色的同時，畫出讓人留下深刻印象的大主題「櫻花」，有意識地將每張插圖作為一張完整的單幅畫來製作。**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;起初，<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>的夜櫻是通過將聚光燈照射在櫻花上使其看起來更加鮮豔，使用更加鮮明的色彩完成的。但為了更加體現從25時的未來的氛圍中傳達出的「櫻花的寧靜」，把水面調暗、增加了月光的亮度，而變成了現在的樣子。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的櫻花塗鴉，是透過聯想賞櫻而採用「PARTY」的字樣。如果你仔細看的話，可能還會看到一個代表“1.5週年”的設計。歡迎大家找找看。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，一開始並沒有畫左右建築物的陰影，後來為了營造VBS獨有風格、小路後巷的感覺而追加上去了。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>的星空櫻花因為在教室外，所以構圖是和角色本身有一點距離。為了讓流歌和櫻花能對視彼此，我們也相當重視前後的平衡感。桌椅以不過於礙眼的程度進行配置，櫻花的枝幹的紋理不刻意畫出，而用剪影表現出來，給畫面增添了深度。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>的氣球櫻花為了強調WS的世界觀，承襲劇情和區域背景中使用的氣球。起初WS的舞台後方熟悉的大螢幕是有點亮的，後來為了要凸顯舞台上的氣球和燈光，將舞台後方的照明全都關掉，營造一種表演終幕的感覺。
+
+<br>
+<img src="https://assets.st-note.com/img/1651061692540-ful30W5jlv.jpg">
+<br><br>
+
+### 尾聲
+<br>
+<blockquote style="font-weight:bold;"> ——請告訴我們您們在繪製此插圖時特別重視了哪些地方。</blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這一次，**我們很重視各個世界的虛擬歌手的魅力與符合其世界觀的「櫻花」結合起來。**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，我們想透過用與去年4月舉行的「與妳相遇的櫻花道招募」不同的角度描繪櫻花，堅持製作嶄新又少見的繪圖，從而帶來新的快樂和樂趣。
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;世界計畫能夠迎接1.5 週年，都要感謝一直支持我們的每一個人。希望各位在未來也持續支持我們。
+
+<br>
+<img src="https://assets.st-note.com/img/1651061762105-oSCC63vtqS.jpg">

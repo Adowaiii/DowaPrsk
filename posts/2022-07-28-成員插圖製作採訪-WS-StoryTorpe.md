@@ -1,0 +1,84 @@
+---
+toc: true
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n1caaec219d97 | 此篇訪談翻譯僅作為個人練習。
+categories: 官方部落格採訪 插圖製作 翻譯 ColofulPalette 
+title: 成員插圖製作採訪：とびだせ絵本の役者達招募
+---
+
+
+<div  id="team-info" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+	<p style="text-align:center;font-weight:bold;">團隊介紹</p>
+	<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+		<tr style="border:none;background-color:transparent;">
+			<th style="width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+			<td style="border:none;">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+		<tr style="border:none;background-color:transparent;background-color:transparent;">
+				<th style="border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+				<td style="border:none;">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+	</table>
+</div>
+
+
+### 概念／構圖
+<br>
+<blockquote style="color:#ff9900;font-weight:bold;"> ——「とびだせ絵本の役者達招募」特訓後的每張插畫都有不同的風味呢。是如何決定這次的概念的呢？ </blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次活動故事的主人公<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>是以活動故事中描繪的「彈鋼琴的Torpe」故事為概念的。為了表現出存在於故事中的Torpe，選擇了在書本上的構圖。與平時不同的平靜表情，可能是因為他對Torpe的理解而展現的演技。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33DD99;font-weight:bold;">寧寧</span></code>的也是以「彈鋼琴的Torpe」為藍本，以不論何時都享受著音樂的四人的形象繪製的。故事中人物的這個概念與司相同，但使用不同種風格、描繪「跳脫出現實的繪本」的質感，從不同的角度表達了充滿WS風格的快樂氛圍。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>不像司、寧寧和えむ那樣被描繪成「故事的角色」，而是從他在WS中作為「導演」的角色做聯想，以「敘述者」為概念進行描繪的。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;描繪的是他在閱讀大量的書本時，乘坐一輛馬車搖晃著前往某個地方的樣子。可能在各地將他們的故事述說給大眾也說不定。
+
+<br>
+<img src="https://assets.st-note.com/img/1653029269663-mdDUAOiZiU.jpg">
+<br><br>
+
+### 服裝
+<br>
+<blockquote style="color:#ff9900;font-weight:bold;"> ——這次服裝與平常WS的風格不同，給人一種略顯平靜的印象。是如何設計的呢？ </blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從故事的歷史背景，聯想出「懷舊感」和「英倫風」這兩個關鍵詞，最後做出融入格子花紋的衣裝。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>的主題是「Torpe」。雖然跟類一樣是較正式的服裝，但通過改變大衣的穿著方式來營造出輪廓的差異，表現出角色的個性。大衣的襯裡是以他在故事中多次仰望的「夜空」為形象設計的。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33DD99;font-weight:bold;">寧寧</span></code>這次以「城市中的新聞記者」的形象畫了新的表情。平時她裙子款式的服裝居多，但這次選用了褲裝。為了表現出一直走來走去的活動性，放入作為小道具的斜掛包包。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>並不是繪本故事角色，而是像概念一樣是以「敘述者」的形象設計的。為了做出一套適合類的服裝而選用一件外觀質感上乘、顯露出高級感的長外套。放在胸前的懷錶凸顯更多「敘述者」的形象。
+
+<br><br>
+
+### 背景
+<br>
+<blockquote style="color:#ff9900;font-weight:bold;"> ——這次的插圖各有不同的風格，不過這次背景的亮點是什麼呢</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>的插圖中點綴著許多跟司本人、WS和「彈鋼琴的Torpe」相關的主題和物品。例如，鋼琴本身上面有以活動故事中えむ、未來等人所扮演的角色為主題的圖案。還有其他的東西，也歡迎大家仔細看看，找出可以作出聯想的物品。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#33DD99;font-weight:bold;">寧寧</span></code>的背景是「圖書館裡的彈出式書籍」的形象。有一個小設定是這個地方和えむ插圖中繪製的背景是同一個圖書館……。打開的頁面是「最後一頁」，靈感是來自「彈鋼琴的Torpe」的結尾。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>插圖描繪的風景，起初是比現在更具有城市感的街道。後來搭配故事中的時代背景描繪了「湖畔」，切換成更有鄉村的景象，貼合這次活動故事的風格。為了更體現類的個性，也加上諸如貼在書本上的便籤和筆記等細節。
+
+<br>
+<img src="https://assets.st-note.com/img/1653029354924-StgM8oMjAC.jpg">
+<br><br>
+
+<img src="https://assets.st-note.com/img/1653029368760-T2kLxzryDQ.jpg">
+
+ <br><br>
+
+### 尾聲
+<br>
+<blockquote style="color:#ff9900;font-weight:bold;"> ——請告訴我們這次在繪製此插圖時有哪些特別重視的地方。 </blockquote>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在這次活動故事中，司挑戰了跟以往不同的角色。平時他們明亮華麗風格的插圖和服裝居多，所以我們很珍惜這次透過以「彈鋼琴的Torpe」為主軸的機會，來描繪出他們全新的魅力。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正如在[第一次成員插畫製作採訪](https://www.blogger.com/blog/post/edit/6111431881530119179/8094035769497256833#)中提到的，主題和構圖經常是從活動的場景和音樂中進行發展的。如果跟據活動故事再次查看插圖的話，可能還會發現一些新的東西也說不定。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝您一直以來對世界計畫的支持。

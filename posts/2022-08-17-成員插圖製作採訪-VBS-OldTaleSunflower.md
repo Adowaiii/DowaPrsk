@@ -1,0 +1,91 @@
+---
+toc: true
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n8d399876ad30 | 此篇訪談翻譯僅作為個人練習。
+categories: 官方部落格採訪 插圖製作 翻譯 ColofulPalette 
+title: 成員插圖製作採訪：あの日の光を追いかけて招募
+---
+
+
+<div  id="team-info" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+	<p style="text-align:center;font-weight:bold;">團隊介紹</p>
+	<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+		<tr style="border:none;background-color:transparent;">
+			<th style="width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+			<td style="border:none;">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+		<tr style="border:none;background-color:transparent;background-color:transparent;">
+				<th style="border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+				<td style="border:none;">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+		</tr>
+	</table>
+</div>
+
+
+### 概念／構圖
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——「あの日の光を追いかけて招募」特訓後的共通點都有向日葵在畫裡面呢。這次的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;回顧杏的童年記憶是這期的活動故事中很重要的元素。因此，這次從這個元素中將「懷舊」和「溫暖」等關鍵詞聯繫起來，並由此決定了概念和物品要素。 此外，和迄今為止在vbs插圖中常見的城市街景不同，場景是選擇了有懷舊感和溫度感的鄉村小鎮。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>的插圖是站在向日葵花田裡，身後的雙手拿著一朵向日葵的構圖。特訓前的插畫是杏小時候哭泣的場景。另一方面，在特訓後的插畫中則是她長大後的身姿、展露耀眼的笑容。笑容略帶靦腆很可能是因為，她是對著珍視她從小到大的成長之人綻放的。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code>的插圖描繪了他坐在城市的一個角落，凝視著一朵向日葵。他從各種花材中挑選了一株向日葵，並直視著它。從他眼中看見的平靜的決心，是因為他看到了自己選擇的「夢想」和向日葵重疊在一起。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>在鄉間小鎮的花店裡採摘各種鮮花的同時，看著手中的向日葵，臉上露出溫柔的表情。這是因為鈴很重視VBS成員在他們的插圖中拿著的向日葵。 
+
+<br>
+<img src="https://assets.st-note.com/img/1660718416956-vpu1LwuAuB.png?width=800">
+<br><br>
+  
+
+### 服裝
+
+  
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——這套衣服與平常VBS的風格略有不同，給人一種溫柔的印象。是經過怎樣的構想流程才決定了這次的設計呢？</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在保留了VBS風格的配飾、小物件和鞋子的設計的同時，這次選擇製作給人整體簡單而樸實的印象的服裝。 
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>的是想讓她擁有「少女氣質」的服裝，所以選擇了一頂草帽和蓬鬆的褶邊。杏平時穿的褲子款式較多，但這次是以連衣裙為主要基底進行設計的。希望大家能感受到杏的新魅力。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code>是在符合杏的世界觀的同時，設計出適合他的服裝。服裝造型雖然簡單，為了符合喜歡時尚搭配的彰人的風格，也放入了在腰間繫上圍巾、手指上戴上戒指等等的設計。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>是以杏的服裝為基礎，表達出屬於鈴的「少女氣質」的設計。使用了船夫帽、肩部的褶邊，還有裙子的長度等等表現出純真的可愛感，服裝也給人一種不同於杏的活潑印象。 
+
+  
+<br>
+<img src="https://assets.st-note.com/img/1660718516820-PAelt46aXd.png?width=800">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——背景中有許多向日葵和其他植物。有哪些是值得注意的亮點呢？</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;整套插畫的概念包含了有「懷舊」和「溫暖」等等關鍵詞。所以，為了能讓觀看的人感受到這些元素，我們調整了場景氣氛和背景顏色。 
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>的插圖描繪了太陽開始西下、傍晚左右的向日葵花田。通過描繪向日葵生氣勃勃的外表、和陽光照射到閃閃發光的模樣，我們讓向日葵綻放出不輸於杏的笑容的光彩。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code>的插圖為了能使他選擇的向日葵脫穎而出，周圍有「香豌豆」和「長春花」等等各種花卉圍繞。為了配合彰人的表情，陽光用較為柔和、讓人感受到溫暖的方式表現。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>的插圖中，她的周圍環繞著和她很搭的暖色系、色彩明亮的鮮花。鈴從店內排列的眾多花瓶中挑選了「康乃馨」和「丁香花」等花類。 
+
+ <br> 
+<img src="https://assets.st-note.com/img/1660718581748-JxeTYbo3tN.png">
+<br><br>
+
+### 尾聲
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——請告訴我們這次在繪製此插圖時有哪些特別重視的地方。</blockquote>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這次特別重視的是這期活動故事中，從杏與街道的居民之間的聯繫中可以感受到的「溫暖的氛圍」，在插圖中也能表現出來。希望各位能享受這次活動特有的柔和氛圍以及VBS成員的新的一面。
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝您一直以來對世界計畫的支持。
