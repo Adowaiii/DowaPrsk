@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: post
 description: 原文章：https://corocoro.jp/special/307868/ | 此篇訪談翻譯僅作為個人練習。
 categories: [一周年採訪, 翻譯, COROCORO]

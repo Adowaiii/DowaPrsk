@@ -9,10 +9,6 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: plurk
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme: minty
