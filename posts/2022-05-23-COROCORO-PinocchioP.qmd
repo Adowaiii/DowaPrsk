@@ -6,7 +6,13 @@ title: COROCORO一周年採訪：皮諾曹P
 date: "2022/05/23"
 ---
 <br><br><br>
-{% include info.html text="※此篇是以郵件通信的訪談所構成。" %}
+
+::: {.callout-note appearance="simple"}
+
+## 此篇是以郵件通信的訪談所構成。
+
+:::
+
 <br>
 <span style="color:#ff9900">_——首先想先請您做個簡單的自我介紹……！！_</span>
 
