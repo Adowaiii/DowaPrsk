@@ -72,7 +72,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
+      page: 10,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
@@ -151,7 +152,7 @@ Date
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="官方部落格採訪,插圖製作,翻譯,ColofulPalette" data-listing-date-sort="1665763200000" data-listing-file-modified-sort="1666258343271" data-listing-reading-time-sort="0.33" data-listing-title-sort="成員插圖製作採訪：[2周年記念] Color Festival 招募 Dream Pick" data-listing-filename-sort="2022-10-15-成員插圖製作採訪-VS-2ndAnni.qmd">
+<tr data-index="0" data-categories="官方部落格採訪,插圖製作,翻譯,ColofulPalette" data-listing-date-sort="1665763200000" data-listing-file-modified-sort="1668851322280" data-listing-reading-time-sort="0.345" data-listing-title-sort="成員插圖製作採訪：[2周年記念] Color Festival 招募 Dream Pick" data-listing-filename-sort="2022-10-15-成員插圖製作採訪-VS-2ndAnni.qmd">
 <td class="listing-title">
 <a href="./posts/2022-10-15-成員插圖製作採訪-VS-2ndAnni.html" class="title">成員插圖製作採訪：[2周年記念] Color Festival 招募 Dream Pick</a>
 </td>
@@ -301,6 +302,9 @@ Date
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
