@@ -4,8 +4,8 @@ layout: post
 categories: [雜談, 劇情感想]  
 title: 雜談：二周年FES卡片劇情感想(ミク篇)
 format: html
-date: "2022/11/19"
-draft: true
+date: "2022/11/22"
+draft: false
 ---
 
 ::: {.callout-warning appearance="simple"}
