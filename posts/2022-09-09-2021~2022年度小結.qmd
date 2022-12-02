@@ -60,10 +60,10 @@ date: "2022/09/09"
 <table style="display: block;margin-left: auto;margin-left: auto;margin-right: auto;">
 	<tr style="border:none;">
 		<td style="border:none;">
-			<img src="https://lh3.googleusercontent.com/pw/AL9nZEV6OXT26ufkYTcAmcVUPMSLDxISS9xJkkIPJ76AEQPT1zieVmRAowYRvsdZgAOxko9MqDySutaoTUYVl10psC_s0yOrPvAH3OXNqdITAZCyHAuapUX8qcBNXUcOq5SvtwCT6POwTeBvrGc7DlO9SMjnow=w965-h862-no?authuser=0" width="350">
+			<img src="https://lh3.googleusercontent.com/pw/AL9nZEV6OXT26ufkYTcAmcVUPMSLDxISS9xJkkIPJ76AEQPT1zieVmRAowYRvsdZgAOxko9MqDySutaoTUYVl10psC_s0yOrPvAH3OXNqdITAZCyHAuapUX8qcBNXUcOq5SvtwCT6POwTeBvrGc7DlO9SMjnow=w965-h862-no?authuser=0" style="width:80% !important;">
 		</td>
 		<td style="border:none;">
-			<img src="https://lh3.googleusercontent.com/pw/AL9nZEW1Zsx2-CPfLQNCNKDNQRsapLuTAloPW1bQEeAzgjmBy9xPGdlE3H92Co4Dphsy18wd-6CuCkYOkMyL5CgaR4wXgLZqx2TiKiJP8EO8qBX_GXCnLaOcihotLAbqqhkf4h1yzglGoO76PxWimLrS0AXujQ=w963-h862-no?authuser=0" width="350">
+			<img src="https://lh3.googleusercontent.com/pw/AL9nZEW1Zsx2-CPfLQNCNKDNQRsapLuTAloPW1bQEeAzgjmBy9xPGdlE3H92Co4Dphsy18wd-6CuCkYOkMyL5CgaR4wXgLZqx2TiKiJP8EO8qBX_GXCnLaOcihotLAbqqhkf4h1yzglGoO76PxWimLrS0AXujQ=w963-h862-no?authuser=0" style="width:80% !important;">
 		</td>
 	</tr>
 </table>

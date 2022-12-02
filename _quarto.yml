@@ -9,6 +9,22 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: link-45deg
+        text: FanSite
+        href: https://adowaiii.github.io/pjsk_List/
+      - text: Official
+        menu:
+          - icon: globe
+            text: Site
+            href: https://pjsekai.sega.jp/
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/pj_sekai
+          - icon: youtube
+            text: Youtube
+            href: https://www.youtube.com/channel/UCdMGYXL38w6htx6Yf9YJa-w
+        
+
 format:
   html:
     theme: minty

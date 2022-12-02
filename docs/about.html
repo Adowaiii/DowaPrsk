@@ -82,6 +82,29 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page">About</a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://adowaiii.github.io/pjsk_List/">FanSite</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-official" role="button" data-bs-toggle="dropdown" aria-expanded="false">Official</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-official">    
+        <li>
+    <a class="dropdown-item" href="https://twitter.com/Julia_11010"><i class="bi bi-globe" role="img">
+</i> 
+ <span class="dropdown-text">Site</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://twitter.com/Julia_11010"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="dropdown-text">Twitter</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://twitter.com/Julia_11010"><i class="bi bi-youtube" role="img">
+</i> 
+ <span class="dropdown-text">Youtube</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -114,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
   </a>
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>日服玩家 / 繁中服休閒<br> 主推ワンダショ和天馬兄妹的DD<br> <a href="https://adowao.notion.site/d6eb22acfd66429d8e969fe8ad4e9257?v=8b5915847a214f82b9b796eefbaba37f">遊戲外企劃整理</a><br> <a href="https://docs.google.com/spreadsheets/d/1TTRnkBuP-AUVLM6C5ooTgbZRRH7nSroSmmg9QkmNT3I/edit?usp=sharing">簡易樂曲資訊</a></p>
+<p>日服玩家 / 繁中服休閒<br> 主推ワンダショ和天馬兄妹的DD<br></p>
 
 
 </main></div>
@@ -211,6 +234,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return popup.innerHTML;
     });
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
