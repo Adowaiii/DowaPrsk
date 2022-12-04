@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: 原文章：https://media.colorfulpalette.co.jp/n/n120951ae0e98 | 此篇訪談翻譯僅作為個人練習。
-categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette] 
+categories: [官方部落格採訪, 譜面製作, 翻譯, ColofulPalette] 
 title: 譜面製作採訪
 format: html
 date: "2022/08/11"
