@@ -1,0 +1,34 @@
+/* css styles */
+
+
+img {
+    width: 60vw !important;
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.about-contents a {
+   text-decoration: none;
+   position: relative;
+   color: #5a5a5a;
+ }
+ 
+ .about-contents a:hover::before {
+   bottom: 0;
+   height: 100%;
+ }
+ 
+ .about-contents a::before {
+   content: '';
+   background-color: #B5EAEA;
+   position: absolute;
+   z-index: -1;
+   transition: all .3s ease-in-out;
+ }
+ 
+ .about-links :hover{
+   background-color: #B5EAEA;
+   color: #5a5a5a;
+   height: 100%;
+ }
