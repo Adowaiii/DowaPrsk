@@ -11,8 +11,10 @@
             "id": "179a1097eaa45139",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "diagram.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "diagram.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "diagram.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "diagram.png"
+              }
             }
           }
         ]
@@ -128,6 +134,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "179a1097eaa45139",
-  "lastOpenFiles": []
+  "active": "e3ed2b59b111a9db",
+  "lastOpenFiles": [
+    "README.md",
+    "diagram.png",
+    "chart-preview.png"
+  ]
 }
