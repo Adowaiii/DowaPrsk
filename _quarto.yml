@@ -7,6 +7,7 @@ website:
   title: "ドワ*的世界"
   favicon: favicon.ico
   navbar:
+    background: primary
     right:
       - about.qmd
       - icon: link-45deg
@@ -27,7 +28,9 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: 
+      light: minty
+      dark: [solar, theme-dark.scss]
     css: styles.css
 
 

@@ -13,7 +13,7 @@ date: "2022/12/19"
 
 :::
 
-<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
 <p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
 <table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
 <tr style="border:none;background-color:transparent;">
@@ -68,7 +68,7 @@ date: "2022/12/19"
 <img src="https://assets.st-note.com/img/1671439845726-RqyEqyl042.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
 <br>
 
-## 背景
+### 背景
 <br>
 <blockquote style="color:#88dd44;font-weight:bold;"> ——這次的插圖背景中有描繪了許多道具和物品呢。有哪些地方是該注意的亮點？ </blockquote>
 <br> 
@@ -87,7 +87,7 @@ date: "2022/12/19"
 <br>
 
 
-## 最後 
+### 最後 
 <br>
 <blockquote style="color:#88dd44;font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
 <br>

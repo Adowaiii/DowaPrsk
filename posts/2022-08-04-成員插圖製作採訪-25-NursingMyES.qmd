@@ -8,7 +8,7 @@ format: html
 date: "2022/08/04"
 ---
 
-<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
 <p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
 <table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
 <tr style="border:none;background-color:transparent;">
