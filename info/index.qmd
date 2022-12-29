@@ -1,0 +1,32 @@
+---
+title: "プロセカ資訊目錄"
+format:
+  html:
+    toc: true
+
+---
+::: {.callout-important collapse="true"}
+This is a fanmade website maintained only by myself for research purpose. It does not affiliate with any organisation or company. All credits go to including but not limited to Sega, Colorful Palette and Crypton. 
+:::
+
+
+## 遊戲關聯企畫
+<div class="menu">
+<ul>
+    <li>[推特](./projects/twitter.qmd)</li>
+    <li>[YouTube](./projects/youtube.qmd)</li>
+    <li>[合作活動](./projects/collab.qmd)</li>
+    <li>[賽事](./projects/championships.qmd)</li>
+    <li>[慶祝](./projects/celebrations.qmd)</li>
+    <li>[現場Live](./projects/lives.qmd)</li>
+    <li>[實體活動](./projects/IRLevent.qmd)</li>
+    <li>[出版品](./projects/publication.qmd)</li>
+</ul>
+</div>
+
+## 樂曲資訊
+<div class="menu">
+<ul>
+    <li>[簡易樂曲資訊](./songs/info.qmd)</li>
+</ul>
+</div>

@@ -1,0 +1,25 @@
+---
+title: 配信
+execute:
+  echo: false
+jupyter: python3
+catagories: [紀念]
+---
+
+<button type="button" class="collapsible">2021暑期配信</button>
+<div class="coll-content">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/U_s0/status/1558936503950131207?s=20&t=T7ith7bpNgy82kcLyJfY6w"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/omrice4869/status/1557716900183949313?s=20&t=o0wBuUubbNjOCKbf_UgM4g"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+</div>
+
+<button type="button" class="collapsible">2022正月配信</button>
+<div class="coll-content">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/U_s0/status/1477655271057260550?s=20&t=pbZNLFrvkL7RWYw9G-UfSQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1477971250764865536?s=20&t=y8PtQY6sRGSdJa0t_CsIwQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/Btmr_Aiko/status/1477974379862818821?s=20&t=6x-b0CcUSfOt4wFZPYwD9A"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+</div>

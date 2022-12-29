@@ -1,0 +1,39 @@
+---
+title: YouTube登録
+execute:
+  echo: false
+jupyter: python3
+catagories: [里程碑]
+---
+
+<div id="toc_container" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+</ul>
+</div>
+
+<br>
+<br>
+
+```{python}
+
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+tweets_list = []   #ユーザー数
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai YouTube 登録 記念イラスト').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'"></h6><br><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[i]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```

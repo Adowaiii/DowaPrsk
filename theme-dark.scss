@@ -1,9 +1,20 @@
 /*-- scss:defaults --*/
 // Font Colors
-h3{
+h2, h3 {
     color: #9eaeb6;
 }
 
+h1 {
+    color: #dddcb9;
+}
 .team-info {
     color: #bed3dd;
+}
+
+.content .menu ul a, #quarto-content li .menu, .link{
+    color: #bed3dd !important;
+}
+
+.content .menu ul a::before, .link::before{
+    opacity: 0.3 !important;
 }

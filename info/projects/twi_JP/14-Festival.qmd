@@ -1,0 +1,198 @@
+---
+title: 祝日(節慶)/イベント
+execute:
+  echo: false
+jupyter: python3
+format:
+  html:
+    toc: true
+catagories: [紀念]
+---
+
+<button type="button" class="collapsible">正月</button>
+<div class="coll-content">
+
+```{python}
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+
+tweets_list = []   #Twitterフォロワー
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai あけましておめでとう').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'"></h6><br><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[i]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```
+</div>
+
+<button type="button" class="collapsible">聖誕</button>
+<div class="coll-content">
+
+```{python}
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+
+tweets_list = []   #聖誕
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai #MerryChristmas -配布 -ゲーム').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'"></h6><br><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[i]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```
+</div>
+
+<button type="button" class="collapsible">Valentine</button>
+<div class="coll-content">
+
+```{python}
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+
+tweets_list = []   #Valentine
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai Happy Valentine').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'"></h6><br><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[i]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```
+</div>
+
+<button type="button" class="collapsible">White Day</button>
+<div class="coll-content">
+
+```{python}
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+
+tweets_list = []   #White Day
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai Happy White Day').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'"></h6><br><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[i]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```
+</div>
+
+<button type="button" class="collapsible">SNOW MIKU</button>
+<div class="coll-content">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1373091891806281728?s=20&t=ilAKT-jn2M3tIK3pQUG1FA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1227223353691271168?s=20&t=ilAKT-jn2M3tIK3pQUG1FA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+</div>
+
+<button type="button" class="collapsible">マジカルミライ</button>
+<div class="coll-content">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1340598300366438401?s=20&t=ilAKT-jn2M3tIK3pQUG1FA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+</div>
+
+
+
+
+<style>/* Style the button that is used to open and close the collapsible content */
+.collapsible{
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.coll-content {
+  padding: 0 12px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  border: solid 1px lightgrey;
+}
+
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+</style>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight) {
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+

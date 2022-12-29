@@ -1,0 +1,9 @@
+---
+title: "簡易樂曲資訊"
+format:
+  html:
+    toc: false
+---
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXAoYwJV9z3o8qnOJlGCOijWZDMY5oWehFeSrPXkmxNSFK5v-cCPpIyj3_YD14Px2FdQhM3W1UoLfr/pubhtml?gid=621372418&amp;single=true&amp;widget=false&amp;headers=false" style="width:115%;height:200%"></iframe>

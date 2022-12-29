@@ -10,9 +10,11 @@ website:
     background: primary
     right:
       - about.qmd
+      - text: Blog
+        href: index.qmd
       - icon: link-45deg
-        text: FanSite
-        href: https://adowaiii.github.io/pjsk_List/
+        text: "Fan Site"
+        href: ./info/index.qmd
       - text: Official
         menu:
           - icon: globe

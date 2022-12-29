@@ -25,5 +25,51 @@
       "/posts/2021-12-08-世界計畫公式視覺書.html",
       "/posts/2021-09-09-2020~2021年度小結.html"
     ]
+  },
+  {
+    "listing": "/info/projects/twi_JP.html",
+    "items": [
+      "/info/projects/twi_JP/1-4coma.html",
+      "/info/projects/twi_JP/3-LNnichijou.html",
+      "/info/projects/twi_JP/4-CPillu.html",
+      "/info/projects/twi_JP/12-NYwrite.html",
+      "/info/projects/twi_JP/13-SummerPhoto.html",
+      "/info/projects/twi_JP/2-1coma.html",
+      "/info/projects/twi_JP/14-Festival.html",
+      "/info/projects/twi_JP/15-Special.html",
+      "/info/projects/twi_JP/16-BDay&Anni.html",
+      "/info/projects/twi_JP/5-39CD.html",
+      "/info/projects/twi_JP/6-1stAnni.html",
+      "/info/projects/twi_JP/7-2ndAnni.html",
+      "/info/projects/twi_JP/10-TwiFollow.html",
+      "/info/projects/twi_JP/11-YTsub.html",
+      "/info/projects/twi_JP/8-PreReg.html",
+      "/info/projects/twi_JP/9-Player.html"
+    ]
+  },
+  {
+    "listing": "/info/projects/twi_KR.html",
+    "items": []
+  },
+  {
+    "listing": "/info/projects/youtube.html",
+    "items": [
+      "/info/projects/yt/4-25Live.html",
+      "/info/projects/yt/1-25radio.html",
+      "/info/projects/yt/14-2ndAnniPianoMedley.html",
+      "/info/projects/yt/15-2ndAnniRe.html",
+      "/info/projects/yt/9-MMJlive.html",
+      "/info/projects/yt/10-25wSub.html",
+      "/info/projects/yt/5-SummerRadio.html",
+      "/info/projects/yt/8-puciseka.html",
+      "/info/projects/yt/6-1stAnniCD.html",
+      "/info/projects/yt/16-2anniCD.html",
+      "/info/projects/yt/11-AprilFool.html",
+      "/info/projects/yt/12-SekaiStation.html",
+      "/info/projects/yt/7-VBSarchive..html",
+      "/info/projects/yt/2-AfterTalk.html",
+      "/info/projects/yt/3-StoryTheater.html",
+      "/info/projects/yt/13-KMKfes.html"
+    ]
   }
 ]

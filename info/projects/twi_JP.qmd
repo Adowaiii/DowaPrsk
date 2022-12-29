@@ -1,0 +1,17 @@
+---
+title: ""
+listing:
+  contents: twi_JP
+  type: table
+  categories: false
+  sort: [catagories asc]
+  field-display-names:
+    title: "名稱"
+    catagories: "分類"
+  sort-ui: false
+  filter-ui: false
+  fields: [title, catagories]
+  table-hover: true
+page-layout: article
+
+---

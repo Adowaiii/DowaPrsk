@@ -1,0 +1,52 @@
+---
+title: セカイの4コマ
+execute:
+  echo: false
+jupyter: python3
+catagories: ["*連載中"]
+---
+
+<div id="toc_container" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+<li><a href="#Header1">第1~10話</a></li>
+<li><a href="#Header11">第11~20話</a></li>
+<li><a href="#Header21">第21~30話</a></li>
+<li><a href="#Header31">第31~40話</a></li>
+<li><a href="#Header41">第41~50話</a></li>
+<li><a href="#Header51">第51~60話</a></li>
+<li><a href="#Header61">第61~70話</a></li>
+<li><a href="#Header71">第71~80話</a></li>
+<li><a href="#Header81">第81~90話</a></li>
+<li><a href="#Header91">第91~100話</a></li>
+<li><a href="#Header101">第101~110話</a></li>
+<li><a href="#Header111">第111~120話</a></li>
+<li><a href="#Header121">第121~130話</a></li>
+<li><a href="#Header131">第131~話</a></li></ul>
+</div>
+
+<br>
+<br>
+
+```{python}
+
+
+#!/usr/bin/env python
+# coding: utf-8
+
+
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
+from IPython.display import display, HTML
+import markdown
+
+tweets_list = []   #セカイの4コマ
+
+# Using TwitterSearchScraper to scrape data and append tweets to list
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai #セカイの4コマ').get_items()):
+    tweets_list.append(tweet.url)
+
+for i in range(len(tweets_list)):
+    display(HTML('<h6 id="Header'+str(i+1)+'">第'+str(i+1)+'話</h6><blockquote class="twitter-tweet" style="height:50px"><a href="'+tweets_list[len(tweets_list)-i-1]+'"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'))
+
+```

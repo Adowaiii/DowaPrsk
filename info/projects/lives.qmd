@@ -1,0 +1,9 @@
+---
+title: 現場live
+
+---
+
+- <button class="link" onclick="window.open('https://pjsekai.sega.jp/colorfullive/1st-link/index.html', 'blank')" type="button">1st -Link</button><button type="button">Set List</button>
+- 2nd Anniversary Special Live (CONNECT LIVE)
+- 2nd -Will
+- <button class="link" onclick="window.open('https://pjsekai.sega.jp/sekaisymphony/index.html', 'blank')" type="button">SEKAI Symphony</button>
