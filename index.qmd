@@ -8,6 +8,9 @@ listing:
   sort-ui: false
   filter-ui: false
   fields: [title, date]
+  field-display-names:
+    title: "文章名稱"
+    date: "日期"
   date-format: YY.MM.DD
   page-size: 10
 page-layout: full
