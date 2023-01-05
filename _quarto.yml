@@ -13,7 +13,7 @@ website:
       - text: Blog
         href: index.qmd
       - icon: link-45deg
-        text: "Fan Site"
+        text: "Wiki"
         href: ./info/index.qmd
       - text: Official
         menu:
