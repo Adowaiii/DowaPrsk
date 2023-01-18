@@ -30,7 +30,7 @@ import markdown
 tweets_list = []   #ユーザー数
 
 # Using TwitterSearchScraper to scrape data and append tweets to list
-for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai ユーザー 突破 #プロセカ').get_items()):
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:@pj_sekai ユーザー 突破 -https://youtu.be/IDKZDZMeJds').get_items()):
     tweets_list.append(tweet.url)
 
 for i in range(len(tweets_list)):
