@@ -7,6 +7,8 @@ format: html
 date: "2022/11/23"
 draft: false
 ---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 ::: {.callout-warning appearance="simple"}
 

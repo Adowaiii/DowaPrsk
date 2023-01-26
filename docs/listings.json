@@ -27,24 +27,14 @@
     ]
   },
   {
+    "listing": "/info/projects/twi_GB.html",
+    "items": []
+  },
+  {
     "listing": "/info/projects/twi_JP.html",
     "items": [
-      "/info/projects/twi_JP/1-4coma.html",
-      "/info/projects/twi_JP/3-LNnichijou.html",
-      "/info/projects/twi_JP/4-CPillu.html",
-      "/info/projects/twi_JP/12-NYwrite.html",
-      "/info/projects/twi_JP/13-SummerPhoto.html",
-      "/info/projects/twi_JP/2-1coma.html",
-      "/info/projects/twi_JP/14-Festival.html",
       "/info/projects/twi_JP/15-Special.html",
-      "/info/projects/twi_JP/16-BDay&Anni.html",
-      "/info/projects/twi_JP/5-39CD.html",
-      "/info/projects/twi_JP/6-1stAnni.html",
-      "/info/projects/twi_JP/7-2ndAnni.html",
-      "/info/projects/twi_JP/10-TwiFollow.html",
-      "/info/projects/twi_JP/11-YTsub.html",
-      "/info/projects/twi_JP/8-PreReg.html",
-      "/info/projects/twi_JP/9-Player.html"
+      "/info/projects/twi_JP/16-BDay&Anni.html"
     ]
   },
   {

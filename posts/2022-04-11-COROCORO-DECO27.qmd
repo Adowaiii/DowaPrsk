@@ -5,7 +5,8 @@ categories: [一周年採訪, 翻譯, COROCORO]
 title: COROCORO一周年採訪：DECO*27
 date: "2022/04/11"
 ---
-
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 <br><br>
 <span style="color:#4455dd">_——對許多粉絲來說DECO*27老師應該都很熟悉了……不過首先還是想先請您做個簡單的自我介紹……！！_</span>
 

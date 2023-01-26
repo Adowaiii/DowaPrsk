@@ -7,6 +7,8 @@ title: 雜談：2021-2022年度小結
 format: html
 date: "2022/09/09"
 ---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 <br><br><br>
 即將進入二週年，跟去年這天一樣，在迎來週年前做個小結！

@@ -94,3 +94,9 @@ img {
   z-index: -1;
   transition: all .3s ease-in-out;
 }
+
+#reading-tag {
+  background-color:#B5EAEA;
+  color: #777;
+  font-size: 8px !important;
+}

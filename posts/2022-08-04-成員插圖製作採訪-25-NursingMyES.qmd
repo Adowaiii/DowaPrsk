@@ -7,6 +7,8 @@ title: 成員插圖製作採訪：Nursing My ES招募
 format: html
 date: "2022/08/04"
 ---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 <div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
 <p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>

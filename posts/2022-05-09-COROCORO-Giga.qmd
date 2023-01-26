@@ -5,7 +5,8 @@ categories: [一周年採訪, 翻譯, COROCORO]
 title: COROCORO一周年採訪：Giga
 date: "2022/05/09"
 ---
-<br><br><br>
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 ::: {.callout-note appearance="simple"}
 

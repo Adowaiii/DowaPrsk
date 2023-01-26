@@ -6,6 +6,8 @@ title: 成員插圖製作採訪：NEON universe招募
 format: html
 date: "2022/12/04"
 ---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 ::: {.callout-warning appearance="simple"}
 

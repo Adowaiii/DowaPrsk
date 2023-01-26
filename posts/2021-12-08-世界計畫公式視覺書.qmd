@@ -6,7 +6,8 @@ categories: [開箱]
 title: 開箱：世界計畫公式視覺書
 date: "2021/12/08"
 ---
-
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在11/26開始販售的公式視覺書，我終於也拿到啦！在寫這些的同時，其實我還沒全部看完，但我實在太興奮了決定先來寫個開箱小心得。這是我第一次寫開箱文，其實我也不確定這到底算不算開箱文XD
 
 

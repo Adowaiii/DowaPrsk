@@ -111,6 +111,7 @@ format:
   <div class="tab">
   <button class="tablinks" onclick="openYear(event, '4-2021')">2021</button>
   <button class="tablinks" onclick="openYear(event, '4-2022')">2022</button>
+  <button class="tablinks" onclick="openYear(event, '4-2023')">2023</button>
   </div>
   <!-- Tab content -->
   <div id="4-2021" class="tabcontent">
@@ -119,6 +120,10 @@ format:
   <div id="4-2022" class="tabcontent">
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1479467868853084161?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
+  <div id="4-2023" class="tabcontent">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1611739436663832580?s=20&t=oDH-LLcei6nNs-JbAccGGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  </div>
+  
 </div>
 </div>
 
@@ -361,6 +366,7 @@ format:
   <div class="tab">
   <button class="tablinks" onclick="openYear(event, '18-2021')">2021</button>
   <button class="tablinks" onclick="openYear(event, '18-2022')">2022</button>
+  <button class="tablinks" onclick="openYear(event, '18-2023')">2023</button>
   </div>
   <!-- Tab content -->
   <div id="18-2021" class="tabcontent">
@@ -368,6 +374,9 @@ format:
   </div>
   <div id="18-2022" class="tabcontent">
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1486353241327783942?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  </div>
+  <div id="18-2023" class="tabcontent">
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1618624820278661121?s=20&t=oDH-LLcei6nNs-JbAccGGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
 </div>
 </div>
@@ -449,6 +458,7 @@ format:
   <div id="22-2022" class="tabcontent">
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1607390907342508034?s=20&t=ELL1cR35eavgFMk8nCoKJQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
+  
 </div>
 </div>
 

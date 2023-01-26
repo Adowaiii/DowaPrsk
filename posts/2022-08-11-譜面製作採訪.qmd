@@ -7,6 +7,8 @@ title: 譜面製作採訪
 format: html
 date: "2022/08/11"
 ---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
 
 <br><br><br>
 

@@ -5,7 +5,9 @@ categories: [一周年採訪, 翻譯, COROCORO]
 title: COROCORO一周年採訪：syudou
 date: "2022/06/06"
 ---
-<br><br><br> 
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+<br><br>
 <span style="color:#884499">_——首先，想請問一下您當初接到這份委託時的心境是如何！_</span>
 
 <code><span style="color:#884499">syudou</span></code>&nbsp;&nbsp;聽過別人說這是很大的企劃，但是因為我是從很早期就被邀請參與，反而不太能想像出實際的規模。不過，後來看到聲優們也加入氣氛變得越來越熱鬧的樣子，突然驚覺這遊戲下了重本啊！從那時開始，興奮跟期待感就突然增加了呢。
