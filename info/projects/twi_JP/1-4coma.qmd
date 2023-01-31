@@ -1,0 +1,237 @@
+---
+title: セカイの4コマ
+catagories: ["*連載中"]
+execute:
+  echo: false
+jupyter: python3
+---
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<!-- <div id="toc_container" style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+<li><a href="#Header1">第1~10話</a></li>
+<li><a href="#Header11">第11~20話</a></li>
+<li><a href="#Header21">第21~30話</a></li>
+<li><a href="#Header31">第31~40話</a></li>
+<li><a href="#Header41">第41~50話</a></li>
+<li><a href="#Header51">第51~60話</a></li>
+<li><a href="#Header61">第61~70話</a></li>
+<li><a href="#Header71">第71~80話</a></li>
+<li><a href="#Header81">第81~90話</a></li>
+<li><a href="#Header91">第91~100話</a></li>
+<li><a href="#Header101">第101~110話</a></li>
+<li><a href="#Header111">第111~120話</a></li>
+<li><a href="#Header121">第121~130話</a></li>
+<li><a href="#Header131">第131~話</a></li></ul>
+</div> -->
+
+<br>
+<br>
+
+```{python}
+
+
+#!/usr/bin/env python
+# coding: utf-8
+import os
+import pandas as pd
+import tweepy
+import requests
+from dotenv import load_dotenv
+from IPython.display import display, HTML
+
+
+# Fill these contants by yourself. 
+API_KEY = "Fw7khBxSHvIVvqLlwbSpHO3UC"
+API_SECRET = "01ZJbImX5L0oppN0MqXhgUxhzhNAFxsk0uY3W9u9cvySys1922"
+ACCESS_TOKEN_KEY = "1376511103-MfYmC3cYM6Q63JVg2qAfvZg1rdreREeYcZt3gaF"
+ACCESS_TOKEN_SECRET = "Nnyrp4Rn9QrzMTZTcUyhqg4mcpXDeCzn9Hyi8sOYiGxJv"
+BEARER_TOKEN="AAAAAAAAAAAAAAAAAAAAAKjycwEAAAAAIvGZ3a3za9GobRdxxw6jeb6v1cM%3DwrQqJNA4dVa6buJ2kL104ZYjaF8QAmU8dftrDSlm5HvXn9lfpk"
+
+
+auth = tweepy.Client(
+    BEARER_TOKEN,
+    API_KEY,
+    API_SECRET, 
+    ACCESS_TOKEN_KEY,
+    ACCESS_TOKEN_SECRET,
+    return_type = requests.Response,
+    wait_on_rate_limit=True
+)
+
+query = 'from:pj_sekai #セカイの4コマ'
+id_list=[
+1311214315727273985,
+1311504013473378304,
+1311871301510782977,
+1312229818679791616,
+1312588304248840193,
+1312950767016267778,
+1313675624498651136,
+1316212409816637442,
+1318756409828278272,
+1320923171814395905,
+1323830064006356992,
+1324184735925510146,
+1326358988896657408,
+1326721364275814406,
+1328903577549504512,
+1331432744388157440,
+1333969174335348737,
+1335418715832078340,
+1339042622975791104,
+1341580067365785602,
+1343028832786268160,
+1344116094437453826,
+1347015097554665473,
+1347377529317855232,
+1349189826734477313,
+1352450918051012609,
+1354277969116635140,
+1355357569179549696,
+1356799995073073152,
+1359336290760548360,
+1361510619179061250,
+1361873000484769793,
+1364779705337962502,
+1366591843849302018,
+1367678756102549506,
+1371295152942157828,
+1372745204994740224,
+1374919113202495493,
+1379631654931554305,
+1379631654931554305,
+1381441978882084867,
+1382167483147161602,
+1385428363204911104,
+1387965230089605122,
+1389776867268329478,
+1391226418126745604,
+1392314290904834048,
+1394125587757756419,
+1397024724589309960,
+1398111875712241664,
+1400656284894994433,
+1405359625713569794,
+1407534738357686273,
+1407896319478308864,
+1412607485211332617,
+1414422693038805003,
+1415868943684669448,
+1417318408509480963,
+1419492712059793410,
+1420218886402707458,
+1423486765084463106,
+1425291054509551617,
+1427465243974791173,
+1430364340738084868,
+1431089143346458625,
+1432538848337170444,
+1435075415974899718,
+1435803059343355917,
+1438336842953203721,
+1443048323481407491,
+1445222213381099522,
+1446671762851237889,
+1448847751488282628,
+1452833600555020289,
+1453194743781855235,
+1456456296052318223,
+1458268329932591108,
+1458993007038898176,
+1460805699273781254,
+1464066657349824521,
+1466603342365622275,
+1467690478263234560,
+1470952529592987649,
+1473851804538777600,
+1475300600183427073,
+1478569444825702402,
+1479649059216314369,
+1483658292081868800,
+1486172257252966402,
+1486534433134030848,
+1487621591924150277,
+1489077819741446149,
+1490520913535959040,
+1491607889735127043,
+1493783020830347264,
+1494144573395939332,
+1497043742507040769,
+1498855865457291268,
+1501029943563755520,
+1503931461291810818
+]
+img_list = []
+
+search_results = auth.get_tweets(id_list, 
+tweet_fields="attachments",
+expansions="attachments.media_keys", 
+media_fields=['url'])
+
+# Save data as dictionary
+tweets_dict = search_results.json() 
+
+
+# Extract "data" value from dictionary
+tweets_data = tweets_dict['includes']
+
+for i in range(len(id_list)-1): 
+  tweets_path = tweets_data['media'][i]
+  tweets_img = tweets_path['url']
+  img_list.append(tweets_img)
+
+
+for i in range(len(img_list)): 
+  display(HTML('<div class="card"><img src="'+str(img_list[i])+'"><div class="info"><p>第'+str(i+1)+'話</p><a href="'+str(img_list[i])+'" target="_blank" ><i class="material-icons">open_in_new</i></a></div></div>'))
+
+```
+<style>
+
+  @media screen and (max-width:1000px) {
+    .cell {
+       grid-template-columns:repeat(4, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:720px) {
+    .cell {
+       grid-template-columns:repeat(3, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:550px) {
+    .cell {
+       grid-template-columns:repeat(2, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:390px) {
+    .cell {
+       grid-template-columns:repeat(1, 1fr) !important ; 
+    }
+  }
+
+  .cell {
+    display:grid;
+    grid-template-columns:repeat(5, 1fr); 
+    grid-gap:10px;
+    
+  }
+
+  .cell-output{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    border-radius:5px;
+    overflow:hidden;
+    overflow-x:hidden !important;
+    box-shadow:0px 0px 5px #888;
+  
+  }
+
+  img {
+    border-radius:5px;
+    object-fit: cover;
+  }
+
+</style>
