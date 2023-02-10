@@ -1,0 +1,136 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/nfa26f991edd4 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：またたく夜空のMilky Way招募
+format: html
+date: "2023/01/31"
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+  
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+
+### 概念／構圖
+
+<br>
+
+<blockquote style="color:#ff9900;font-weight:bold;">——這次「またたく夜空のMilky Way招募」特訓後的插圖是以童話般的氛圍去描繪的呢，請問概念是如何決定的？ </blockquote>
+
+<br>
+
+  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在這次的活動故事中，描寫了えむ對總有一天會和大家離別感到孤獨，但仍然決定支持他們。受到WS中每個人的立場和關係性的啟發，我們決定以童話「彼得潘」為概念進行配役。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>的插圖是描繪她決心和所有決定留在現實世界的人道別，並準備回到夢幻島的場景。過去在大家的支持下，えむ得以實現「我要保護我最喜歡的鳳凰樂園」的這個夢想。插圖則是將えむ「這次換自己要支持大家的未來前進的道路」的心情，放進了她快要哭出來的笑容裡。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的插圖則是以默默在背後支持即將啟程出發的孩子們為形象描繪的。他對著登上船形音樂盒的動物玩偶們，輕輕吹了魔法粉末。裡面應該也包含著連「希望每個人都能繼續追逐自己的夢想」的這份心意。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>的插圖是以選擇留在現實中而不是生活在夢幻島的的角色為形象描繪的。這次為了符合他身為導演的身分，試圖營造一種的知識分子的氛圍。他閱讀時的平靜表情，或許是因為他知道「成長不全是悲傷的事」。
+
+  
+  
+
+<br>
+
+<img src="https://assets.st-note.com/img/1675127539742-jq7j4nzdcP.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+
+<br>
+
+  
+  
+
+### 衣裝
+
+<br>
+
+<blockquote style="color:#ff9900;font-weight:bold;"> ——這次的服裝雖然有共通之處，但每一件都有各自的風格呢。可以告訴我們是如何設計的嗎？ </blockquote>
+
+<br>
+
+  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這次想要了透過融入彼得潘的元素，表達活動故事中WS成員的立場和角色性格。因此，在融入與童話相關的共同主題的同時，也為了凸顯角色們「各自選擇的未來道路」而進行製作的。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>是一位一直以來懷抱著「讓鳳凰樂園充滿歡笑」夢想的角色。從這裡進行聯想，以「永遠的孩子」為意象製作的。裙子採用樹葉的形狀，營造出童話般的氛圍。腰間則是搭配了以時鐘的指針為主題的配飾。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;住在世界的<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>則是以了夢幻島的妖精為靈感，採用了一對大翅膀的設計。繫在髮上的蝴蝶結除了符合連本身的風格外，也表現出可愛的妖精形象。綁在腰上的小瓶裡裝著可以幫助大家的魔法道具。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>的服裝是採用午夜故事的意象，以寬鬆睡衣的輪廓為基底製作的。使用眼鏡搭配服裝中，增添一種知性成熟的氣息。單隻耳朵上的耳環和えむ和連一樣，是以時鐘的指針為概念設計的。
+
+  
+  
+  
+
+<br>
+
+<img src="https://assets.st-note.com/img/1675127575339-ThAIKUI4Rf.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+
+<br>
+
+  
+
+### 背景
+
+<br>
+
+<blockquote style="color:#ff9900;font-weight:bold;"> ——這次的插圖背景中有描繪了許多物品呢。有哪些地方是該注意的亮點？ </blockquote>
+
+<br>
+
+  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;為了配合服裝的風格，我們使用「夜晚」的氛圍主題將背景統一起來。透過月亮、船、時鐘等等的共通要素，表達出「即使身處不同地方，但我們都以某種方式聯繫在一起」。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>的插圖中，是刻意凸顯大船的存在感進行繪製的。夜空中漂浮的月亮所代表的意象是她和連即將返回的夢幻島。駛向遠方月亮的船，是為了讓えむ即使和孩子們依依不別仍微笑著揮手告別的心情，能夠更加刻骨銘心體現出來。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>是個很小的妖精，所以有特別注意他和身邊物品之間的大小差異。透過背景中的像是被放大一般的書架和懷錶，可以看到他平常眼中的世界是長什麼樣子的。魔法粉末的效果表現是以WS的音樂劇舞台為意象。在即將起飛的船上，乘載著對即將到來的冒險而興奮不已的動物玩偶們。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>的插圖中，在可以聯想到彼得潘故事舞台的歐式街道景觀中，放置了一個大鐘樓作為標誌。鐘樓上的時鐘，指針持續不斷地移動。類雖然身處現實世界，但當他沿著光之道路仰望夜空時，仍和夢幻島連繫在一起。 
+  
+
+<br>
+
+<img src="https://assets.st-note.com/img/1675135241423-bPtnEgyx4y.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+
+<br>
+
+  
+  
+
+### 最後
+
+<br>
+
+<blockquote style="color:#ff9900;font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+
+<br>
+
+  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在這次故事中，以えむ面對WS成員們各自的夢想即使難過仍決定接受的心路歷程為中心進行描寫。自WS組成開始，他們經歷了各種事情，並逐漸成長。和過往的插圖進行比對，也許能感受到他們從過去到現在一路上的變化也說不定。希望大家也能藉這個機會回顧WS成員的成長軌跡。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝您一直以來對世界計畫的支持。
