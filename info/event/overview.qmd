@@ -1,0 +1,88 @@
+---
+title: 活動總覽
+execute:
+  echo: false
+jupyter: python3
+---
+
+<style>
+    .cell-output{width: 100vw;}
+</style>
+<link rel="stylesheet" href="../projects/twi_JP/style.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,1,200" />
+
+```{python}
+%%capture --no-display
+import sqlalchemy
+import pandas as pd
+import os
+from IPython.display import display, HTML
+from dotenv import load_dotenv
+import urllib
+from urllib.parse import quote_plus
+
+load_dotenv()
+db_password = os.getenv("DB_PASSWORD")
+DATABASE_PASSWORD_UPDATED = urllib.parse.quote_plus(db_password)
+
+
+### Create connection
+
+engine = 'mysql://root:'+DATABASE_PASSWORD_UPDATED+'@localhost:3306/twiJP'
+sqlalchemy.create_engine(engine)
+
+### Connect
+%reload_ext sql
+%sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
+
+### Query
+result = %sql SELECT eventID, banImg, eventAttr, eventName, unit, banChara, startDate, endDate, eventType, eventRarity, keyStory FROM event
+df = result.DataFrame()
+
+### Table Head
+display(
+    HTML('<table cellpadding="6"><thead style="text-align:center;"><tr><th>期數</th><th></th><th>屬性</th><th></th><th>活動名稱</th><th>團體</th><th>主角</th><th>開始日期</th><th>結束日期</th><th>活動模式</th><th>活動類型</th></tr></thead><tbody style="text-align:center;">'))
+### Table Body => Data Set
+for i in range(len(df)):
+
+    ### Event Attribut Icon 
+    if( str(df.iloc[i][2]) == 'ピュア'):
+        attr = str('./Attribute/attr_pure.png')
+    elif(str(df.iloc[i][2]) == 'ミステリアス'):
+        attr = str('./Attribute/attr_mysterious.png')
+    elif(str(df.iloc[i][2]) == 'キュート'):
+        attr = str('./Attribute/attr_cute.png')
+    elif(str(df.iloc[i][2]) == 'ハッピー'):
+        attr = str('./Attribute/attr_happy.png')
+    elif(str(df.iloc[i][2]) == 'クール'):
+        attr = str('./Attribute/attr_cool.png')
+
+    ### Key Story Icon    
+    if (df.iloc[i][10] == 1):
+        key = str('<span class="material-symbols-outlined">flag</span>')
+    else:
+        key = ''
+    
+    display(
+    HTML('<tr><td>'+str(df.iloc[i][0])+'</td><td><img id="banner" src="'+str(df.iloc[i][1])+'"></td><td><img id="attr" src="'+attr+'"></td><td>'+key+'</td><td>'+str(df.iloc[i][3])+'</td><td>'+str(df.iloc[i][4])+'</td><td>'+str(df.iloc[i][5])+'</td><td>'+str(df.iloc[i][6])+'</td><td>'+str(df.iloc[i][7])+'</td><td>'+str(df.iloc[i][8])+'</td><td>'+str(df.iloc[i][9])+'</td></tr>')
+    )
+
+display(HTML('</tbody></table>'))
+
+```
+
+<style>
+    table {
+        border-collapse: separate;
+        border-radius: 8px;
+        border: 3.5px mediumaquamarine solid;
+    }
+
+    img#banner {
+        width: 110px !important;
+    }
+    img#attr {
+        width: 20px !important;
+    }
+</style>

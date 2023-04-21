@@ -27,7 +27,7 @@ img {
    transition: all .3s ease-in-out;
  }
  
- .about-links:hover{
+ .about-link:hover{
    background-color: #B5EAEA;
    color: #5a5a5a;
    height: 100%;
@@ -98,7 +98,7 @@ img {
 #reading-tag {
   background-color:#B5EAEA;
   color: #777;
-  font-size: 8px !important;
+  font-size: 10px !important;
 }
 
 body {

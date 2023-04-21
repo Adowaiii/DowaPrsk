@@ -1,0 +1,89 @@
+---
+title: セカイの4コマ
+catagories: ["*連載中"]
+execute:
+  echo: false
+jupyter: python3
+---
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+```{python}
+%%capture --no-display
+import sqlalchemy
+import pandas as pd
+import os
+from IPython.display import display, HTML
+from dotenv import load_dotenv
+import urllib
+from urllib.parse import quote_plus
+
+load_dotenv()
+db_password = os.getenv("DB_PASSWORD")
+DATABASE_PASSWORD_UPDATED = urllib.parse.quote_plus(db_password)
+
+
+### Create connection
+
+engine = 'mysql://root:'+DATABASE_PASSWORD_UPDATED+'@localhost:3306/twiJP'
+sqlalchemy.create_engine(engine)
+
+### Connect
+%reload_ext sql
+%sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
+
+result = %sql SELECT SerialNumber, ImgLink FROM 1coma
+df = result.DataFrame()
+
+for i in range(len(df)): 
+  display(HTML('<div class="card"><img src="'+str(df.iloc[i][1])+'"><div class="info"><p>'+str(df.iloc[i][0])+'話</p><a href="'+str(df.iloc[i][1])+'" target="_blank" ><i class="material-icons">open_in_new</i></a></div></div>'))
+
+```
+
+<style>
+
+  @media screen and (max-width:1000px) {
+    .cell {
+       grid-template-columns:repeat(4, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:720px) {
+    .cell {
+       grid-template-columns:repeat(3, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:550px) {
+    .cell {
+       grid-template-columns:repeat(2, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:390px) {
+    .cell {
+       grid-template-columns:repeat(1, 1fr) !important ; 
+    }
+  }
+
+  .cell {
+    display:grid;
+    grid-template-columns:repeat(5, 1fr); 
+    grid-gap:10px;
+    
+  }
+
+  .cell-output{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    border-radius:5px;
+    overflow:hidden;
+    overflow-x:hidden !important;
+    box-shadow:0px 0px 5px #888;
+  
+  }
+
+  img {
+    border-radius:5px;
+    object-fit: cover;
+  }
+
+</style>
