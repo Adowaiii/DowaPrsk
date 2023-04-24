@@ -12,6 +12,8 @@ jupyter: python3
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,1,200" />
 
+:::{.column-screen-inset}
+
 ```{python}
 %%capture --no-display
 import sqlalchemy
@@ -42,7 +44,7 @@ df = result.DataFrame()
 
 ### Table Head
 display(
-    HTML('<table cellpadding="6"><thead style="text-align:center;"><tr><th>期數</th><th></th><th>屬性</th><th></th><th>活動名稱</th><th>團體</th><th>主角</th><th>開始日期</th><th>結束日期</th><th>活動模式</th><th>活動類型</th></tr></thead><tbody style="text-align:center;">'))
+    HTML('<table cellpadding="5"><thead style="text-align:center;"><tr><th>期數</th><th></th><th>屬性</th><th></th><th>活動名稱</th><th>團體</th><th>主角</th><th>開始日期</th><th>結束日期</th><th>活動模式</th><th>活動類型</th></tr></thead><tbody style="text-align:center;">'))
 ### Table Body => Data Set
 for i in range(len(df)):
 
@@ -65,24 +67,111 @@ for i in range(len(df)):
         key = ''
     
     display(
-    HTML('<tr><td>'+str(df.iloc[i][0])+'</td><td><img id="banner" src="'+str(df.iloc[i][1])+'"></td><td><img id="attr" src="'+attr+'"></td><td>'+key+'</td><td>'+str(df.iloc[i][3])+'</td><td>'+str(df.iloc[i][4])+'</td><td>'+str(df.iloc[i][5])+'</td><td>'+str(df.iloc[i][6])+'</td><td>'+str(df.iloc[i][7])+'</td><td>'+str(df.iloc[i][8])+'</td><td>'+str(df.iloc[i][9])+'</td></tr>')
+    HTML('<tr><td data-cell="期數">'+str(df.iloc[i][0])+'</td><td><img id="banner" src="'+str(df.iloc[i][1])+'"></td><td data-cell="屬性"><img id="attr" src="'+attr+'"></td><td>'+key+'</td><td data-cell="活動名稱">'+str(df.iloc[i][3])+'</td><td data-cell="團體">'+str(df.iloc[i][4])+'</td><td data-cell="主角">'+str(df.iloc[i][5])+'</td><td data-cell="開始日期">'+str(df.iloc[i][6])+'</td><td data-cell="結束日期">'+str(df.iloc[i][7])+'</td><td data-cell="活動模式">'+str(df.iloc[i][8])+'</td><td data-cell="活動類型" class="eventRarity">'+str(df.iloc[i][9])+'</td></tr>')
     )
 
 display(HTML('</tbody></table>'))
 
 ```
+:::
 
 <style>
+    body {
+        user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+    }
     table {
-        border-collapse: separate;
-        border-radius: 8px;
-        border: 3.5px mediumaquamarine solid;
+        border-collapse: collapse;
+        width: 100%;
     }
 
-    img#banner {
-        width: 110px !important;
+    .cell-output {
+        margin-inline: auto;
+        width:min(1400px, 100% - 0.5rem);
     }
-    img#attr {
-        width: 20px !important;
+
+    th{
+        background: hsl(154, 65%, 89%);
+    }
+    th:nth-child(1), th:nth-child(3), th:nth-child(4){
+        width:3%;
+    }
+    th:nth-child(2){
+        width:10%;
+    }
+    th:nth-child(5){
+        width:15%;
+    }
+    th:nth-child(6), th:nth-child(7){
+        width:6%;
+    }
+    th:nth-child(8), th:nth-child(9){
+        width:6%;
+    }
+    th:nth-child(10), th:nth-child(11){
+        width:5%;
+    }
+
+    tr:nth-of-type(2n){
+        background: hsl(154, 55%, 95%);
+    }
+
+
+    @media (max-width: 650px){
+        th {
+            display:none;
+        }
+
+        td {
+            display: grid;
+            grid-template-columns:repeat(2, 1fr);
+            justify-items: center;
+        }
+
+        td:nth-child(2)> img{
+            grid-column-end: span 2;
+        }
+
+        td:nth-child(3)> img{
+            width:10% !important;
+        }
+
+        td:nth-child(4)> span{
+            grid-column-end: span 2;
+        }
+
+        td:not(:nth-child(2), :nth-child(4))::before {
+            content:attr(data-cell);
+            font-weight : 900;
+        }
+        td:first-child{
+            padding-top:1rem;
+        }
+        td:last-child{
+            padding-bottom:2rem;
+        }
+        img {
+            margin: 0 !important;
+        }
     }
 </style>
+
+<script>
+    var rarity = document.getElementsByClassName('eventRarity');
+    
+    var i;
+    for (i = 0; i < rarity.length; i++) {
+        if (rarity[i].innerHTML == '恆常'){
+            rarity[i].classList.add('normal');
+        }else if (rarity[i].innerHTML == '限定') {
+            rarity[i].classList.add('limited');
+        }
+    }
+
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });
+
+</script>

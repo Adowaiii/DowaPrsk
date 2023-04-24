@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -148,6 +148,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p><link rel="stylesheet" href="style.css"> <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"></p>
+<div class="column-screen-inset">
 <div class="cell" data-execution_count="1">
 <div class="cell-output cell-output-display">
 <div class="card"><img src="https://pbs.twimg.com/media/EjJc3JPU4AAo111.jpg"><div class="info"><p>1話</p><a href="https://pbs.twimg.com/media/EjJc3JPU4AAo111.jpg" target="_blank"><i class="material-icons">open_in_new</i></a></div></div>
@@ -447,9 +448,15 @@ ul.task-list li input[type="checkbox"] {
 <div class="card"><img src="https://pbs.twimg.com/media/FN8JZbhVsAIVu8p.jpg"><div class="info"><p>97話</p><a href="https://pbs.twimg.com/media/FN8JZbhVsAIVu8p.jpg" target="_blank"><i class="material-icons">open_in_new</i></a></div></div>
 </div>
 </div>
+</div>
 <style>
 
   @media screen and (max-width:1000px) {
+    .cell {
+       grid-template-columns:repeat(5, 1fr) !important ; 
+    }
+  }
+  @media screen and (max-width:820px) {
     .cell {
        grid-template-columns:repeat(4, 1fr) !important ; 
     }
@@ -472,7 +479,7 @@ ul.task-list li input[type="checkbox"] {
 
   .cell {
     display:grid;
-    grid-template-columns:repeat(5, 1fr); 
+    grid-template-columns:repeat(8, 1fr); 
     grid-gap:10px;
     
   }
