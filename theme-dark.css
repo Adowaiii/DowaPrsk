@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+h2, h3 {
+  color: #9eaeb6;
+}
+
+h1 {
+  color: #dddcb9;
+}
+
+.team-info {
+  color: #bed3dd;
+}
+
+.content .menu ul a, #quarto-content li .menu, .link {
+  color: #bed3dd !important;
+}
+
+.content .menu ul a::before, .link::before {
+  opacity: 0.3 !important;
+}
+
+::-webkit-scrollbar-track {
+  width: 10px;
+  border: 9px solid transparent;
+  background-clip: content-box;
+  border-radius: 25px;
+  background-color: rgba(181, 137, 0, 0.3) !important;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 6px solid transparent;
+  background-clip: content-box;
+  width: 10px;
+  border-radius: 25px;
+  padding-right: 1em;
+  -webkit-box-shadow: inset 0 0 3px #0d3640 !important;
+  background-color: rgb(36, 139, 134) !important;
+}
+
+.event-table > tbody > tr:nth-of-type(2n) {
+  background: hsl(154, 55%, 5%);
+}
+
+.event-table > thead > tr > th {
+  background: hsl(154, 55%, 5%);
+}/*# sourceMappingURL=theme-dark.css.map */

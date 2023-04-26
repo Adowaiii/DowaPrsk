@@ -53,209 +53,180 @@ format:
 <div id="1" class="list">
   <!-- list content -->
 <div class="list-content">
-  <!-- Tab links -->
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '1-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '1-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="1-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1425109692099956736?s=20&t=FjvxBzP26rIcl6O-jfegGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-  <div id="1-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1557381266634334210?s=20&t=FjvxBzP26rIcl6O-jfegGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-</div>
+
+<!-- Tab content -->
+::: {.panel-tabset group="01"}
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1425109692099956736?s=20&t=FjvxBzP26rIcl6O-jfegGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1557381266634334210?s=20&t=FjvxBzP26rIcl6O-jfegGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:::
+</div></div>
 
 <div id="2" class="list">
   <!--list content-->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '2-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '2-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="2-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1391045234683899908?s=20&t=pc98bmsbEYqHu3OrUWN7iQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-  <div id="2-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1523316799802073088?s=20&t=pc98bmsbEYqHu3OrUWN7iQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-</div>
+
+::: {.panel-tabset group="02"}
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1391045234683899908?s=20&t=pc98bmsbEYqHu3OrUWN7iQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1523316799802073088?s=20&t=pc98bmsbEYqHu3OrUWN7iQ"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:::
+</div></div>
 
 <div id="3" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '3-2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '3-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '3-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="3-2020" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1320745584039321600?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="3-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1453013560905240576?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="3-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1585285120348520448?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-  </div>
-</div>
-</div>
+
+::: {.panel-tabset group="03"}
+## 2020
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1320745584039321600?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1453013560905240576?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1585285120348520448?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:::
+</div></div>
 
 <div id="4" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '4-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '4-2022')">2022</button>
-  <button class="tablinks" onclick="openYear(event, '4-2023')">2023</button>
-  </div>
-  <!-- Tab content -->
-  <div id="4-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1347196321246035970?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="4-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1479467868853084161?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="4-2023" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1611739436663832580?s=20&t=oDH-LLcei6nNs-JbAccGGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  
-</div>
-</div>
+
+::: {.panel-tabset group="04"}
+
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1347196321246035970?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1479467868853084161?s=20&t=46GHhKJt91F-syZe3xS9Ag"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2023
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1611739436663832580?s=20&t=oDH-LLcei6nNs-JbAccGGg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+:::
+</div></div>
 
 <div id="5" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '5-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '5-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="5-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1382166735772475395?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="5-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1514257120694190087?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+::: {.panel-tabset group="05"}
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1382166735772475395?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1514257120694190087?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+:::
 </div>
 </div>
 
 <div id="6" class="list">
   <!-- list content -->
-<div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '6-2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '6-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '6-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="6-2020" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1312769448642637825?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="6-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1445041030559113227?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="6-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1577312593248538626?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+::: {.panel-tabset group="06"}
+## 2020
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1312769448642637825?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1445041030559113227?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1577312593248538626?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+:::
 </div>
 </div>
 
 <div id="7" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '7-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '7-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="7-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1372563466863529987?s= 20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="7-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1504835020363546654?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+::: {.panel-tabset group="07"}
+
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1372563466863529987?s= 20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1504835020363546654?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 </div>
 
 <div id="8" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '8-2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '8-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '8-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="8-2020" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1335237518887854087?s=20&t=Ove7ynFGvwuga8cN98d09g"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="8-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1467509073444704261?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="8-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1599780641364529152?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+::: {.panel-tabset group="08"}
+## 2020
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1335237518887854087?s=20&t=Ove7ynFGvwuga8cN98d09g"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2021
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1467509073444704261?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2022
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1599780641364529152?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+:::
 </div>
 </div>
 
 <div id="9" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '9-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '9-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="9-2021" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1366402936100712450?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="9-2022" class="tabcontent">
-  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1498674430603677702?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+::: {.panel-tabset group="09"}
+
+  ## 2021
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1366402936100712450?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  ## 2022
+  <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1498674430603677702?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:::
 </div>
 </div>
 
 <div id="10" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '10-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '10-2022')">2022</button>
-  </div>
-  <!-- Tab content -->
-  <div id="10-2021" class="tabcontent">
+
+::: {.panel-tabset group="10"}
+
+  ## 2021
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1419311485327601669?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="10-2022" class="tabcontent">
+  
+  ## 2022
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1551583054497345537?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+  
+:::
 </div>
 </div>
 
 <div id="11" class="list">
   <!-- list content -->
 <div class="list-content">
-  <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '11-2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '11-2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '11-2022')">2022</button>
-  </div>
+
+::: {.panel-tabset group="11"}
   <!-- Tab content -->
-  <div id="11-2020" class="tabcontent">
+  ## 2020
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1326540206439161859?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="11-2021" class="tabcontent">
+  
+  ## 2021
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1458811756751450121?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
-  <div id="11-2022" class="tabcontent">
+  
+  ## 2022
   <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1591083336742719490?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  </div>
+
+:::
 </div>
 </div>
 
@@ -955,23 +926,5 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 
-function openYear(evt, year) {
-  // Declare all variables
-  var i, tabcontent, tablinks;
-
-  // Get all elements with class="tabcontent" and hide them
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  // Get all elements with class="tablinks" and remove the class "active"
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  // Show the current tab, and add an "active" class to the button that opened the tab
-  document.getElementById(year).style.display = "block";
-  evt.currentTarget.className += " active";
-}
 
 </script>

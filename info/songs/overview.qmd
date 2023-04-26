@@ -2,7 +2,9 @@
 title: 歌曲總覽
 execute:
   echo: false
+  freeze: auto
 jupyter: python3
+tbl-colwidths: [5]
 ---
 
 <style>
@@ -16,20 +18,20 @@ jupyter: python3
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,1,200" />
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
 
-:::{.column-screen-inset}
 
-<div class="cards">
 
 ```{python}
+#| column: screen-inset-shaded
 
 %%capture --no-display
 import sqlalchemy
 import pandas as pd
 import os
-from IPython.display import display, HTML
+from IPython.display import display, Markdown
 from dotenv import load_dotenv
 import urllib
 from urllib.parse import quote_plus
+from tabulate import tabulate
 
 load_dotenv()
 db_password = os.getenv("DB_PASSWORD")
@@ -46,373 +48,144 @@ sqlalchemy.create_engine(engine)
 %sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
 
 ### Query
-result = %sql SELECT songID, songName, releaseDate, Easy, Normal, Hard, Expert,Master, unit, TIME_FORMAT(songLength, '%i:%s') songLength, comboE,comboN, comboH, comboEX, comboMA, lyric, compose, arrange FROM song ORDER BY songID
+result = %sql SELECT songID, songName, releaseDate, Easy, Normal, Hard, Expert, Master, unit, TIME_FORMAT(songLength, '%i:%s') songLength, comboE, comboN, comboH, comboEX, comboMA, lyric, compose, arrange FROM song ORDER BY songID
 
 df = result.DataFrame()
 
-for i in range(len(df)):
     
-    imgPath = ''
-
-    if (df.iloc[i][0] < 10):
-        imgPath = '00' + str(df.iloc[i][0])+'.png'
-    elif (df.iloc[i][0] < 100):
-        imgPath = '0' + str(df.iloc[i][0])+'.png'
-    elif (df.iloc[i][0]):
-        imgPath = str(df.iloc[i][0])+'.png'
-
-
-    display(HTML('<div class="card"><div class="card-container row g-0"><div class="image-container col-md-4"><img src="./Jacket/'+imgPath+'" class="cover" alt="image-text"></div><button class="info-button"><div class="hamburger"></div></button><div class="info-container col-md-8"><div class="basic row"><div class="name col-8 col-md-10 mb-3 mb-md-0"><div class="card-text">'+str(df.iloc[i][1])+'</div></div><div class="col-4 col-md-2"><div class="card-text">'+str(df.iloc[i][9])+'</div></div></div><div class="writer row"><div class="col"><div class="card-text">'+str(df.iloc[i][15])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][16])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][17])+'</div></div></div><hr><div class="basic-2 row"><div class="col col-md-2"><div class="card-text">團體</div></div><div class="col col-md-3"><div class="card-text">'+str(df.iloc[i][8])+'</div></div><div class="col col-md-2"> <div class="card-text">實裝日期</div></div><div class="col col-md-5"><div class="card-text">'+str(df.iloc[i][2])+'</div></div></div><hr><div class="lvl row"><div class="col"><div class="card-text">'+str(df.iloc[i][3])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][4])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][5])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][6])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][7])+'</div></div></div><div class="combo row"><div class="col"><div class="card-text">'+str(df.iloc[i][10])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][11])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][12])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][13])+'</div></div><div class="col"><div class="card-text">'+str(df.iloc[i][14])+'</div></div></div></div></div></div>'))
+tabulate(
+      df, 
+      headers=["ID", "名稱", "實裝日期", "Easy", "Normal", "Hard", "Expert", "Master", "團體", "時長", "Easy鍵數", "Normal鍵數", "Hard鍵數", "Expert鍵數", "Master鍵數", "作詞", "作曲", "編曲"], tablefmt="html", stralign="center", colalign="center", showindex=False
+    )
 
 
 ```
 
-</div>
-:::
 
 <style>
 
-    .card {
-        position: relative; /* Add this */
-        overflow: visible; /* And this to keep thw button visible*/
-        width: 200px;
-        height: 280px;
-        text-align: center;
-        z-index:1;
-        border: none;
+  body {
+        user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+  }
+
+  thead > tr > th {
+    text-align: center !important;
+  }
+  tbody > tr > td {
+    text-align: center !important;
+  }
+
+  th{
+        background: hsl(154, 65%, 89%);
+    }
+    th:nth-child(1), th:nth-child(4), th:nth-child(5), th:nth-child(6), th:nth-child(7), th:nth-child(8), th:nth-child(11), th:nth-child(12), th:nth-child(13), th:nth-child(14), th:nth-child(15){
+        width:3%;
+    }
+    th:nth-child(3){
+        width:10%;
+    }
+    th:nth-child(2){
+        width:20%;
+    }
+    th:nth-child(9){
+        width:10%;
+    }
+    th:nth-child(10){
+        width:5%;
     }
 
-    .card:hover{
-        z-index:2;
+    tr:nth-of-type(2n){
+        background: hsl(154, 55%, 95%);
     }
 
-    .card.open {
-        z-index: 3;
-    }
+    @media (max-width: 650px){
+        th {
+            display:none;
+        }
 
-    .card.open .info-container.open {
-        width: 800px;
-        min-width: 500px;
-        max-height: 280px;
-        opacity: 1;
-    }
+        td {
+            display: grid;
+            grid-template-columns:repeat(2, 1fr);
+            justify-items: center;
+        }
 
-    .card-container{
-      display: grid;
-      justify-items: center;
-      align-items: center;
-      grid-template-columns: auto auto;
-    }
+        td::before {
+            font-weight : 900;
+        }
 
-    .image-container {
-      display: grid;
-      justify-items: center;
-      align-items: center;
-      width: 100%;
-      height: 200px;
-    }
 
-    .cover {
-        width:90% ;
-        border-radius:7px;
-        
+        td:nth-child(1)::before {
+            content:"ID";
+        }
+        td:nth-child(2)::before {
+            content:"名稱";
+        }
+        td:nth-child(3)::before {
+            content:"實裝日期";
+        }
+        td:nth-child(4)::before {
+            content:"Easy";
+        }
+        td:nth-child(5)::before {
+            content:"Normal";
+        }
+        td:nth-child(6)::before {
+            content:"Hard";
+        }
+        td:nth-child(7)::before {
+            content:"Expert";
+        }
+        td:nth-child(8)::before {
+            content:"Master";
+        }
+        td:nth-child(9)::before {
+            content:"團體";
+        }
+        td:nth-child(10)::before {
+            content:"時長";
+        }
+        td:nth-child(11)::before {
+            content:"Easy鍵數";
+        }
+        td:nth-child(12)::before {
+            content:"Normal鍵數";
+        }
+        td:nth-child(13)::before {
+            content:"Hard鍵數";
+        }
+        td:nth-child(14)::before {
+            content:"Expert鍵數";
+        }
+        td:nth-child(15)::before {
+            content:"Master鍵數";
+        }
+        td:nth-child(16)::before {
+            content:"作詞";
+        }
+        td:nth-child(17)::before {
+            content:"作曲";
+        }
+        td:nth-child(18)::before {
+            content:"編曲";
+        }
+
+        td:first-child{
+            padding-top:1rem;
+        }
+        td:last-child{
+            padding-bottom:2rem;
+        }
+        img {
+            margin: 0 !important;
+        }
     }
     
-    .unit {
-      position: absolute;
-      bottom: 20px;
-      left: 100px;
-      width:80px !important;
-    }
-
-    .card-container {
-      position: relative;
-    }
-
-    .info-button {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      left: 175px;
-      position: absolute;
-      cursor: pointer;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      opacity: 0;
-      background-color: white;
-      border: 2px solid lightgrey;
-      transition: opacity 0.3s ease-out;
-    }
-
-    .info-button:hover{
-      box-shadow: 1px 1px 2px gray;
-      opacity: 1;
-      transition: opacity 0.3s ease-in;
-    }
-
-    .info-container {
-      position: absolute;
-      top: 0;
-      left: 120%;
-      overflow: hidden;
-      width: 0;
-      opacity: 0;
-      background-color: white;
-      border: 1px solid lightgrey;
-      padding: 1px 1rem 1rem 1rem;
-      border-radius: 25px;
-      transition: width 0.3s ease; 
-    }
-
-    .info-container.open {
-      width: 800px; /* Set this to an appropriate value based on your content */
-      min-width: 500px;
-      max-height: 200px;
-      opacity: 1;
-      z-index: 3;
-    }
-
-    .info-button.open {
-      opacity: 1;
-    }
-
-    .hamburger {
-      width: 12px;
-      height: 2px;
-      background-color: black;
-      position: relative;
-      transition: transform 0.3s ease-in;
-    }
-
-    .hamburger::before {
-      content: "";
-      width: 100%;
-      height: 100%;
-      background-color: inherit;
-      position: absolute;
-      left: 0;
-      transition: transform 0.3s ease-in;
-    }
-
-    .hamburger::before {
-      height: 2px;
-      transform: rotate(90deg);
-    }
-
-    .hamburger.open {
-      height: 2px;
-      transform: rotate(45deg);
-      
-    }
-
-    .hamburger::before.open {
-      height: 2px;
-      transform: rotate(-45deg);
-    }
-
-    .lvl{
-      display: grid;
-      justify-content: space-around;
-      align-items: center;
-      grid-template-columns:  repeat(5, minmax(0, 1fr)); 
-    }
-
-    .combo{
-      display: grid;
-      margin-top: -20px;
-      justify-items: center;
-      align-items: center;
-      grid-template-columns:  repeat(5, minmax(0, 1fr)); 
-    }
-
-    .lvl > .col, .combo > .col {
-      display: grid;
-      justify-content: center;
-      align-items: center;
-      margin-left: 10px;
-    }
-
-    .combo > .col > .card-text {
-        -webkit-transform: scale(0.7);
-    }
-
-    div.lvl > div:nth-child(1){
-      background-color: rgba(164, 255, 164, 0.3);
-      border-radius: 50%;
-      height: 50px;
-      width: 50px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.lvl > div:nth-child(2){
-      background-color: rgba(164, 228, 255, 0.3);
-      border-radius: 50%;
-      max-height: 50px;
-      max-width: 50px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.lvl > div:nth-child(3){
-      background-color: rgba(251, 233, 115, 0.3);
-      border-radius: 50%;
-      height: 50px;
-      max-width: 50px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.lvl > div:nth-child(4){
-      background-color: rgba(255, 173, 164, 0.3);
-      border-radius: 50%;
-      height: 50px;
-      max-width: 50px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.lvl > div:nth-child(5){
-      background-color: rgba(228, 164, 255, 0.3);
-      border-radius: 50%;
-      height: 50px;
-      max-width: 50px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.combo > div:nth-child(1){
-      background-color: rgba(164, 255, 164, 0.3);
-      border-radius: 50%;
-      height: 30px;
-      max-width: 30px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.combo > div:nth-child(2){
-      background-color: rgba(164, 228, 255, 0.3);
-      border-radius: 50%;
-      height: 30px;
-      max-width: 30px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.combo > div:nth-child(3){
-      background-color: rgba(251, 233, 115, 0.3);
-      border-radius: 50%;
-      height: 30px;
-      max-width: 30px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.combo > div:nth-child(4){
-      background-color: rgba(255, 173, 164, 0.3);
-      border-radius: 50%;
-      height: 30px;
-      max-width: 30px;
-      aspect-ratio: 1 / 1;
-    }
-
-    div.combo > div:nth-child(5){
-      background-color: rgba(228, 164, 255, 0.3);
-      border-radius: 50%;
-      height: 30px;
-      max-width: 30px;
-      aspect-ratio: 1 / 1;
-    }
-
-    .basic {
-      display: flex;
-      align-items: center;
-      margin-top: 0.8rem;
-    }
-
-    .name {
-      background-color: rgb(183, 246, 225);
-      border-radius: 25px;
-    }
-
-    .writer{
-        margin: 0.5rem 0;
-    }
-
-    .writer > .col > .card-text {
-        -webkit-transform: scale(0.9);
-    }
-
-    .basic-2 {
-      display: flex;
-      align-items: center;
-    }
-
-    .basic-2 > .col {
-        padding: 0;
-    }
-
-    hr {
-        height: 1px;
-        margin: 0.5rem;
-        color: lightgrey;
-    }
-
-    .cell-output {
-        width: 800px;
-        overflow: hidden;
-    }
-
-    .cell {
-        display: grid;
-        max-width: 220px;
-        grid-template-columns: repeat(4, 200px);
-        gap: clamp(15px, 40px, 30px);
-    }
-
-    @media screen and (max-width:810px) {
-    .cell {
-       grid-template-columns: repeat(4, 200px);
-      }
-      .card.open .info-container.open, .card {
-        height: 360px;
-      }
-    }
-    @media screen and (max-width:720px) {
-      .cell {
-        grid-template-columns: repeat(3, 200px);
-      }
-      .card.open .info-container.open, .card {
-        height: 360px;
-      }
-    }
-    @media screen and (max-width:550px) {
-      .cell {
-        grid-template-columns: repeat(2, 200px);
-      }
-      .card.open .info-container.open, .card {
-        height: 360px;
-      }
-        
-    }
-    @media screen and (max-width:390px) {
-      .cell {
-        grid-template-columns: repeat(1, 200px);
-      }
-      .card.open .info-container.open, .card {
-        height: 360px;
-      }
-    }
 </style>
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-        const collapsibleButtons = document.querySelectorAll(".info-button");
-        const collapsibleContents = document.querySelectorAll(".info-container");
-        const clickedButtons = document.querySelectorAll(".hamburger");
-        const clickedCards = document.querySelectorAll(".card");
-
-        collapsibleButtons.forEach((button, index) => {
-            button.addEventListener("click", function () {
-                
-                collapsibleContents[index].classList.toggle("open");
-                collapsibleButtons[index].classList.toggle("open");
-                clickedButtons[index].classList.toggle("open");
-                clickedCards[index].classList.toggle("open");
-                
-            });
-        });
-    });
+  document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });v
 </script>

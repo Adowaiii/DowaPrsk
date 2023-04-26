@@ -1,0 +1,124 @@
+---
+title: 絆牌總覽
+execute:
+  echo: false
+  freeze: auto
+jupyter: python3
+
+---
+
+<style>
+    .cell-output{width: 400vw;}
+</style>
+<link rel="stylesheet" href="../projects/twi_JP/style.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,1,200" />
+
+
+```{python}
+#| column: screen-right
+%%capture --no-display
+import sqlalchemy
+import pandas as pd
+import numpy as np
+import os
+from IPython.display import display, Markdown
+from dotenv import load_dotenv
+import urllib
+from urllib.parse import quote_plus
+from tabulate import tabulate
+
+load_dotenv()
+db_password = os.getenv("DB_PASSWORD")
+DATABASE_PASSWORD_UPDATED = urllib.parse.quote_plus(db_password)
+
+
+### Create connection
+engine = 'mysql://root:'+DATABASE_PASSWORD_UPDATED+'@localhost:3306/twiJP'
+sqlalchemy.create_engine(engine)
+
+### Connect
+%reload_ext sql
+%sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
+
+### Query
+result = %sql SELECT * FROM kizuna
+df = result.DataFrame()
+
+
+
+array = [['' for a in range(26)] for b in range(26)]
+
+for i in range(len(df)):
+    if (int(df.iloc[i][0]) - 1 > int(df.iloc[i][1]) - 1):
+      array[int(df.iloc[i][0]) - 1][int(df.iloc[i][1]) - 1] = '<code>05</code>' + str(df.iloc[i][2])+'<br><code>26</code>'+str(df.iloc[i][3])+'<br><code>46</code>'+str(df.iloc[i][4])
+
+for i in range(26):
+  for j in range(26):
+    if (i == j):
+      array[i][j] = '<span class="line"></span>'
+
+
+
+Markdown(tabulate(
+    array, 
+    headers=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'花里みのり',	'桐谷遥',	'桃井愛莉',	'日野森雫',	'小豆沢こはね',	'白石杏',	'東雲彰人',	'青柳冬弥',	'天馬司',	'鳳えむ',	'草薙寧々',	'神代類',	'宵崎奏',	'朝比奈まふゆ',	'東雲絵名',	'暁山瑞希', '初音ミク', '鏡音リン', '鏡音レン', '巡音ルカ', 'MEIKO', 'KAITO'],
+    showindex=False,
+    ))
+
+# display(Markdown(
+#   '::: {.panel-tabset group="06"} \n## 初音ミク\n'+tabulate(
+#     array[20], headers=["01", "02", "03"])+' \n## 鏡音リン \n## 鏡音レン \n## 巡音ルカ \n## MEIKO \n## KAITO\n:::'
+#   ))
+
+# display(Markdown(
+#   '::: {.panel-tabset group="01"} \n##星乃一歌## \n天馬咲希## \n望月穗波## \n日野森志步\n:::'
+#   ))
+# display(Markdown(
+#   '::: {.panel-tabset group="02"} \n##花里みのり## \n桐谷遥## \n桃井愛莉## \n日野森雫\n:::'
+#   ))
+# Markdown(
+#   '::: {.panel-tabset group="03"} \n##小豆沢こはね## \n白石杏## \n東雲彰人## \n青柳冬弥 \n:::'
+# )
+# Markdown(
+#   '::: {.panel-tabset group="04"} \n##天馬司## \n鳳えむ## \n草薙寧々## \n神代類 \n:::'
+# )
+# Markdown(
+#   '::: {.panel-tabset group="05"} \n##宵崎奏## \n朝比奈まふゆ## \n東雲絵名## \n暁山瑞希 \n:::'
+# )
+
+```
+
+
+<style>
+  body {
+        user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+    }
+  .line {
+    display: block;
+    width: 100%;
+    height:100%;
+    background: linear-gradient(
+      to top right, transparent calc(50% - 1px), lightgrey , transparent calc(50% + 1px));
+  }
+
+  td {
+    padding: 0px !important;
+    height: 100px;
+    width : 200px;
+    padding-inline: auto auto;
+  }
+
+
+</style>
+
+<script>
+
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });
+
+</script>

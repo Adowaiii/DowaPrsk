@@ -2,6 +2,7 @@
 title: 活動總覽
 execute:
   echo: false
+  freeze: auto
 jupyter: python3
 ---
 
@@ -28,9 +29,7 @@ load_dotenv()
 db_password = os.getenv("DB_PASSWORD")
 DATABASE_PASSWORD_UPDATED = urllib.parse.quote_plus(db_password)
 
-
 ### Create connection
-
 engine = 'mysql://root:'+DATABASE_PASSWORD_UPDATED+'@localhost:3306/twiJP'
 sqlalchemy.create_engine(engine)
 
@@ -39,35 +38,35 @@ sqlalchemy.create_engine(engine)
 %sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
 
 ### Query
-result = %sql SELECT eventID, banImg, eventAttr, eventName, unit, banChara, startDate, endDate, eventType, eventRarity, keyStory FROM event
+result = %sql SELECT * FROM event
 df = result.DataFrame()
 
 ### Table Head
 display(
-    HTML('<table cellpadding="5"><thead style="text-align:center;"><tr><th>期數</th><th></th><th>屬性</th><th></th><th>活動名稱</th><th>團體</th><th>主角</th><th>開始日期</th><th>結束日期</th><th>活動模式</th><th>活動類型</th></tr></thead><tbody style="text-align:center;">'))
+    HTML('<table cellpadding="5" class="event-table"><thead style="text-align:center;"><tr><th>期數</th><th></th><th>屬性</th><th></th><th>活動名稱</th><th>團體</th><th>主角</th><th>開始日期</th><th>結束日期</th><th>活動模式</th><th>活動類型</th></tr></thead><tbody style="text-align:center;">'))
 ### Table Body => Data Set
 for i in range(len(df)):
 
     ### Event Attribut Icon 
-    if( str(df.iloc[i][2]) == 'ピュア'):
+    if( str(df.iloc[i][10]) == 'ピュア'):
         attr = str('./Attribute/attr_pure.png')
-    elif(str(df.iloc[i][2]) == 'ミステリアス'):
+    elif(str(df.iloc[i][10]) == 'ミステリアス'):
         attr = str('./Attribute/attr_mysterious.png')
-    elif(str(df.iloc[i][2]) == 'キュート'):
+    elif(str(df.iloc[i][10]) == 'キュート'):
         attr = str('./Attribute/attr_cute.png')
-    elif(str(df.iloc[i][2]) == 'ハッピー'):
+    elif(str(df.iloc[i][10]) == 'ハッピー'):
         attr = str('./Attribute/attr_happy.png')
-    elif(str(df.iloc[i][2]) == 'クール'):
+    elif(str(df.iloc[i][10]) == 'クール'):
         attr = str('./Attribute/attr_cool.png')
 
     ### Key Story Icon    
-    if (df.iloc[i][10] == 1):
+    if (df.iloc[i][8] == 1):
         key = str('<span class="material-symbols-outlined">flag</span>')
     else:
         key = ''
     
     display(
-    HTML('<tr><td data-cell="期數">'+str(df.iloc[i][0])+'</td><td><img id="banner" src="'+str(df.iloc[i][1])+'"></td><td data-cell="屬性"><img id="attr" src="'+attr+'"></td><td>'+key+'</td><td data-cell="活動名稱">'+str(df.iloc[i][3])+'</td><td data-cell="團體">'+str(df.iloc[i][4])+'</td><td data-cell="主角">'+str(df.iloc[i][5])+'</td><td data-cell="開始日期">'+str(df.iloc[i][6])+'</td><td data-cell="結束日期">'+str(df.iloc[i][7])+'</td><td data-cell="活動模式">'+str(df.iloc[i][8])+'</td><td data-cell="活動類型" class="eventRarity">'+str(df.iloc[i][9])+'</td></tr>')
+    HTML('<tr><td data-cell="期數">'+str(df.iloc[i][0])+'</td><td><img id="banner" src="'+str(df.iloc[i][9])+'"></td><td data-cell="屬性"><img id="attr" src="'+attr+'"></td><td>'+key+'</td><td data-cell="活動名稱">'+str(df.iloc[i][1])+'</td><td data-cell="團體">'+str(df.iloc[i][6])+'</td><td data-cell="主角">'+str(df.iloc[i][7])+'</td><td data-cell="開始日期">'+str(df.iloc[i][2])+'</td><td data-cell="結束日期">'+str(df.iloc[i][3])+'</td><td data-cell="活動模式">'+str(df.iloc[i][4])+'</td><td data-cell="活動類型" class="eventRarity">'+str(df.iloc[i][5])+'</td></tr>')
     )
 
 display(HTML('</tbody></table>'))

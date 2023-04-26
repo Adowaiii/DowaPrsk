@@ -1,0 +1,110 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/naba6cfbbedb1 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：[2.5周年記念] Color Festival 招募
+format: html
+date: "2023/04/26"
+---
+
+<script type="module" src="main.js"></script>
+
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+
+<tr style="border:none;background-color:transparent;">
+
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+
+</tr>
+
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;"> ——這次的「Color Festival 招募」的訓練後插圖的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&emsp;&emsp;在這次的卡片故事中，出現了一位抱病的男孩子和身為他朋友的一位女孩子，兩個人因為一些原因吵架了。受到在他們身邊、以各自方式關心他們的鈴和連的啟發，這次想要畫出可以感受到兩人之間的關係和想法的插圖。 此外這次的插圖中，白色的比例比以往的插圖還要更大，我們的目標是將這兩幅畫營造出美麗而柔和的氛圍。希望玩家看到時能感受到畫中的夢幻和溫暖。
+
+&emsp;&emsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>手裡拿著一朵石蒜花，溫柔地微笑著。這次的插圖是想展現她在這次卡面故事中陪伴在男孩身旁的溫柔，以及可靠且成熟的一面，而進行製作的。在特訓前的插圖中，為男孩著想的鈴露出了溫柔的表情，而在特訓後的插圖中，她的眼睛透露出更深的感情。
+
+&emsp;&emsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的眼睛閃閃發光，露出開心的微笑。連在卡面故事中希望男孩和女孩能夠和好。在故事的結尾，他通過鈴的歌聲得知兩人已經和解。他那溫柔而耀眼的笑容可能是因為想到他們兩個人的關係吧。
+
+<br>
+<img src="https://assets.st-note.com/img/1681870587368-UT1HNHD9Y8.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+<img src="https://assets.st-note.com/img/1681870605545-DComaMzFYW.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 衣裝
+<br>
+<blockquote style="font-weight:bold;"> ——這次鈴和連的服裝都是以純白色為主，請告訴我們是如何設計的。 </blockquote>
+<br>
+
+
+&emsp;&emsp;這次，我們想要創作兩幅，既包含整體概念有的淡雅、夢幻，也有溫度的柔和插圖。為了配合這個想法，我們選擇了給人純真印象的白色來統一服裝，並選擇了能在風中美麗地飄揚的柔軟布料。為了配合這種夢幻、似乎轉瞬即逝的氛圍，這次鈴和連的頭髮和眼睛的顏色比平時更淡。
+&emsp;&emsp;此外，為了表現鈴和連之間的聯繫，我們在保留各自的特點的同時，引入了很多共同的元素。
+
+&emsp;&emsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>的服裝是以連衣裙為基礎，同時也加入了她原本服裝設計中的頭髮綁帶和短褲等元素。為了讓風吹過時能展現出美麗的身形，肩膀周圍加了柔軟的布料製成的長袍。為了配合卡片的氛圍，我們選擇了有些大人感的長髮，同時保留了她原本的髮質外翹的特點。
+
+&emsp;&emsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的服裝，因為希望呈現出有時尚感的身體輪廓，因此選擇了長擺上衣。襟子和短褲這些容易讓人聯想到水手服的元素，也是為了配合他原本的服裝設計。為了呈現輕快的印象，我們將他的髮型設計成留有自然捲的短髮。將一側的頭髮夾在耳朵後，讓作為點綴的耳環可以更加醒目。
+
+<br>
+<img src="https://assets.st-note.com/img/1681870699649-OF9EUsUEqs.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="font-weight:bold;"> ——這次背景給人一種透明且柔和的印象。有哪些是值得注意的看點呢？  </blockquote>
+<br>
+
+&emsp;&emsp;這次的插畫根據概念，我們特別注重表現出白色色彩的美麗。因為希望玩家能感受虛無飄渺、轉瞬即逝的夢幻氛圍，所以在物品配置上沒有過多堆疊，但同時也注意不要讓背景顯得過於單調。雖然插畫上的物品很少，但通過在鈴和連的插畫中加入相同的物品，展現了他們之間的聯繫。
+
+&emsp;&emsp;<code style="background-color:#FFCC11;"><span style="color:black;font-weight:bold;">鈴</span></code>的背景中，我們畫了一整面有清爽感、柔軟且潔白的布料。許多被風吹拂的床單讓人聯想到醫院的屋頂，這也許反映了鈴對男孩的關心。為了表現出輕柔的風吹過的景象，我們與角色製作班反覆討論細節，追求布料飄揚的方向和質感。
+
+&emsp;&emsp;<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的插圖中，我們希望玩家專注於他那燦爛的笑容。因此，我們在繪制時特別注意使用能突顯角色魅力的色彩，以及不易遺失焦點目光的物品布局。因為希望玩家能感受到溫柔、純真的印象，特別追求具有透明感的白色。因此，布料的顏色並不是與頭髮等顏色相匹配的帶有黃色調的白色，而是故意使用帶有藍色調的白色進行繪製的。
+
+<br>
+<img src="https://assets.st-note.com/img/1681870781030-TqMHZNiNYP.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+<img src="https://assets.st-note.com/img/1681870795811-xohNBsWFgh.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;"> ——請告訴我們您在繪製此插圖時有哪些特別注重的地方。 </blockquote>
+<br>
+
+&emsp;&emsp;這次的插畫以鈴和連之間的聯繫，以及他們對男孩和女孩的關懷為焦點進行製作的。我們希望玩家能從他們佩戴的物品和表情中感受到彼此的想法和關係。
+
+&emsp;&emsp;此外，與迄今為止繪制的插畫相比，這次的插畫在整體上使用了更多的白色，以淡雅的風格進行描繪，這也是我們第一次嘗試挑戰這樣的風格。在創作過程中，為了在追求簡潔美的同時，也努力呈現美麗、柔和的空氣感，我們在構圖和色彩方面下了很多功夫。
+
+&emsp;&emsp;如果玩家能從插圖中感受到他們在身旁默默支持、聲援，我們會感到非常高興。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
