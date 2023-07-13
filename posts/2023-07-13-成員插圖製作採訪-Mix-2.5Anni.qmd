@@ -1,0 +1,109 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n5b8d5f15fd91 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：ひらひらたゆたう乙女招募
+format: html
+date: "2023/07/13"
+---
+<script type="module" src="main.js"></script>
+
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;"> ——這次的「ひらひらたゆたう乙女招募」的訓練後插圖的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&emsp;&emsp;這次活動是在春天舉行的，因此希望用五彩繽紛的花朵和水的柔和形狀表現春天的晴朗。過去幾年這個時期的插圖都以櫻花為主題，但今年不僅僅是櫻花，還根據角色的服裝為每個角色選擇了適合她們的春季花卉。
+
+&emsp;&emsp;此外，在活動故事中，志步和其他人一起參觀了「賞花金魚展」的水族館活動。以這個事件為靈感，我們在插圖中融入了她們如同在舞蹈般地游泳姿態，以及衣服如同魚鰭般飄動的表現，使之成為讓人感受到優美印象的作品。
+
+&emsp;&emsp;在這次活動故事中，<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>通過新的交流再次拓展自己的世界。因想描繪出她周圍逐漸變得熱鬧的情景，所以讓許多五顏六色的金魚在她附近游動著。她視線前方凝視般著的，是一條正在游泳的金魚。牠一心一意向前游泳的姿態，或許是讓她想到了這次活動中受到刺激的某個人也說不定。
+
+&emsp;&emsp;<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>浮現出了豁然開朗般的燦爛笑容。因為想在插圖中描繪出她在這次與志歩交流中所感受到的情感，所以在創作時加入了這個元素。她手中拿著要放入玻璃碗中栽培的花，其顏色與她身上的服裝相同。這朵盛開的花似乎象徵著杏想要「再次振作、繼續向前」的決心。
+
+&emsp;&emsp;在活動故事中與志歩和杏這兩位年下角色互動的<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>，讓玩家看到了她不同於平時的成熟面。所以在建立這次構圖時，希望能突顯她這樣的氛圍和衣裝的憐愛感，成為一幅具有神秘感的插圖。她願意關心別人的個性和溫柔的特質也融入進表情和動作中。
+
+&emsp;&emsp;在這次的活動故事中，杏的歌聲和Vivids街道等各種事物吸引了LN的<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>。她總是保持著沉靜的姿態，但這次她在活動中表現出充滿好奇心和快活的一面，希望也能在插圖表達出來。在未來的動作和構圖中營造出一種漂浮感，並以清新可愛的櫻花色為主題色進行繪製。
+
+<br>
+<img src="https://assets.st-note.com/img/1682660715441-Iu1haWHVKB.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 衣裝
+<br>
+<blockquote style="font-weight:bold;"> ——這次的服裝給人的印象相當華美呢，請告訴我們是如何設計的。 </blockquote>
+<br>
+
+
+&emsp;&emsp;這次是2.5週年紀念的服裝，以禮服為基礎，想製作出一套能讓人感受到華麗和雅致的服裝。我們在設計中使用了春季花卉作為飾品、能讓人感受到春天氛圍的粉彩色調等，為每個角色保留了共同的元素，但對衣裝輪廓上進行了變化。
+
+&emsp;&emsp;此外，在活動故事中，志歩和其他人參觀了金魚展，以此事件為靈感，在衣裝上共同採用了魚鰭般的衣褶。這是一個包含許多飄逸擺動部分的設計，所以希望玩家在看角色跳舞時能看到輕盈飄逸的布料之美。
+
+&emsp;&emsp;<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>的服裝特點是長而柔軟的布料疊加在一起，形成了巨大的褶邊剪裁。在優雅和高雅的印象中仍希望保留一些休閒感，因此採用了褲裝風格。為了保留志歩平常性格直率的形象，我們選擇了簡單的長直髮，並佩戴了大型花朵頭飾以營造華麗感。
+
+&emsp;&emsp;<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>的服裝設計成不對稱的華麗連衣裙。我們選擇了短褲款式，並使用了整體有透視感的布料，以保留杏獨有的輕盈感。我們沒有大幅改變頭髮長度，而是以狼尾剪稍加修飾，以突顯杏的堅強和帥氣。
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>的服裝具有露肩上衣和開叉裙子，展現出成熟的美感。我們使用了溫暖的橙色作為點綴，呈現出柔和的印象。我們希望創造一種既成熟又可愛的髮型，因此將前額髮修剪整齊，並選擇了柔和搖曳的長直髮。
+
+&emsp;&emsp;關於<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>，我們希望製作一套可愛且活潑的服裝，所以使用了大翻領和泡泡袖的服裝輪廓設計，並在背部裝飾了大蝴蝶結。我們希望能保留原本L/N未來的形象，因此維持了腰帶和過膝襪等配件的設計。髮型方面，在保留粉色挑染的同時，梳成了兩個包包頭。
+
+<br>
+<img src="https://assets.st-note.com/img/1682660741573-N9Gu4EG87I.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="font-weight:bold;"> ——這次背景布滿了色彩繽紛的花朵和泡泡般的水滴。有哪些是值得注意的看點呢？  </blockquote>
+<br>
+
+&emsp;&emsp;這次希望大家能品味到春天的溫暖和愉快氛圍，所以繪製了春花紛飛、淡彩配色的背景。同時還配合角色的姿勢，在繪製背景時特地凸顯水中才有的漂浮感。 
+&emsp;&emsp;此外還將水泡與金魚缸、玻璃花瓶等具有透明感的物品結合在一起，表現出一種夢幻般的氛圍。
+
+&emsp;&emsp;<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>的服裝以魚鰭般的褶皺為特點，所以我們將志歩描繪成置身於金魚缸中的金魚。我們選擇了與衣服的黃色和綠色相搭配的背景，並挑選了突顯春天花卉的顏色。我們希望建立一個充滿溫馨的畫面，因此以粗糙的筆觸繪製輪廓線，並以淡色調完成整幅插圖。
+
+&emsp;&emsp;對於<code><span style="color:#00BBDD;font-weight:bold;">杏</span></code>，我們希望能創造一個突顯她魅力的空間，因此我們特別關注了玻璃碗和櫻花畫的大小和佈局。我們希望呈現一種明亮但又帶有一絲清涼感的高雅色調，所以我們在保持服裝色調和諧的同時，以白色和紫色的漸變色彩進行繪製。
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>的描繪重點在於營造出她緩緩落在地面上的印象，並且細緻地表現了花瓣和水泡向上升起的美麗。由於繪名展現出溫柔的表情和姿態，因此我們在創作過程中特別注意營造柔和的氛圍。我們通過繪製被水濕潤會逐漸顯得透明的珊瑚花來表現透明感。
+
+&emsp;&emsp;<code><span style="color:#33CCBB;font-weight:bold;">未來</span></code>的背景裡加入了很多玻璃瓶，為了避免畫面顯得凌亂，我們努力探索能使整幅畫面看起來美觀的佈局。瓶子的形狀略有變化，以增加畫面的熱鬧感。我們希望整體氛圍呈現出可愛的感覺，因此活用了未來頭髮的粉紅色，將背景統一成清新的粉色和水藍色。
+
+<br>
+<img src="https://assets.st-note.com/img/1682660789998-MxcI4q2pJl.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;"> ——請告訴我們您在繪製此插圖時有哪些特別注重的地方。 </blockquote>
+<br>
+
+&emsp;&emsp;這次我們希望在描繪出活動故事中每個人「各自的想法」的同時，創作出讓人感受到春天溫暖優雅氛圍的插畫。
+&emsp;&emsp;如果您能享受到她們在髮型和華麗服裝上呈現出與往常不同的新鮮魅力，以及像在水中輕柔漂浮般的既驚奇又美麗的空間，我們將感到非常高興。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
+
+<br>
+<img src="https://assets.st-note.com/img/1682660810045-k7nmjKpF2E.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>

@@ -8,3 +8,4 @@ title: 賽事
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/championship2021/index.html', 'blank')" type="button">2021秋</button>
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/championship2022spring/index.html', 'blank')" type="button">2022春</button>
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/championship2022autumn/index.html', 'blank')" type="button">2022秋</button>
+- <button class="link" onclick="window.open('https://pjsekai.sega.jp/championship2022autumn/index.html', 'blank')" type="button">2023春</button>

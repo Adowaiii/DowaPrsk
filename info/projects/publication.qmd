@@ -5,4 +5,5 @@ title: "出版品"
 
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/anthology/index.html', 'blank')" type="button">公式アンソロジー</button>
 - 公式ビジュアルファンブック
+- 公式ビジュアルファンブック vol.2
 - コミックアンソロジー (DNAメディアコミックス)

@@ -34,7 +34,7 @@ sqlalchemy.create_engine(engine)
 %reload_ext sql
 %sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
 
-result = %sql SELECT SerialNumber, ImgLink FROM 1coma
+result = %sql SELECT SerialNumber, ImgLink FROM 4coma
 df = result.DataFrame()
 
 for i in range(len(df)): 
