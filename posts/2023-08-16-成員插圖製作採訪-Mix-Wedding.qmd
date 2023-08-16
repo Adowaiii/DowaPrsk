@@ -1,0 +1,109 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n01d76503ea72 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：永久に響く鐘の音の下で招募
+format: html
+date: "2023/08/16"
+---
+<script type="module" src="main.js"></script>
+
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;"> ——這次的「永久に響く鐘の音の下で招募」的訓練後插圖的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&emsp;&emsp;這次的活動是在六月舉辦的，活動故事中也有參加「婚紗節」的描寫。插圖也按照故事的情節，以「婚紗」為主題來設定概念。 
+
+
+&emsp;&emsp;去年這個時候，我們也以「婚紗」為主題舉辦了活動。上次我們描繪了華麗絢爛風格的婚禮，今年的目標則是描繪出讓人屏息驚艷、一眼便感受到美的婚禮。這次插圖中努力表現出漂亮、成熟和可愛三種各不相同的魅力，希望玩家能享受到各種不同氛圍的婚禮。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>的構圖是以婚紗照為靈感設計的。這次有特別著重描繪層層疊疊的裙子和鋪在她身後的布之間的平衡感。活動故事中穗波一直在關心奏，為了體現她的「善良」和「照顧他人」的魅力，我們使用沉靜的表情和周圍溫柔的色調來進行繪製。
+
+
+&emsp;&emsp;我們認為<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>比起熱鬧華麗的氣氛，更喜歡安穩平靜的空氣，所以描繪了她身處中庭內較為低調的結婚典禮的情景。即將向明亮的光前行的奏，在踏出第一步前似乎在等待著誰，輕輕地回頭看著。我們努力讓這張插圖可以使人感受到兩人獨處的空間中微風輕撫的平靜，以及陽光從樹葉間灑落的風和日麗之美。
+
+
+&emsp;&emsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>以害羞的表情抱著布偶，就像她正在對愛的告白感到心跳加速一樣。藉由添加一些閃亮、柔和的淡化效果，使整張插圖看起來就像少女漫畫中的一頁場景。希望大家能享受到えむ在特訓前的充滿活力和特訓後羞澀的表情和動作之間反差萌。
+
+<br>
+<img src="https://assets.st-note.com/img/1686625981679-IPEwSG9nLD.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 衣裝
+<br>
+<blockquote style="font-weight:bold;"> ——這次衣裝是各具風格的禮服呢，請告訴我們是如何設計的。 </blockquote>
+<br>
+
+
+&emsp;&emsp;去年的這個時期的活動也以「婚紗」為主題，上次我們重視華麗感，創作出與她們平時截然不同的絢爛服裝。今年，我們以簡單的輪廓為基礎，專注於設計出適合每個人風格的服裝。這次也努力使每個人的魅力在設計中得到體現。
+
+
+&emsp;&emsp;<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>的衣裝是以傳統白色婚紗為基礎的重新設計。用鑲滿珍珠的飾品和玻璃鞋風格的高跟鞋，創造出一套如同公主一般氛圍的服裝。我們希望在傳統的禮服裡加入一些包含她個性的元素，因此在服裝上散佈了可以聯想到L/N的星星圖樣。將她高高綁起的三股辮設計成盤髮，展現出成熟的美。
+
+
+&emsp;&emsp;<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>的衣裝基礎是帶有人魚線的禮服。把裙擺設計成像花瓣一樣的形狀，將緞帶像玫瑰莖一樣纏繞著，打造出一套可以聯想成一朵花的禮裙。在三人之中奏年紀最大，個性最為沉穩，所以我們想讓她的禮服和髮型都顯得成熟。採用了露出肩膀和腿部的設計，並用奢華的手鍊增添了華麗感。髮型則是編成輕盈的辮子。
+
+
+&emsp;&emsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>穿著飾有粉紅色玫瑰的可愛禮服。使用了許多點綴在臉部周圍的飾品和可讓人聯想到她平時穿著的氣球裙，在服裝上展現出她的快活和WS氛圍的熱鬧感。另一方面，我們在裙子上堆疊薄薄的布料，並以纖細的蕾絲加以裝飾，創造出令人憐愛的服裝。為了搭配這種既可愛又成熟的服裝，髮型梳成別到耳後的公主頭，讓人同時感受到這兩個要素。
+
+<br>
+<img src="https://assets.st-note.com/img/1686626183309-fu7k0hLL7N.png?width=2000&height=2000&fit=bounds&quality=85">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="font-weight:bold;"> ——這次插圖的風格大不相同，背景有哪些是值得注意的看點呢？  </blockquote>
+<br>
+
+
+&emsp;&emsp;我們希望能夠配合整體的概念，保持婚紗美麗和華麗的印象。此外，由於這次是混團活動，我們也努力創作出能夠突出各自特色的情境。希望玩家能享受這些不同的氛圍。
+
+
+&emsp;&emsp;<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>在活動故事中，從奏那裡得到了作為感謝的「花束」。這次插圖中穗波也非常珍視地捧著花束，背景點綴大量的花朵，以讓人印象深刻且優美的方式展現。布的層層疊疊和多種物品的配置使得構圖變得有些困難，不過我們仍維持婚紗照的風格，以及重視角色和背景的整體感，盡可能完美融合在一起並製作出這幅插圖。
+
+
+&emsp;&emsp;由於<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>在戶外舉行婚禮，我們希望她的插圖給人一種清爽的印象。構圖時為了不讓奏右邊空下的空間看起來缺乏什麼，於是配置了建築物和物體。配合她的頭髮和衣服的顏色，讓她身邊圍繞看起來沉靜的偏藍光線。照在她身上、從陰涼樹蔭朝明亮之處照射的陽光，則是想繪製出能讓人感受到希望的色調。
+
+
+&emsp;&emsp;我們從<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>在特訓前插圖中所扮演的「吸血鬼・鳳伯爵」一角中獲得靈感，加入了能讓人聯想到蝙蝠的元素。她抱著的毛絨絨的玩具也穿著和吸血鬼一樣的衣服。整體保持甜美少女系印象的同時，還在蕾絲中加入了音符和星星的元素，並描繪氣球和旗幟等物品，保留了WS熱鬧、開心的風格。
+
+<br>
+<img src="https://assets.st-note.com/img/1686626197596-Ko9tZSz8Q8.png?width=800">
+<br><br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;"> ——請告訴我們您在繪製此插圖時有哪些特別注重的地方。 </blockquote>
+<br>
+
+
+&emsp;&emsp;我們希望能夠根據這次插圖的主題「婚紗」，更加突顯三人的美麗和可愛的特質。在情境和描繪方式上也做了變化，努力將她們的魅力以及故事中感受到的心情體現出來。這次表情、髮型和服裝也想表現出與平時不同的一面，希望玩家能因此發現她們全新的魅力。
+
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
