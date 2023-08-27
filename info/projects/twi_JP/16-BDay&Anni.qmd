@@ -269,7 +269,6 @@ format:
 
 ::: {.panel-tabset group="13"}
 ## 2021
-<div id="13-2021" class="tabcontent">
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1393944335540920320?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## 2022

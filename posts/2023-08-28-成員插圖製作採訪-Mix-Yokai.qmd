@@ -1,0 +1,114 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/nc8748d0f00da | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：妖蔓延る京招募
+format: html
+date: "2023/08/28"
+---
+<script type="module" src="main.js"></script>
+
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;"> ——這次「妖蔓延る京招募」的訓練後插圖的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&emsp;&emsp;在這次的活動中，包含類在內的二年級生因為畢業旅行而造訪京都。在活用他們學生打扮的同時，也將京都的「和」的氛圍細膩地呈現了出來。此外，聯想自故事中的「百鬼夜行盛裝遊行」，在插圖中也有配合角色讓妖怪登場。希望大家能喜歡這次充滿奇妙妖異風格的插圖。
+
+&emsp;&emsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>在特訓前的插圖中，在同學們中心展現了開心的笑容。如同要聯想這件事般，特訓後的插圖中也被眾多妖怪包圍著。類在這次插圖中身處比任何人都更熱鬧的場所，也許是反映了他在旅行中感受到「在眾多朋友的圈子中度過是如此快樂」的心情。妖怪的畫風改用墨畫般的筆觸、顯著的線繪來呈現「非凡間之物」的氣氛。
+
+&emsp;&emsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>在神社的院落內露出無畏的笑容佇立著。作為演員的他能夠進行各種「變化」，我們認為他和善於「變化」的妖怪很合拍，因此畫了他與狐妖和化狸一起。為了想表達他所演繹的角色之廣泛性和接下來變化的可能性，所以三人身上的氛圍和校服的穿搭都有意識地做了很大的區別。通過增強色彩對比，來呈現黃昏時特有的、不知為何有些毛骨悚然的空氣感。
+
+&emsp;&emsp;<code style="background-color:#99EEDD"><span style="color:black;font-weight:bold;">雫</span></code>和座敷童子躺著的模樣是用了溫暖的色調繪製，希望能給人一種懷舊和溫和的印象。此外，為了能展現出她與以往不同的「雅致」和「性感」，在姿勢的柔和感、包含到指尖的手勢、視線的方向等每一細節上都能美麗地表現出來而有所著墨。透過強化光影對比，使插圖增添了一股妖豔的氣氛。
+
+<br>
+<img src="https://assets.st-note.com/img/1689757103721-k8koal5rrS.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+
+### 衣裝
+<br>
+<blockquote style="font-weight:bold;"> ——這次衣裝是學生服呢，有值得注意的看點嗎？</blockquote>
+<br>
+
+&emsp;&emsp;這次是透過畢業旅行，讓大家一窺大家平常的學生生活的活動故事。因此，我們希望這是迄今為止最能感受到「學生氣質」的服裝，所以製作了簡單而標準的學生服。為了搭配以妖怪為主題、充滿妖異氣氛的插圖風格，服裝整體以單色和沉靜的配色進行繪製。
+
+&emsp;&emsp;<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>穿著西裝外套風格的制服和樂福鞋，整體是非常整齊的搭配。平時穿著都很休閒的他，這次的服裝也是，鬆散打上的領帶和長袖開襟衫，展現了他的穿衣風格。髮型為了讓他看起來更有時尚、清爽的印象，所以選擇了後髮際較短、蓬鬆的短髮（※マッシュヘア）。
+
+&emsp;&emsp;在班級中擔任班長的<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>，我們希望在他的服裝中能讓人感受到他認真與正直的個性。服裝是立領風格，配上眼鏡和學生名牌等物品。領子部分留有些許餘裕，腳上穿著高筒球鞋，希望保留學生的活潑氣質。髮型略顯年幼，髮量偏多而使得輪廓略顯圓潤。
+
+&emsp;&emsp;<code style="background-color:#99EEDD"><span style="color:black;font-weight:bold;">雫</span></code>的造型是以能讓人聯想到「文學少女」，知性且神祕的裝扮為目標而設計的。以樸素簡單的學生服為基底，透過調整裙子和襪子的長度來調整皮膚露出的多寡，從而展現出認真和成熟的氣質。我們希望大家能感受到和她日常風格的反差，因此髮型設計成後髮際較蓬鬆的短鮑伯頭。
+
+<br>
+<img src="https://assets.st-note.com/img/1689757158529-RYfmsxMQIY.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="font-weight:bold;"> ——這次看起來加入很多和風元素，背景有哪些是值得注意的看點呢？  </blockquote>
+<br>
+
+&emsp;&emsp;連結這次的故事中出現「百鬼夜行盛裝遊行」，在插圖中也畫了很多妖怪。我們利用這種情境，在背景中加入一些恐怖或詭異的要素。此外還選擇了在這次的舞台，京都才能感受到的「和」的地方和物品，使其擁有雅致的氛圍。
+
+&emsp;&emsp;在瓦屋頂上的<code><span style="color:#BB88EE;font-weight:bold;">類</span></code>，他的視線下是一片看似京都的城市景觀。在排列的和風建築中，增加了一些異世界的元素，使整體具有奇幻風格。我們希望能呈現<span style="background-color:#92C6FF;">逢魔時刻</span>的詭譎氣氛，因此假定比其他兩幅晚上許多的時間帶，大量使用了紅色和紫色。我們也畫了被妖怪遮蓋的背景部分，藉由讓這些背景些許透過妖怪的身體，使插圖產生不可思議的感覺。
+
+::: {.callout-note collapse="true"}
+## <b>逢魔時刻</b>
+即黃昏時刻，此時天色漸暗，晝夜交錯，在日本文化中被說是會遭逢災禍，或是容易遇到妖怪、幽靈的時刻。
+:::
+
+&emsp;&emsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>的背景中，為了想充分展示他身後站著的兩人的影子和變化時飄落的葉子等元素，以及活用構圖的優點，因此在背景的配置上進行了摸索。此外，我們還改變了前景和背景的視點位置，並使左右的石像傾斜讓畫面看起來像是向外擴展，整體畫面做出些微失真的效果，從而產生一種奇異的感覺。
+
+&emsp;&emsp;<code style="background-color:#99EEDD"><span style="color:black;font-weight:bold;">雫</span></code>的背景是描繪了一個京都的<span style="background-color:#92C6FF;">町家</span>房間。<span style="background-color:#92C6FF;">畳</span>的大小依照<span style="background-color:#92C6FF;">京間</span>的標準繪製了較大的尺寸，並在前景放置了如楓葉和桔梗這些在日本自古就相當受喜愛的植物，希望能夠展現京都的「和」的氛圍。與其他兩幅相比，只有雫是室內的插圖，因此我們想要保留傍晚時分的柔和光線，使整體插圖擁有溫和的感覺。
+
+::: {.callout-note collapse="true"}
+## <b>町家</b>
+指江戶時代住在城下町（城市中）、宿場町或門前町（神社寺廟周邊）等市街區的商人、工藝職人的民宅、住家。
+:::
+::: {.callout-note collapse="true"}
+## <b>畳</b>
+榻榻米，在這裡做為丈量房間大小的單位。
+:::
+::: {.callout-note collapse="true"}
+## <b>京間</b>
+榻榻米的標準尺寸之一，長190.8cm，寬95.4cm。
+:::
+
+<br>
+<img src="https://assets.st-note.com/img/1689757212262-R1j1QK51WQ.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;"> ——請告訴我們您在繪製此插圖時有哪些特別注重的地方。 </blockquote>
+<br>
+
+&emsp;&emsp;這次希望能夠帶給玩家和世界計畫平時不大相同的風格，彷彿是另一部作品般不可思議又詭譎神秘的氛圍。每一張插圖中所繪製的妖怪，很多都是根據角色個性來選擇的，如果多加留意也許能發現一些新的事物。
+
+&emsp;&emsp;如果玩家不僅僅只有看見恐怖的要素，也能從插圖中感受到每個人都與妖怪建立了友情，以及這次活動獨有的青春感，我們將感到非常高興。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
+

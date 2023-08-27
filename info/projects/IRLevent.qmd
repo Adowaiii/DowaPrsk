@@ -6,3 +6,4 @@ title: 實體活動
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/2ndanniversarythanksfestival/index.html', 'blank')" type="button">2周年感謝祭</button>
 - <button class="link" onclick="window.open('https://pjsekai.sega.jp/kamikoufestival/index.html', 'blank')" type="button">神高祭</button>
 - <button class="link" onclick="window.open('https://shop.phoenixwonderland.jp/index.html', 'blank')" type="button">フェニックスワンダーランドSHOP</button>
+- <button class="link" onclick="window.open('https://pjsekai.sega.jp/3rdanniversarythanksfestival/index.html', 'blank')" type="button">3周年感謝祭</button>
