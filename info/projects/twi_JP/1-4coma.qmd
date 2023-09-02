@@ -44,7 +44,7 @@ for i in range(len(df)):
 :::
 
 <style>
-
+1
   @media screen and (max-width:1000px) {
     .cell {
        grid-template-columns:repeat(5, 1fr) !important ; 

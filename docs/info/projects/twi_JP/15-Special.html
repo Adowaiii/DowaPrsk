@@ -144,6 +144,43 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.coll-content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
 <button type="button" class="collapsible">
 2021暑期配信
 </button>
@@ -177,6 +214,56 @@ ul.task-list li input[type="checkbox"] {
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+<button type="button" class="collapsible">
+2023正月繪圖電影
+</button>
+<div class="coll-content">
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1609391592032329731?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1609451859797753857?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1609512385311657985?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1609753976437710848?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1610116237589192706?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet blockquote" style="height:50px">
+<a href="https://twitter.com/pj_sekai/status/1610237161910976512?s=20?ref_src=twsrc%5Etfw"></a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 
 
 
