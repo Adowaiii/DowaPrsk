@@ -1,0 +1,104 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n1b3dbf2365e6 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：Where is ♡？招募
+format: html
+date: "2023/09/27"
+---
+<script type="module" src="main.js"></script>
+
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+
+
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——這次「Where is ♡？招募」的訓練後插圖的概念是怎麼決定的呢？</blockquote>
+<br>
+
+&emsp;&emsp;藉由這次活動標題「向戴上面具的我說再見」（仮面の私にさよならを），還有在活動實裝的歌曲「演劇」作為聯想，我們想在
+插圖中直接描繪「下台後的まふゆ」和「陪在她身邊的25時的大家」。
+
+&emsp;&emsp;除次之外，作為這次活動故事中的重要元素，也描繪了まふゆ與母親的關係。為了能使插圖反映出まふゆ的心情，她的四周也散落著各式各樣的物品。
+
+<br>
+
+&emsp;&emsp;在特訓前的插圖中，<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>儘管被絲線纏繞，仍然努力地傳達自己的情感。特訓後的插圖中，她用自己的意志切斷了那些線。和從眼裡流出的淚水相對照，她的瞳孔呈現了某種看不見情感的顏色，或許是她無從發洩的情感從內心滲透出來。
+
+&emsp;&emsp;<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>手中接住了破碎的寶石，並以溫柔的姿態環繞著它。她所在的空間中有很多銳利、直線元素的物品。就像是要產生對比般，她環繞寶石的姿態和身穿的服裝都是用柔和的線條進行製作的。或許是和寶石產生共鳴，可以瞥見她的表情透露出複雜的情感。
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>即使面對著許多物品和絲線的阻礙，也努力伸手想將寶石帶回光明的方向。在過去的活動故事中，一直告訴まふゆ「不喜歡的事情就說不喜歡就好了」的繪名。即使表情嚴峻，也可以從她的眼神中看到努力想要反抗的堅強意志。
+
+<br>
+<img src="https://assets.st-note.com/img/1691646156052-qGOkrl5aTu.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+
+### 服裝
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——這次服裝統一以白色作為基調呢，有值得注意的看點嗎？</blockquote>
+<br>
+
+&emsp;&emsp;在這次的活動故事中，一直把母親當作一切的まふゆ與母親決裂，並描寫了她邁出新的一步。我們從中得到靈感，以「重獲新生的まふゆ」為主題，採用「嬰兒連衣裙」作為基礎，製作了以純潔的白色為基調的衣裝。有些沾上泥濘般的紋路，也與她在活動故事中在雨中奔走出家門的景況連結。
+
+&emsp;&emsp;過去的服裝設計中，<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>的頸部經常被緊緊束缚，或者周圍有飾品點綴。這次，我們根據她的心情，首次設計了一件頸部清晰可見的服裝。服裝背面的紋路像是奔跑時飛濺起的泥濘，蕾絲則是模仿被撕裂的常春藤的形狀。
+
+&emsp;&emsp;<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>的服裝因符合她的風格而採相對簡單的設計，不過也反映了她「想要寫出拯救まふゆ的曲子」的強烈願望，因此胸口和下擺加入了像五線譜的線。與衣裝背後有很多泥濘的まふゆ相對，接受まふゆ的奏則是在衣服前面沾上了泥濘，在五線譜上彷彿像音符般排列著。
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>的服裝外型蓬鬆，上面裝飾了像是繃帶的白色緞帶和荷葉邊。胸前別有一個有缺口的蘋果飾品，下擺有鈴蘭的花紋，使整體的形象更加可愛。從活動故事中的她為了尋找まふゆ四處奔走的場景，採用了易於跑走的休閒涼鞋。
+
+<br>
+<img src="https://assets.st-note.com/img/1691646261703-6CAqVJaeY0.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 背景
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——這次的背景裡描繪了許多物品呢，有哪些是值得注意的看點呢？  </blockquote>
+<br>
+
+&emsp;&emsp;我們希望創造一個能突顯「まふゆ的心情」的背景，所以包含了許多之前的活動卡片插圖中出現過的各種物品，如果玩家們能發現裡面的小巧思我們會很開心的。
+
+&emsp;&emsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>的背景是受到這次實裝的活動歌曲「演劇」的啟發，以「まふゆ離開舞台後，那個舞台逐漸破碎」為意象進行製作的。試圖保留物品落下的漂浮感的同時，也希望留下時間止於那瞬間的印象，因此特意製作出類似於停格動畫單幀的畫面。
+
+&emsp;&emsp;<code style="background-color:#BB6688"><span style="color:black;font-weight:bold;">奏</span></code>所在的空間似乎反映了まふゆ心中的混亂，散落著餐具、醫學教科書和文具等等，與まふゆ相關聯的物品。家具和絲線上，纏繞著之前活動中曾描繪過的「常春藤」。在奏深刻與寶石共鳴的這個場所裡，我們想表現出一種寂寞和不安全感，因此用深沉的暗色系繪製。
+
+&emsp;&emsp;為了和<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>在特訓前急切尋找まふゆ的情感產生聯動，她所處的場所和其他插圖相比，描繪的物品也特別多。寶石閃爍著似要熄滅的微光，遊蕩在令人感到寂寞的暗色空間，與其相對的，繪名來的方向則用一抹令人安心的明亮色調來完成整幅圖。
+
+<br>
+<img src="https://assets.st-note.com/img/1691646342802-JNDVtFA0cV.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br><br>
+
+### 尾聲
+
+<br>
+<blockquote style="color:#884499;font-weight:bold;"> ——請告訴我們您在繪製此插圖時有哪些特別注重的地方。 </blockquote>
+<br>
+
+&emsp;&emsp;這次我們特別想要準確地描繪出首次展示強烈情感的まふゆ，還有各自以自己的方式陪在她身邊的25時成員們的感受。
+
+&emsp;&emsp;另外，作為與まふゆ相關的活動故事中一個重要的里程碑，我們也在各處散佈了以前插圖中出現過的主題和物品，仔細找找的話或許會有新的發現。
+
+&emsp;&emsp;儘管充滿掙扎和衝突，她們仍一點一滴地前進，希望大家能和我們一起關注並見證少女們的未來。
+
+<br>
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
