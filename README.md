@@ -1,1 +1,1 @@
-site link: https://adowaiii.github.io/DowaPrsk/
+Site Link: https://dowa.cc
