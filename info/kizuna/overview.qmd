@@ -25,11 +25,12 @@ import sqlalchemy
 import pandas as pd
 import numpy as np
 import os
-from IPython.display import display, Markdown
+from IPython.display import display, Markdown, clear_output
 from dotenv import load_dotenv
 import urllib
 from urllib.parse import quote_plus
 from tabulate import tabulate
+import json
 
 load_dotenv()
 db_password = os.getenv("DB_PASSWORD")
@@ -48,30 +49,38 @@ sqlalchemy.create_engine(engine)
 result = %sql SELECT * FROM kizuna
 df = result.DataFrame()
 
+# Convert it to JSON
+data = json.dumps(df.to_dict(orient='records'))
 
+json_dict = json.loads(data)
+
+transformed_data = {}
+
+for entry in json_dict:
+  key = f"{entry['Main']}-{entry['Sub']}"
+  transformed_data[key] = {
+      "rank26": entry["rank26"],
+      "rank46": entry["rank46"],
+      "rank5": entry["rank5"]
+  }
+
+json_data = json.dumps(transformed_data)
+
+# You can write this JSON to a file or embed it directly in HTML
+print(json_data)
 
 array = [['' for a in range(27)] for b in range(26)]
 
-for i in range(len(df)):
-    array[int(df.iloc[i][0])-1][int(df.iloc[i][1])] = '<span class="text"><code>05</code>' + str(df.iloc[i][2])+'<br><code>26</code>'+str(df.iloc[i][3])+'<br><code>46</code>'+str(df.iloc[i][4])+'</span>'
-
-headers=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'花里みのり',	'桐谷遥',	'桃井愛莉',	'日野森雫',	'小豆沢こはね',	'白石杏',	'東雲彰人',	'青柳冬弥',	'天馬司',	'鳳えむ',	'草薙寧々',	'神代類',	'宵崎奏',	'朝比奈まふゆ',	'東雲絵名',	'暁山瑞希', '初音ミク', '鏡音リン', '鏡音レン', '巡音ルカ', 'MEIKO', 'KAITO']
-
-for i in range(27):
-  for j in range(26):
-    if (j == 0):
-      array[i-1][j] = '<span class="rowHeader">'+headers[i-1]+'</span>'
-    if (i == j):
-      array[i-1][j] = '<span class="line"></span>'
-
-Markdown(tabulate(
-    array, 
-    headers=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'花里みのり',	'桐谷遥',	'桃井愛莉',	'日野森雫',	'小豆沢こはね',	'白石杏',	'東雲彰人',	'青柳冬弥',	'天馬司',	'鳳えむ',	'草薙寧々',	'神代類',	'宵崎奏',	'朝比奈まふゆ',	'東雲絵名',	'暁山瑞希', '初音ミク', '鏡音リン', '鏡音レン', '巡音ルカ', 'MEIKO', 'KAITO'],
-    showindex=False,
-    ))
+characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'花里みのり',	'桐谷遥',	'桃井愛莉',	'日野森雫',	'小豆沢こはね',	'白石杏',	'東雲彰人',	'青柳冬弥',	'天馬司',	'鳳えむ',	'草薙寧々',	'神代類',	'宵崎奏',	'朝比奈まふゆ',	'東雲絵名',	'暁山瑞希', '初音ミク', '鏡音リン', '鏡音レン', '巡音ルカ', 'MEIKO', 'KAITO']
 
 ```
 
+
+<select id="character1"></select>
+<select id="character2"></select>
+<div id="relationshipInfo"></div>
+
+<script type="module" src="index.js"></script>
 
 <style>
   /* body {

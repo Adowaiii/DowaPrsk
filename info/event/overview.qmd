@@ -58,6 +58,8 @@ for i in range(len(df)):
         attr = str('./Attribute/attr_happy.png')
     elif(str(df.iloc[i][10]) == 'クール'):
         attr = str('./Attribute/attr_cool.png')
+    else:
+        attr = ''
 
     ### Key Story Icon    
     if (df.iloc[i][8] == 1):

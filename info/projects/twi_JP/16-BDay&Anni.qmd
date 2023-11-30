@@ -185,7 +185,7 @@ format:
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1504835020363546654?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 2023
-<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1504835020363546654?s=20&t=soGoTqrO4mll1nfF3AMjCA"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1637106583912996864"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 
@@ -263,6 +263,10 @@ format:
 ## 2022
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1591083336742719490?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## 2023 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1723354905761763711"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 :::
 </div></div>
 
@@ -312,7 +316,11 @@ format:
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1435618939225219074?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## 2022
-<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1567890644684705794?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1567890644684705794?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 2023 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://x.com/pj_sekai/status/1700162089531445310?s=20"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+
 
 ::: 
 </div></div>
@@ -440,6 +448,12 @@ format:
 ## 2021
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1564629022369165316?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## 2022 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://x.com/pj_sekai/status/1564629022369165316?s=20"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 2023
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://x.com/pj_sekai/status/1696900590259814765?s=20"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 :::
 </div></div>
 
@@ -512,6 +526,7 @@ format:
   <!-- list content -->
 <div class="list-content">
 
+::: {.panel-tabset group="25"}
 ## 2019
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1191369678582472706?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -523,6 +538,9 @@ format:
 
 ## 2022
 <blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1588546619712094209?s=20&t=Nuab3zVId4iie6eokLOPQg"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 2023 
+<blockquote class="twitter-tweet" style="height:50px"><a href="https://twitter.com/pj_sekai/status/1720818183731400952"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 :::
 </div></div>
