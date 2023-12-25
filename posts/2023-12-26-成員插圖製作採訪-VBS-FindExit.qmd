@@ -1,0 +1,102 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n0f8c87d1ac10 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：FIND THE EXIT招募
+format: html
+date: 2023/12/26
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;">——請問這次「FIND THE EXIT招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+&emsp;&emsp;這次活動故事的主要元素，是彰人通過修行找到了突破口，展現了他的成長。因此，我們想要直接地描繪他們掙扎但仍向前邁出一步的樣子，最終決定了這次的概念。他們面對高牆卻依然立志「超越RAD WEEKEND」，保留他們這股決心的熱情，並融入了讓人聯想到未來希望的「明亮」和「清新」等要素。
+
+&emsp;&emsp;過去經常描繪<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code> 「熱情」和「拼命」的這一面，但我們這次從這期故事中他獲得的新事物做出連結，率直地描繪出他釋放長期壓抑情感後的「真實自我」。從他清新的笑容和姿態中，可以感受到他對「前行的道路已毫無迷惘」振奮不已的決心。
+
+&emsp;&emsp;為了與<code><span style="color:#FF6699;font-weight:bold;">こはね</span></code>在隧道中的場景和她愉快的神情相結合，我們設計了既帥氣又可愛的插圖風格。她飄逸的頭髮和服裝增添了畫面的動感。我們把她為夢想而不斷努力進步的心情，融入了她活潑的笑容中。
+
+&emsp;&emsp;至於<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>，我們想要描繪出她隨性中隱含的「冷靜」和「強大」。她威風凜凜的姿態和無所畏懼的自信微笑，和她在這次故事中給予彰人激勵和支持的身影重疊。ルカ視線前方，散發出如同VBS眾人的熱情般強烈的光芒。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1699426196817-uVpO2sibft.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——這次的服裝統一使用黑色，給人一種帥氣的印象呢。可以告訴我們是如何設計的嗎？ </blockquote>
+<br>
+
+&emsp;&emsp;我們想和這次活動中實裝的新曲「CR詠ZY」給人的印象相結合，於是決定設計酷炫且帥氣風格的服裝。另外，為了表現彰人們在經歷大敗給大河後從低谷中往上攀登之「堅強」，以及他們所背負的事物之「重量」，整體選擇了較暗重的顏色，並使用硬質材料製作件及裝飾。
+
+&emsp;&emsp;關於<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code>的服裝，我們很重視他至今為止的努力和內心持續燃燒的情感，因此並非採用全新的設計，而是保留了初期團隊服裝的某些元素。此外，他佩戴的項鍊和戒指閃爍著亮光，增添了華麗的光澤。
+
+&emsp;&emsp;<code><span style="color:#FF6699;font-weight:bold;">こはね</span></code>的服裝是為了符合概念而設計的酷炫風格，帽簷比平時壓的還要深，佩戴硬皮革飾品，整體搭配給人一種帥氣的印象。通過露出袖子和腰部肌膚的設計，以及裙擺的圓形剪裁，營造出一種穿透輕盈感。
+
+&emsp;&emsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>穿著的上衣和夾克則是刻意保持簡單的搭配，展現了時髦且自然的時尚穿搭。大腿處的腰帶、過膝襪和護腿的組合等等，圍繞著雙足搭配的各種配飾，使她的裝扮雖簡單卻充滿個性。
+
+  
+<br>
+<img src="https://assets.st-note.com/img/1699426240088-lJwXLOLA7M.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;"> ——這次的插圖背景明暗特別明顯，令人印象深刻呢。有哪些地方是該注意的亮點？ </blockquote>
+<br>
+
+&emsp;&emsp;我們希望透過背景來表現出目前為止VBS所走過的道路和埋藏在內心的想法，因此選擇了「鐵路」作為共通的主題。我們特意強調了明暗對比，並在製作時特別注意光影效果，以使整體插圖展現出屬於他們未來的明亮和清新。
+
+&emsp;&emsp;<code><span style="color:#FF7722;font-weight:bold;">彰人</span></code>的背景是為了支持他們逐漸明朗的未來而進行設計，表現出「希望」的感覺。我們通過強烈的明暗對比，使得隧道外的亮度顯得格外引人注目。光的顏色不是無機的白色，而是融入了彰人情感的色彩。
+
+&emsp;&emsp;<code><span style="color:#FF6699;font-weight:bold;">こはね</span></code>所站的鐵路代表了他們過去走過的路。因此，我們描繪了仍在使用的鐵路，不過在某些地方有鏽跡和磨損，顯示出頻繁使用過的痕跡。照亮こはね的光芒是耀眼的明亮色調，象徵著支持她前進的道路。
+
+&emsp;&emsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>的背景中沒有顯示地面，而是將天空大幅呈現在畫面中，表現出她比VBS其他成員的位置還要更高。她背後的道路比其他兩個插圖中的道路更堅固、寬闊。我們特別重視描繪出ルカ的冷靜氛圍與她所注視的熱烈光芒之間的對比。
+  
+
+<br>
+<img src="https://assets.st-note.com/img/1699426312610-QWAW6qGkKe.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+  
+### 尾聲
+
+<br>
+<blockquote style="color:#ee1166;font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+
+&emsp;&emsp;這次活動故事中，描繪著敗給大河的VBS再次向前方前行的樣子。反映他們對夢想的熱情同時，我們希望創作出一個在良好意義上放鬆的「真實的他們」。VBS的插圖常常切出他們追求遠大夢想所展現出「熱情」和「拼命」的一面進行展示，但這次特別強調了他們「明亮」和「清新」的魅力。
+
+&emsp;&emsp;我們希望您能和我們一起繼續關注並支持他們對夢想邁出全新開始的一步。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
+

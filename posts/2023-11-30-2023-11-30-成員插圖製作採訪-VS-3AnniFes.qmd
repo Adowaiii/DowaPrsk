@@ -1,7 +1,7 @@
 ---
 layout: post
 description: 原文章：https://media.colorfulpalette.co.jp/n/nc8792a713b09 | 此篇訪談翻譯僅作為個人練習。
-categories: 官方部落格採訪,插圖製作,翻譯,ColofulPalette
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
 title: 成員插圖製作採訪：[3周年記念] Color Festival 招募
 format: html
 date: 2023/11/30
