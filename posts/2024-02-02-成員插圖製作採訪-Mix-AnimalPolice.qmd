@@ -1,0 +1,97 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n13d3eca640b8 | 此篇訪談翻譯僅作為個人練習。
+categories: [官方部落格採訪, 插圖製作, 翻譯, ColofulPalette]
+title: 成員插圖製作採訪：密着！アニマルポリス24時！招募
+format: html
+date: 2024/02/02
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;">——請問這次「密着！アニマルポリス24時！招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+&emsp;&emsp;這次活動故事描述了みのり和志歩參加了職場體驗並擔任起飼育員。我們從故事內容中獲得靈感，打造了一個動物與人類共生的奇幻世界觀，並希望以可愛且有魅力的方式來描繪角色與動物互動的場面。
+&emsp;&emsp;此外，為了與活動故事中努力捕捉犰狳的情景相連接，是採用みのり、志歩和流歌以警察的身份維護城鎮秩序的情境。<br>
+&emsp;&emsp;透過使用明亮的色彩和樂趣盎然的物品，呈現一個活潑而可愛的世界。
+
+&emsp;&emsp;<code style="background-color:#FFCCAA"><span style="color:black;font-weight:bold;">みのり</span></code>在特訓前的插圖中為了捕捉犰狳而努力奔跑著，和這個場景相連結，我們想描繪她作為一名警察非常努力的樣子。她嘗試仲裁小熊貓之間的衝突，卻因不了解牠們動作的涵義而陷入困惑。構圖及選用的色彩都是為了強調她「必須做點什麼」的堅強個性和「有點笨拙的可愛」而進行製作的。
+
+&emsp;&emsp;負責交通疏導的<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>正在看著準備上學的小鴨群。為了創造一個平和安穩的畫面，我們精心描繪了每隻小鴨的表情和迷你城鎮的樣貌。她露出少見的困惑動作以及難以掩飾的喜悅，是不是感受到了與她平時冷靜形象的反差呢。
+
+&emsp;&emsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>在活動故事中為了捕捉犰狳而向みのり提供了準確的指示。我們從她的行動中獲得靈感，想在插畫中表現出她作為一位「資深警官」的可靠和成熟魅力。她帶領著許多警員，沐浴在車燈的照射下並露出輕鬆從容的表情，可以感受到她身為大前輩的風采。
+
+<br>
+<img src="https://assets.st-note.com/img/1703658526552-ugt2eTvYi2.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;">——這次的服裝是以警察官的制服為基底進行設計的吧？有什麼特別之處嗎？ </blockquote>
+<br>
+
+
+&emsp;&emsp;我們根據「動物×警察」的主題進行了精心設計，以符合活動故事的有趣風格，製作了既可愛又活潑的服裝。透過特徵的耳朵造型來展現動物的元素，同時佩戴了象徵警察的手銬和警棍等道具。
+
+&emsp;&emsp;<code style="background-color:#FFCCAA"><span style="color:black;font-weight:bold;">みのり</span></code>的服裝是以警官制服為基礎，融入了「小熊貓」的元素。為了營造出像新人警官的新鮮感，她穿著短袖襯衫，並搭配蝴蝶結領帶和裝飾著荷葉邊的裙子，呈現出可愛活潑的外觀。她的手腳上佩戴著強調動物特質的毛茸茸配件。
+
+&emsp;&emsp;<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>的服裝結合了「雪豹」的元素，旨在融合她平時的冷靜與活動故事中展現出的可愛一面。她頭戴耳機、身穿背心、護腕等，營造出像是特種部隊的帥氣感。通過將頭戴耳機設計成貓耳形狀，並在頸部掛上鈴鐺，增添了貓科動物的可愛。
+
+&emsp;&emsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>則以時髦的氛圍為目標，融入了「斑馬」的元素。她的服裝與像新手警官服裝的みのり形成對比，給人一種老練警官的印象。為了創造成熟的形象，採用了連衣裙式的制服。與其他兩人相比，她的服裝上減少了毛茸茸的要素，取而代之的是在領子和襪子上添加很有特色的斑馬紋來表現動物特質。
+
+<br>
+<img src="https://assets.st-note.com/img/1703658585497-Ls1duCCKdz.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;"> ——這次的插圖背景呈現出一種活潑的氛圍呢。有哪些地方是該注意的亮點？ </blockquote>
+<br>
+
+&emsp;&emsp;我們希望能搭配整體概念，使得也能從背景的細節中感受到「動物與人類共生的世界」這一點。我們為每個街道根據相應的動物特徵進行了描繪和佈置，所以在細看這些場景時，或許會有新的發現也說不定。希望這些和以往略有不同的、迷你化可愛街景能為大家帶來雀躍感。
+
+&emsp;&emsp;<code style="background-color:#FFCCAA"><span style="color:black;font-weight:bold;">みのり</span></code>的背景是以派出所為中心的城鎮。為了表現人類與動物共生的景象，我們特別注重建築的設計和物體的尺寸感。街道上的海報和招牌等細節處也進行了巧妙的設計，希望大家能在想像小熊貓的生活的同時，享受尋找這些細節的樂趣。
+
+&emsp;&emsp;因為<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>所在的背景是鳥類居住的地區，我們力求表現出一個小巧而可愛的街道，注重描繪有圓潤感的形狀。為了配合她負責交通疏導的情境，我們想像了一個都市化不高、自然豐富且寧靜的街道。用類似繪本的手法來描繪天空和綠意，營造出一種溫馨的氛圍。
+
+&emsp;&emsp;<code style="background-color:#FFBBCC;"><span style="color:black;font-weight:bold;">流歌</span></code>的背景，是她追捕犯人至碼頭的這個情境中帶有的「嚴肅感」，以及配合這個世界觀所呈現的「吸引人的魅力」，在這兩種風格之間取得平衡。通過描繪倉庫街道的陰暗氛圍和許多警車、直升機來營造出一種酷炫感，同時在某些設計中加入了心形和Q版圖案，保留了一絲可愛的感覺。
+
+<br>
+<img src="https://assets.st-note.com/img/1703658650140-XxnUc6xLKi.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+&emsp;&emsp;我們這次特別重視創造一個令人雀躍的、動物與人類共生的世界觀，想將每幅畫都能讓玩家感受到其中的故事而進行製作。希望玩家可以在觀看的過程中，想像在這個世界居住的動物們的生活風景，以及插圖的角色之間又有著什麼樣的聯繫。此外，我們還希望玩家能注意到每個角色與動物互動後才會展現的一面及其與往常不同的反差。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。

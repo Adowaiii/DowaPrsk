@@ -74,11 +74,17 @@ array = [['' for a in range(27)] for b in range(26)]
 characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'花里みのり',	'桐谷遥',	'桃井愛莉',	'日野森雫',	'小豆沢こはね',	'白石杏',	'東雲彰人',	'青柳冬弥',	'天馬司',	'鳳えむ',	'草薙寧々',	'神代類',	'宵崎奏',	'朝比奈まふゆ',	'東雲絵名',	'暁山瑞希', '初音ミク', '鏡音リン', '鏡音レン', '巡音ルカ', 'MEIKO', 'KAITO']
 
 ```
+<div class="area">
+
+  <div class="custom-select"><select onfocus="this.size=5;"
+      onblur="this.size=0;"
+      onchange="this.size=1; this.blur()" id="character1"></select></div>
+  <div class="custom-select"><select id="character2"></select></div>
+
+<div class="container" id="relationshipInfo"></div>
+</div>
 
 
-<select id="character1"></select>
-<select id="character2"></select>
-<div id="relationshipInfo"></div>
 
 <script type="module" src="index.js"></script>
 
@@ -89,6 +95,65 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
         -moz-user-select: none;
         -ms-user-select: none;
     } */
+
+  select {
+    /*appearance: none;
+    /* safari 
+    -webkit-appearance: none;*/
+    padding: 10px 12px;
+    border-radius: 8px;
+  }
+
+  /*.custom-select {
+    position: relative;
+  }
+
+  .custom-select::before,
+  .custom-select::after {
+    --size: 0.3rem;
+    position: absolute;
+    content: "";
+    right: 1rem;
+    pointer-events: none;
+  }
+
+  .custom-select::before {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-bottom: var(--size) solid black;
+    top: 40%;
+  }
+
+  .custom-select::after {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-top: var(--size) solid black;
+    top: 55%;
+  }*/
+
+  option:checked { 
+    box-shadow: 0 0 10px 100px #5a5a5a inset;
+    color: white;
+  }
+
+  option:hover {
+    box-shadow: 0 0 10px 100px #B5EAEA inset;
+    color: black !important;
+  }
+
+  .area {
+    display: grid;
+    grid-template-columns: minmax(20px, 1fr) minmax(20px, 1fr);
+    justify-items: center;
+    grid-row-gap: 50px;
+  }
+
+
+  .container {
+    display: grid;
+    grid-column: 1 / span 2;
+  }
+
 
   tbody > tr > td:first-child {
     width: 120px !important;
