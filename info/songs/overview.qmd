@@ -48,14 +48,14 @@ sqlalchemy.create_engine(engine)
 %sql mysql://root:{DATABASE_PASSWORD_UPDATED}@localhost:3306/twiJP
 
 ### Query
-result = %sql SELECT songID, songName, releaseDate, Easy, Normal, Hard, Expert, Master, unit, TIME_FORMAT(songLength, '%i:%s') songLength, comboE, comboN, comboH, comboEX, comboMA, lyric, compose, arrange FROM song ORDER BY songID
+result = %sql SELECT songName, releaseDate, Easy, Normal, Hard, Expert, Master, unit, TIME_FORMAT(songLength, '%i:%s') songLength, comboE, comboN, comboH, comboEX, comboMA, lyric, compose, arrange FROM song ORDER BY releaseDate
 
 df = result.DataFrame()
 
     
 tabulate(
       df, 
-      headers=["ID", "名稱", "實裝日期", "Easy", "Normal", "Hard", "Expert", "Master", "團體", "時長", "Easy鍵數", "Normal鍵數", "Hard鍵數", "Expert鍵數", "Master鍵數", "作詞", "作曲", "編曲"], tablefmt="html", stralign="center", colalign="center", showindex=False
+      headers=["名稱", "實裝日期", "Easy", "Normal", "Hard", "Expert", "Master", "團體", "時長", "Easy鍵數", "Normal鍵數", "Hard鍵數", "Expert鍵數", "Master鍵數", "作詞", "作曲", "編曲"], tablefmt="html", stralign="center", colalign="center", showindex=False
     )
 
 

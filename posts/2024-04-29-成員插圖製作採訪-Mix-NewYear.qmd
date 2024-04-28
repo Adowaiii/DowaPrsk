@@ -1,0 +1,116 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n70e38d53764b | 此篇訪談翻譯僅作為個人練習。
+categories:
+  - 官方部落格採訪
+  - 插圖製作
+  - 翻譯
+  - ColofulPalette
+title: 成員插圖製作採訪：新春・咲き誇る魅惑の華招募
+format: html
+
+date: 2024/04/29
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;">——請問這次「新春・咲き誇る魅惑の華招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+&emsp;&emsp;因為是在新年期間發布的插圖，所以我們特別注重描繪新年華麗且喜慶的氣氛。此外，我們希望能夠呈現出與以往新年不同的新鮮感，因此嘗試了具有復古印象和剪紙質感的新畫風。
+<br>
+&emsp;&emsp;在這次的活動故事中描寫的片段之間，能一瞥兄弟姊妹之間的「羈絆」和「溫暖」。因此，我們也想在插圖中反映角色們珍視的「回憶」和「情感」。
+
+&emsp;&emsp;在這次的活動故事中，與姐姐享受購物樂趣的<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>，坐在充滿像是剛購物後般的的空間，擺放著無數的「可愛小物」。配合衣服的氛圍，我們想營造像是人偶般的神秘表情和姿勢 。如果能注意到圍繞著瑞希的物品，或許能發現新的東西。
+
+&emsp;&emsp;<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>帶著某種慵懶氣息，直率的視線凝視著這裡。透過衣服的寬鬆穿搭和用手把彈片放在嘴邊的動作，表達了一種中性的性感。活用黑白色調，時髦且雅致衣裝的同時，也將吉祥小物和她珍視的物品色彩鮮明地進行布置，摸索單圖的畫面美感。
+
+&emsp;&emsp;<code style="background-color:#DD4444;"><span style="color:black;font-weight:bold;">MEIKO</span></code>是在三人中最能感受到「和風」的服裝，我們想活用服裝以及優雅的長髮進行構圖。似乎在邀請般的視線和用扇子故意遮住表情的姿勢，表達了成熟她獨有的嫵媚和柔美氣息。由於這次是教室世界的MEIKO，因此我們用了容易聯想到Leo/need的夜空和星星進行整體的色調搭配。
+
+<br>
+<img src="https://assets.st-note.com/img/1706172299337-YV3xvMIaKT.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;">——這次的服裝充滿和的要素呢。有什麼特別之處嗎？ </blockquote>
+<br>
+
+
+&emsp;&emsp;因為是新年期間的衣裝，所以我們的目標是設計出具有吉祥且華麗印象的服裝。以往新年實裝的衣裝多為和服，這次則是注重融合和裝與洋裝的設計，以此完成整體概念。此外，活動故事中描寫了瑞希與瑞希的姐姐、志歩與雫等手足關係，因此我們希望在衣裝上也反映這一點，還將吉祥且象徵「親密關係」的「鶴」融入在各自的插圖中。
+
+&emsp;&emsp;<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>的主題為「和風蘿莉塔」，以帶有獨特衣袖邊的短上衣作為主體而進行設計的和洋混合衣裝。重視瑞希喜歡「可愛的東西」的心情，我們使用了她喜愛的荷葉邊、蕾絲和緞帶，並使用了柔和的粉彩色。髮型是以盤髮為主並進行了一些設計，從後面看像是緞帶一樣。
+
+&emsp;&emsp;<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>以隨性的私服為基礎，搭配了類似<span style="background-color:#92C6FF;">袴</span>的褲子。色調以黑白為主，穿著皮革腰帶和粗獷靴子，同時展現了搖滾樂團的帥氣感。為了創造出帥氣且偏男孩子氣的形象，髮型設計為前髮髮量較多的短髮。
+
+&emsp;&emsp;<code style="background-color:#DD4444;"><span style="color:black;font-weight:bold;">MEIKO</span></code>的服裝活用和服特有的領口和帶子，統一以紅白色調為主，展現出華麗而優雅的裝扮。領口的花紋和輕盈搖曳的裝飾品，增添了雅致的印象。前髪保持了MEIKO往常造型的同時，後髪更改為直長髮，希望能展現出她新穎的魅力。
+
+::: {.callout-note collapse="true"}
+## <b>袴</b>
+是日本和服的一種下裳。「袴」本來指褲子，但現代日本此字包括褲和部份款式的裙子在內的下裳。
+:::
+
+
+<br>
+<img src="https://assets.st-note.com/img/1706172332386-zdzOZ6wmLb.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;"> ——這次的背景給人一種很華麗的印象呢。有哪些地方是亮點呢？ </blockquote>
+<br>
+
+
+&emsp;&emsp;我們想在重視「和風」要素的同時，創造出有正月風味、豪華且雅致的背景。配合整體概念，背景除了營造出剪紙繪的風格外，描繪上也注重有和紙的質感。
+<br>
+&emsp;&emsp;此外，這次的插圖中也擺放著各式各樣的物品。除了想讓保持絢爛的畫面之外，也有根據角色至今為止的回憶和情景為意象而描繪的物品，如果大家能注意找找看的話，我們會很開心。
+
+&emsp;&emsp;<code style="background-color:#DDAACC"><span style="color:black;font-weight:bold;">瑞希</span></code>的插圖，雖然物品和花紋的要素很多，透過將整體色調進行協調，旨在創造出有一體感的背景。活動故事中，瑞希以自己「喜歡」的心情為原動力去關心身邊的人。在這個世界中放置了許多禮物盒，或許是瑞希對周遭的人的關心、傳遞給他們的想法，以禮物的形式反映在此也說不定。
+
+&emsp;&emsp;為了能更加凸顯<code style="background-color:#BBDD22"><span style="color:black;font-weight:bold;">志步</span></code>的姿勢和服裝的帥氣感，背景也使用了較冷靜沉著的風格進行描繪。和她最為重視的「Leo/need」進行聯想的星星意象重疊，拉門也多使用七寶紋樣。輪廓線是採用較扁平的描繪方以減少立體感，有意識地將整幅圖能表現出浮世繪之美而進行繪製。
+
+&emsp;&emsp;<code style="background-color:#DD4444;"><span style="color:black;font-weight:bold;">MEIKO</span></code>的背景像星星一樣散佈著金粉、和紋，也將拉門染成青色，看起來就像夜空一般。為了能襯托出艷麗的姿態和頭髮美麗的輪廓，稍微摸索了物品的配置。背後大型拉門窗戶是使用圓形窗，形狀是想營造出溫柔、惹人憐愛的女性之美而仔細繪製的。
+
+
+
+<br>
+<img src="https://assets.st-note.com/img/1706172381504-U35qgDFZ9o.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+&emsp;&emsp;這次除了重視新年的喜慶氛圍以及「和風」要素之外，也想嘗試和以往新年不同的新鮮風格，於是挑戰日本特有的「剪紙繪」和「浮世繪」風格的全新表現。搭配正月氣氛的豪華演出外，也努力為每幅圖營造出獨特感。
+
+&emsp;&emsp;此外，雖然是使用共通的概念主題，每幅圖畫也配合角色的個性而誕生出完全不同的氛圍，希望大家能享受不同風格的變化。
+
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。

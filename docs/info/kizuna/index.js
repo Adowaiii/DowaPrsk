@@ -1868,9 +1868,9 @@ function updatePage() {
 
     if (relationshipData) {
         var displayText = `
-            <span class="05">[Rank 05] ${relationshipData.rank5}</span><br>
-            <span class="26">[Rank 26] ${relationshipData.rank26}</span><br>
-            <span class="46">[Rank 46] ${relationshipData.rank46}</span>
+            <span class="rk05">[Rank 05] ${relationshipData.rank5}</span><br>
+            <span class="rk26">[Rank 26] ${relationshipData.rank26}</span><br>
+            <span class="rk46">[Rank 46] ${relationshipData.rank46}</span>
         `;
     } else {
         var displayText = "No data available for this combination.";

@@ -79,7 +79,9 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
   <div class="custom-select"><select onfocus="this.size=5;"
       onblur="this.size=0;"
       onchange="this.size=1; this.blur()" id="character1"></select></div>
-  <div class="custom-select"><select id="character2"></select></div>
+  <div class="custom-select"><select onfocus="this.size=5;"
+      onblur="this.size=0;"
+      onchange="this.size=1; this.blur()" id="character2"></select></div>
 
 <div class="container" id="relationshipInfo"></div>
 </div>
@@ -102,13 +104,16 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
     -webkit-appearance: none;*/
     padding: 10px 12px;
     border-radius: 8px;
+    width:100%;
   }
 
-  /*.custom-select {
-    position: relative;
+  .custom-select {
+    max-height: 200px;
+    min-height: 150px;
+    overflow: hidden;
   }
 
-  .custom-select::before,
+  /*.custom-select::before,
   .custom-select::after {
     --size: 0.3rem;
     position: absolute;
@@ -145,7 +150,7 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
     display: grid;
     grid-template-columns: minmax(20px, 1fr) minmax(20px, 1fr);
     justify-items: center;
-    grid-row-gap: 50px;
+    /*grid-row-gap: 50px;*/
   }
 
 
