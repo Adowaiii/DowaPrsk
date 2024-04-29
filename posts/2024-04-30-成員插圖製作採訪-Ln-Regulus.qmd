@@ -1,0 +1,106 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/nef2418da68e8 | 此篇訪談翻譯僅作為個人練習。
+categories:
+  - 官方部落格採訪
+  - 插圖製作
+  - 翻譯
+  - ColofulPalette
+title: 成員插圖製作採訪：瞳、高みを目指して招募
+format: html
+date: 2024/04/30
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;">——請問這次「瞳、高みを目指して招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+&emsp;&emsp;在這次活動故事中，作為焦點角色的穂波決定要成為Leo/need的隊長，產生了「帶領大家的覺悟」。我們想在插圖中也表現出穂波的堅定決心，因此在她們的氛圍和表情上展現了「力量感」和「認真感」。
+<br>
+&emsp;&emsp;穂波、一歌和KAITO平時多是展露溫和的表情，希望這次插圖能讓大家感受到他們與往常不同的反差。
+
+&emsp;&emsp;<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>在服裝隨風飄動的強風中堅定不移地直視前方。以往穗波的插圖中，即使是帥氣的動作和表情，總是會透露出她的溫暖和溫柔。這次第一次展露的表情，其中深植著強烈的思念：「由我來帶領Leo/need」。
+
+&emsp;&emsp;<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>像是無心關注周遭的情況，心無旁鶩地專注在自己和大家奏出的音樂中。在這片靜謐的空間裡，從纏繞著一歌的空氣感和光線的色調中，可以感受到一種「熱意」，這應該是看到穂波的決心後，「自己也想要回應這份感情」的心境表現。
+
+&emsp;&emsp;<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>的插圖中，散布著堅硬的物品，藉由重視光照下的陰影效果，在畫面中創造出一種厚重感。與平時的他不太相同，又多了一些可靠感和從容不迫。平時不怎麼看到的自信滿滿的表情以及強勢的姿態，或許是想要給踏出全新一步的Leo/need做出示範，以他的方式鼓勵她們「用堅強的心情往前進吧」也說不定。
+
+<br>
+<img src="https://assets.st-note.com/img/1708937308692-qlRHNaS6hN.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;">——這次的服裝統一使用較為沉著的色調呢。有什麼特別之處嗎？ </blockquote>
+<br>
+
+&emsp;&emsp;我們想在這次的服裝設計中反映活動故事裡「穂波下定決定，要帶領Leo/need」的印象元素。以帶領小隊的「隊長」為概念，首先設計出了穂波的服裝。此外通過這次的活動故事，Leo/need變得更加團結，我們想重視她們作為團隊的「一體感」，所以在服裝的剪裁和色調上保持了一致性，同時也做了適合每個人的調整。
+<br>
+&emsp;&emsp;連結象徵Leo/need的「夜空」而使用的深藍色作為基調，在各處以星星為發現，使用發亮的金屬零件和黃色線條進行裝飾。
+
+&emsp;&emsp;<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>穿著厚重的夾克，夾克上散布著形狀簡易且堅硬的裝飾，展現出堅強而可靠的領袖形象。披肩夾克的穿著方式也是穂波以前未曾展示過的新風格。與此同時，袖子像是毛的柔軟材料和圓潤的外型剪裁，在展露堅強的外表下，也保留了她原有的溫柔和可愛的印象。
+
+&emsp;&emsp;與穂波在風格上搭配的同時，<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>則是穿著短夾克和突顯腰線的緊身褲。刻意做出身體線條，是想以不同於一歌平時的穿衣風格，表現出時尚感。手套、束腰和靴子等配件都使用皮革，以此添加更加洗鍊的印象。
+
+&emsp;&emsp;<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>則以有特色開衩的長版大衣為基礎，設計出時髦風格的穿搭。開衩內部隱約可見像是夜空的紋樣，以及衣擺上如同流星般的黃色線條，讓人可以聯想到Leo/need，又同時增添了神秘和奇幻的印象。手部和腳部使用有存在感的毛皮和厚重靴子作為點綴，使整體造型更加分明。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1708937381620-fYhHiuVufU.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;"> ——這次的背景充滿幻想的氛圍呢。有哪些地方是亮點呢？ </blockquote>
+<br>
+
+&emsp;&emsp;我們想融合整體插圖的概念，在背景中反映穂波作為隊長帶領大家的可靠形象。因此，在每個插圖中都有加入能感受到穂波意念的色調和物品。此外，為了配合新實裝的樂曲「Regulus」，在製作中也有意識地表現出疾走感和力量感。希望大家也能仔細觀察「光」的表現。
+
+&emsp;&emsp;聯想自活動故事中<code><span style="color:#EE6666;font-weight:bold;">穗波</span></code>展現的決心，背景中浮現一輪明月，象徵她背負著「Leo/need」。最初的背景設計比較平面，放入許多主張強烈的要素。在製作過程中不斷進行討論，「能否更加凸顯穂波的存在？」「有沒有更能感受到穂波決心的方式？」，調整了各個要素的配置、立體感、筆觸和明暗度，使穂波的堅定表情更加引人注目，最後以現在的樣子登場。
+
+&emsp;&emsp;<code><span style="color:#33AAEE;font-weight:bold;">一歌</span></code>像是被紅色流星所引導，在以夜空為背景的舞台上表演。我們希望能與以往的演奏中插圖留下不同的印象，因此將大面積的舞台如浮島般散布，縱深佈置，挑戰一種展延意象的新表現。為了能使專注在演奏當中的一歌更加引人注目，調整光線的照射方式的同時，也注意體現整體插圖明暗對比中的美感。
+
+&emsp;&emsp;為了能襯托出<code><span style="color:#3366CC;font-weight:bold;">KAITO</span></code>威風凜凜的姿態和表情，我們想將背景設計成沉著的空間，從中能感受到他的「力量」和「不可撼動」感。因此，將物品以近似對稱的方式圍繞KAITO布置，並通過描繪周圍物體的重量，體現出他泰然自若的形象。此外，通過繪製許多凹凸不平的裝飾和反射出鈍光的金屬，加強他在寂靜中潛藏的力量這樣的印象。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1708937438196-YgJfz0fO5h.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+&emsp;&emsp;這次的插圖在製作中特別重視「帥氣」和「冷靜」，比起以往描繪Leo/need時更甚。Leo/need之中特別溫和的穂波、一歌、KAITO，在這次全力展現了他們的帥氣，希望插圖有傳達出他們全新的魅力以及潛藏於心的熱情。
+<br>
+&emsp;&emsp;看著她們往自己相信的道路往前邁出一步，向著各自的目標前進的背影，希望大家能繼續陪伴和支持她們。
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
