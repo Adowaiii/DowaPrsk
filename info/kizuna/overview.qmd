@@ -79,11 +79,11 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
   <div class="custom-select"><select onfocus="this.size=5;"
       onblur="this.size=0;"
       onchange="this.size=1; this.blur()" id="character1"></select></div>
+  <!--<div class="badge"><span class="left-pill"></span><span class="right-pill"></span></div>-->
   <div class="custom-select"><select onfocus="this.size=5;"
       onblur="this.size=0;"
       onchange="this.size=1; this.blur()" id="character2"></select></div>
-
-<div class="container" id="relationshipInfo"></div>
+  <div class="container" id="relationshipInfo"></div>
 </div>
 
 
@@ -107,10 +107,39 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
     width:100%;
   }
 
+  /*.badge{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    width:300px;
+  }
+
+  .left-pill,.right-pill{
+    display:block;
+    width:60px;
+    height:30px;
+    border: 3px solid white;
+    align-self:center;
+    box-shadow: 5px 2px 5px black;
+  }
+
+  .left-pill{
+    border-radius:20px 0 0 20px; 
+    background-color: #33DD99;
+    justify-self:end;
+    border-right-width:0px !important;
+  }
+  .right-pill{
+    border-radius: 0 20px 20px 0; 
+    background-color: #FFBB00;
+    justify-self:start;
+    border-left-width:0px !important;
+  }*/
+
   .custom-select {
     max-height: 200px;
     min-height: 150px;
     overflow: hidden;
+    align:center;
   }
 
   /*.custom-select::before,
@@ -149,14 +178,19 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
   .area {
     display: grid;
     grid-template-columns: minmax(20px, 1fr) minmax(20px, 1fr);
-    justify-items: center;
+    grid-template-rows: minmax(20px, 1fr) minmax(20px, 1fr);
+    justify-items: start;
+    align-items: start;
     /*grid-row-gap: 50px;*/
   }
 
 
   .container {
     display: grid;
-    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+    grid-column-start:2;
+    grid-column-end:3;
+    width: 100%;
   }
 
 
@@ -233,6 +267,7 @@ characters=['星乃一歌',	'天馬咲希',	'望月穗波',	'日野森志步',	'
     75% {width: 0 200px;}
     100%{width: 0 250px;}
   }
+
 
 
 </style>

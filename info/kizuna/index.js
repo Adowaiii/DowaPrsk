@@ -1868,9 +1868,42 @@ function updatePage() {
 
     if (relationshipData) {
         var displayText = `
-            <span class="rk05">[Rank 05] ${relationshipData.rank5}</span><br>
-            <span class="rk26">[Rank 26] ${relationshipData.rank26}</span><br>
-            <span class="rk46">[Rank 46] ${relationshipData.rank46}</span>
+            <span class="rk05"><span class="badge-05" style="display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 30px;
+                height: 30px;
+                background-color: #00BFFF;
+                border-radius: 50%;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                color: white;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+                font-weight: bold;">05</span>${relationshipData.rank5}</span><br>
+            <span class="rk26"><span class="badge-26" style="display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 30px;
+                height: 30px;
+                background-color: #00BFFF;
+                border-radius: 50%;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                color: white;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+                font-weight: bold;">26</span>${relationshipData.rank26}</span><br>
+            <span class="rk46"><span class="badge-46" style="display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 30px;
+                height: 30px;
+                background-color: #00BFFF;
+                border-radius: 50%;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                color: white;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+                font-weight: bold;">46</span>${relationshipData.rank46}</span>
         `;
     } else {
         var displayText = "No data available for this combination.";
