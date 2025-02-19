@@ -1,0 +1,131 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/nc174323e5aa8 | 此篇訪談翻譯僅作為個人練習。
+categories:
+  - 官方部落格採訪
+  - 插圖製作
+  - 翻譯
+  - ColofulPalette
+title: 成員插圖製作採訪：3900's Color Festival 招募
+format: html
+date: 2024/08/05
+---
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含卡面劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;">——請問這次「3900's Color Festival 招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+&emsp;&emsp;這次的插圖不是與活動故事相連結的招募池，而是可以在「Color Festival 招募」中獲得的卡片。因此，和平常的製作不同，我們首先是從「如何能更突出角色們的魅力」為主題開始進行構想的。
+
+&emsp;&emsp;為了讓粉絲們感到高興，各自以「會想看到咲希／司／えむ什麼樣的姿態或表情呢？」這樣的問題為出發點，共同提出想法和點子，逐步確定概念。
+
+&emsp;&emsp;例如，咲希的關鍵詞是「正向、健康、活潑」，司是「哥哥、日常的早晨、溫柔」，えむ則是「透明感、純潔、偶然一瞬的憐愛感」，從這些詞出發，進一步構建細節的形象。
+
+&emsp;&emsp;角色們僅只於此才能展現的表情和特別情境，這些要素所構成的最終成品，希望能讓大家盡情享受。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>的插圖，是希望直接呈現她現在充滿活力的樣子，畫出她在炎炎夏日中不畏強光、快活笑容的模樣。她調皮的笑容中透露出一絲堅強和自信，可能是因為她對自己克服了許多困難的「現在的自己」感到驕傲，以及抱有希望。為了能呈現出閃閃發光的水珠其生動的樣子，也特別下了一番功夫。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>的插圖是以一個平凡早晨的場景為意象繪製的。希望能描繪出他在卡面故事中也有出現的，身為「大哥哥」的關懷和溫柔。視線前方所浮現的，那種只有家人或親密之人才會見到的柔和表情，是否會讓人感受到與平時活潑的司不同的印象呢。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>則是想像她驀然回首時，美得令人屏息的那一瞬。精心描繪隨風飄逸的頭髮和閃閃發光的眼睛，凸顯了她的透明感。此外，在這次的卡面故事中，描繪了えむ和她爺爺的溫暖關係，因此在插圖中也用細膩的筆觸和柔和的色調完成，創造出如夢似幻的氛圍和溫柔的印象。
+
+<br>
+<img src="https://assets.st-note.com/img/1714025018661-fVe9YOqRTT.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;">——這次的服裝中創造出各自的氛圍呢。有什麼特別之處嗎？ </blockquote>
+<br>
+
+&emsp;&emsp;這次Color Festival 招募的插圖，如前所述，每個插畫的情境和氛圍都已經定案了。因此，服裝設計也是尋求能夠突出這些氛圍的風格。將私服設計成適合各角色的服裝同時，也讓他們的心情和個性稍微反映在衣服上。
+
+<br>
+
+&emsp;&emsp;對於<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>，我們想讓她盡情享受她喜愛的時尚。從過去常因容易生病而穿著保暖衣物的風格搖身一變，換上了透膚感的夏日針織衫和短褲，給人一種活力的印象。髪型是華麗的捲髮，並且符合對流行時尚敏感的咲希的風格，搭配迷你髮夾完成整體的妝髮造型。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>是以一種既輕鬆又有時尚感的居家服為意象進行設計的。選用了大尺碼的襯衫來營造放鬆的氣氛，同時使用了質感良好的材料，透過展示頸部和腳踝的穿搭方式增加了些成熟感。簡單且裝飾少的設計，表達了他樸素的內在。頭髮造型為了贏鑿輕鬆感，則是選擇了有些蓬鬆的卷髮。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>則是希望設計出一種可愛的服裝，因此選擇了高雅的連衣裙風格。為了配合插圖的溫柔氛圍，使用了以淡粉綠為基調的柔和色彩和觸感柔軟的材質。蓬鬆的微捲瀏海和仔細梳妝的髮型，演繹出一位淑女的優雅氣質。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1714025069706-CYGxaVgnRq.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;"> ——這次的背景的風格都有所不同呢。有哪些地方是亮點呢？ </blockquote>
+<br>
+
+&emsp;&emsp;每個角色都配合了個別的情境，展現了他們有別於平常的表情。我們希望透過背景設計來進一步凸顯出這些情境和角色。
+
+&emsp;&emsp;此外，這次的背景特別注重光的表現，咲希是充滿活力和清新的明媚陽光，司是輕柔而溫和的光線灑下，えむ則有如少女漫畫中富有浪漫氣息的打光，這些都是根據各自插圖的氛圍和角色心情來調整光線演出。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#FFDD44"><span style="color:black;font-weight:bold;">咲希</span></code>的背景是明亮且位於開放空間的泳池邊，色彩和物品則參照了咲希可能會喜歡、一直很想去的「網紅景點」相關的元素。在之前咲希作為主角的「沈みゆくadolescence招募」的插圖中，也有描繪水。希望玩家能留意這次和上次水的表現的不同，透過兩者的變化感受到她心境和環境的變化。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FFBB00;font-weight:bold;">司</span></code>的背景想表現出陽光充足的清晨和清爽的空氣感，因此描繪了一個有大片落地窗、光線從窗戶灑入的飯廳。用水彩風格表現周圍環境，帶來平和的感覺，同時也讓視線自然地聚焦在司身上。注意到他周圍的架子上排列的自然系物品，可能會發現一些對司具有特別意義的收藏。
+
+<br>
+
+&emsp;&emsp;<code><span style="color:#FF66BB;font-weight:bold;">えむ</span></code>的背景靈感來自於卡面故事的內容，想像她所在的地方是一棟大家別墅。由於我們想表達一個彷彿時間靜止的瞬間，背景從一開始就設計為有些模糊的模樣。因此，背景中的延伸至內部的林蔭大道，以及象徵啟程的敞開的大門等，都是通過明暗和輪廓來仔細表達出情景。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1714025116322-aIn7Ll6Xwk.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+&emsp;&emsp;這次我們希望活用各自專屬於三人的情境，使他們的魅力在插畫中得以凸顯。角色們流露出一些以前未曾展現的情感和表情。如果能從中發現他們新的魅力，我們會很高興。
+
+&emsp;&emsp;此外，雖然每個插圖呈現不同的情境，但我們特別注重光的表現和色彩使用，讓這三幅插圖都能給人一種積極而溫暖的印象。插畫中也佈滿了許多隱藏要素，細心地描繪每一處細節，讓玩家能透過每幅作品去想像和享受其中的故事。希望大家能夠在觀看插圖時，去想像及欣賞其中的情境和背後的故事。
+
+<br>
+<img src="https://assets.st-note.com/img/1714039431755-AT1CQykgHb.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。

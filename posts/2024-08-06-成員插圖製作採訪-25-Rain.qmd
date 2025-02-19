@@ -1,0 +1,136 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n88adc545cbdb | 此篇訪談翻譯僅作為個人練習。
+categories:
+  - 官方部落格採訪
+  - 插圖製作
+  - 翻譯
+  - ColofulPalette
+title: 成員插圖製作採訪：Drawing Blooming 招募
+format: html
+date: 2024/08/06
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;color:#884499;">——請問這次「Drawing Blooming 招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+
+&emsp;&emsp;在這次的故事中，描述了繪名雖然迷茫，仍坦然面對自己前進道路的樣子。因此，我們希望插圖能夠讓人聯想到「未來的繪名」，仔細考慮了場景和地點。除此之外，我們還從這次實裝的歌曲《私は雨》的曲調和氛圍中獲得了靈感。描繪薄霧壟罩的天空，象徵尚未明朗的未來，使畫面中能夠感受到寧靜和一絲寂寞。雖然插圖的色調都是單色調，但為了讓人感受到對未來的希望，我們有意識地描繪了溫柔且有溫度的光線。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>在寂靜的巷弄中，似乎注意到了什麼而抬起了頭。她手中的畫布上刻意什麼也沒畫，以表現她將要描繪的未來充滿無限的可能性。從畫布中盛開的牡丹花，微微照亮了她的胸口。那溫暖而微小的光芒，蘊含了她在活動故事中通過《牡丹》所獲得的情感。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>手持著盛開水仙花的畫布，似乎在沉思著什麼。佇立之處是遠離都市喧囂的地方，以繪製出飄盪出寧靜感的畫面。在這次的特訓前插圖中，描繪了まふゆ感受到片刻休息的平靜一幕。為了與她的心境相呼應，特訓後的插圖也呈現了她自然且安穩的表情。
+
+<br>
+
+&emsp;&emsp;在活動故事中對繪畫充滿興趣的<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>，和這份心情相連結，插圖中他也用閃亮的眼睛注視著工作室內。雨過天晴的天空下，畫面中雖然沒有其他兩人共通出現的雨滴或水窪，但他所注視的畫中正在下著雨。為了反映連對25時團員們的關心，畫中描繪了充滿希望的明亮光線。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1716360341339-IHe6kXEoKK.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;color:#884499;">——這次的服裝中在單色調中，加入了鮮豔的顏色作為亮點呢。有什麼特別之處嗎？ </blockquote>
+<br>
+
+&emsp;&emsp;我們想要在設計中反映出活動故事中決定「與繪畫共存」的繪名的心情。因此，使用與「繪畫」相關的物品，旨在製作出能感受到美術元素的服裝設計。
+
+&emsp;&emsp;基礎顏色以單色調打底，營造出優雅且成熟的氛圍。加入色彩鮮艷且具設計感的領帶或長褲襪，讓整體看起來像是一件藝術品，增添了華麗且獨特的要素。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>的服裝中，以橘色為主的彩色長褲襪格外吸睛。獨樹一幟的馬賽克圖案，表現了她對尚未明確的未來的想法。厚實的霧面質感連衣裙和皮革材質的貝雷帽，雖然整套服裝風格簡約，但在材質和細節設計上都十分講究。為了能夠鼓勵即將邁出一步的繪名，靴子的鞋跟故意設計得較低，重視活動性和輕便性。
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>的服裝設計中，收束頸部、手腕和腰部而更能凸顯身材曲線的上衣，搭配上獨特開衩的褲裝和高跟鞋，讓人感受到「成熟」和「美麗」。反映她正經的個性，服裝的剪裁是對稱且筆挺的。蝴蝶結上帶有混亂感的圖案，反映了她尚未整理好繼續前進的心情。
+
+<br>
+
+&emsp;&emsp;由於重視<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>的「可愛」與「稚嫩感」，保留了他平時穿著的短褲造型。髮帶和耳環也選擇了搖曳的款式。與此同時，為了與這次服裝整體的優雅風格相襯，還加入了斜線設計的襯衫以及腰帶，增添大人風味的時尚感。領帶和襪子的圖案，則是可愛與成熟的元素「融合」的設計。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1716360450383-3cuea65oay.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;color:#884499;"> ——這次的背景描繪了許多牡丹花。有哪些地方是亮點呢？ </blockquote>
+<br>
+
+
+&emsp;&emsp;搭配概念主題，整體色調偏向寧靜安穩的單色調。背景從具有濃厚藝術氣息發想，以西洋街景作為舞台描繪。
+
+&emsp;&emsp;由於這次是下雨的情境，濕潤水面的表現也是我們繪製的重點。背景的雨並非傾盆大雨，而是讓人聯想到雨後天晴的艷麗之雨。
+
+&emsp;&emsp;牡丹和水仙花作為這次插圖的重要主題，在畫中散發出淡淡且溫柔的光芒。
+
+<br>
+
+&emsp;&emsp;我們希望<code style="background-color:#CCAA88"><span style="color:black;font-weight:bold;">繪名</span></code>的插圖中捕捉雨滴落下的一瞬。從畫材店屋簷滴落水珠的透明每，以及參考了這次活動歌曲<span style="background-color:#92C6FF;">《私は雨》的節奏</span>來設計雨滴的排列，使畫面增添時髦感。我們希望大家能將目光集中在繪名手中的畫布和牡丹，因此背景中的牡丹則追求簡單美，不會過於突出。
+
+::: {.callout-note collapse="true"}
+## <b>《私は雨》的節奏</b>
+這裡說的應該是前奏特別明顯的三連音「答答答～」、「答答答～」，雨滴也是多三個一組的進行排列。
+:::
+
+<br>
+
+&emsp;&emsp;<code style="background-color:#8888CC"><span style="color:black;font-weight:bold;">まふゆ</span></code>的背景描繪了橋對岸燈火輝煌的美麗街景，用厚塗的方式使整體呈現風景畫般的效果。雖然用深色調來增加畫面的沉重感，但和牡丹和水仙花的明亮光芒交會，營造出靜謐而夢幻的空氣感。雨後的水窪則特別注重其光澤感。
+
+<br>
+
+&emsp;&emsp;也許是受到繪名的影響，<code style="background-color:#FFEE11;"><span style="color:black;font-weight:bold;">連</span></code>探頭望向的畫室中可以發現代表繪名和她父親的物品。我們希望玩家能關注他感興趣的表情和前方畫室中的物品，因此將他身後的街景故意畫得模糊，仿若被霧氣籠罩。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1716360526604-qoW3sKNM4f.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;color:#884499;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+&emsp;&emsp;這次，我們希望在插圖中真切地反映繪名通過正視自己的未來和父親所發掘的「對繪畫的熱情」。因此，我們在插圖中融入了許多美術的元素，並對這次活動故事中的關鍵——「牡丹花」，使其存在令人印象深刻而進行繪製。
+
+&emsp;&emsp;此外，為了反映活動中實裝歌曲《私は雨》的氛圍，我們創作出一種靜謐的空氣感，使人能從中感受到寧靜和細膩。我們以單色調為主，通過突顯各角色服裝中的鮮豔顏色，努力創作出充滿藝術感的插圖。
+
+<br>
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。

@@ -1,0 +1,129 @@
+---
+layout: post
+description: 原文章：https://media.colorfulpalette.co.jp/n/n293050abde43 | 此篇訪談翻譯僅作為個人練習。
+categories:
+  - 官方部落格採訪
+  - 插圖製作
+  - 翻譯
+  - ColofulPalette
+title: 成員插圖製作採訪：going upstairs 招募
+format: html
+date: 2024/09/28
+---
+
+<script type="module" src="main.js"></script>
+<span id="reading-tag"><span id="time"></span> minute(s) read</span>
+
+::: {.callout-warning appearance="simple"}
+## 本文章包含活動劇情劇透，請斟酌觀看。
+:::
+<div style="border:2px turquoise dashed;padding:0px 12px 0px 12px;border-radius:8px;background-color:rgba(64,224,208, 0.3) !important;" class="team-info">
+<p style="text-align:center;font-weight:bold;margin-top:25px">團隊介紹</p>
+<table style="border:none;border-collapse: separate;border-spacing: 2px 15px;">
+<tr style="border:none;background-color:transparent;">
+<th style="text-align:center;width:18%; border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">角色製作班</th>
+<td style="border:none;padding-left:20px">負責決定插圖概念及構圖，進行服裝設計、草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+<tr style="border:none;background-color:transparent;background-color:transparent;">
+<th style="text-align:center;border:1px solid;border-radius:8px;background-color:rgba(64,224,208, 0.5)">背景班</th>
+<td style="border:none;padding-left:20px">以角色製作班決定好的概念及構圖為基礎，構思主題、物品及建物等等，進行草稿、線稿、上色以及最後的修飾。</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+
+### 概念／構圖
+<br>
+<blockquote style="font-weight:bold;color:#88dd44;">——請問這次「going upstairs 招募」特訓後插圖的構圖概念是如何決定的？ </blockquote>
+<br>
+
+
+&emsp;&emsp;這次的活動故事中，遙決心成為MMJ的製作人，掌舵她們的發展方向。在描繪她這份覺悟的同時，我們著重突顯MMJ成員的「帥氣感」，希望這次的插圖能讓大家欣賞到她們初次展現的表情和冷靜帥氣的氛圍。
+
+<br>
+
+&emsp;&emsp;遙的插圖中，我們仔細地將她每一個動作，如「手放在臉上」、「翹起腿」，都展現出她作為頂級偶像團體C位所磨練出的「魅力」。她的表情帶著前所未有、讓人心跳漏了一拍的銳利感。她堅定向前凝視的眼神中，蘊含了她成為製作人的決心。
+
+<br>
+
+&emsp;&emsp;雫的插圖則希望展現在模特兒領域活躍的她特有的「帥氣」和「魄力」。利用她優秀的姿勢感和出色的身材，完成了一幅極具時尚感的畫面。通過她俯視鏡頭的角度和手放在臉前的動作，營造出一種難以捉摸的神秘感。
+
+<br>
+
+&emsp;&emsp;KAITO的插圖中，我們在描繪他時髦帥氣的同時，還保留了他平時溫柔平和的一面。他那輕輕守望的眼神中，增添了代表希望的黃色光芒。那溫柔的目光中滲透出的心情，或許是他在想著即將邁出新一步的MMJ成員們。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1719305157609-SO38AL03UP.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 服裝
+
+<br>
+<blockquote style="font-weight:bold;color:#88dd44;">——這次的服裝設計非常的時尚帥氣呢。有什麼特別之處嗎？ </blockquote>
+<br>
+
+&emsp;&emsp;這次的活動故事中，遙決心成為MMJ的製作人，我們也希望在服裝中反映出她的這份決心。從活動歌曲《Supernova》中獲得靈感，以藍色為主的單色調，設計出優雅又帥氣的服裝。此外也和這次活動3DMV的舞台設計相互印襯，設計出適合派對場合的正式套裝。
+
+&emsp;&emsp;同時，我們希望在帥氣中保留MMJ獨有的特色，因此加入了相同的三葉草裝飾，並使用了閃亮的亮片和織物，使服裝充滿偶像般的光彩。
+
+<br>
+
+&emsp;&emsp;遙的服裝是一套短款夾克和寬褲的套裝。為了凸顯她努力鍛鍊的出的緊實身材，刻意設計成露出腹部的款式。手尖塗上精緻的指甲油，戴著多枚閃亮的戒指，營造出細緻優雅的形象。為了讓她能夠自信地邁步，腳上穿著的是帶粗跟的皮靴。
+
+<br>
+
+&emsp;&emsp;雫的服裝是短夾克搭配緊身褲。為了展現的她的丰采，服裝剪裁修身，可以清楚看到整體身體曲線。配飾選用了美麗且高雅的裝飾品，並在耳環和項圈上使用了大顆寶石，突顯她的華麗感。
+
+<br>
+
+&emsp;&emsp;KAITO的服裝是夾克搭配直筒褲，設計風格較正統。與此同時，卷起的夾克袖子和具有透明感的內襯，增添有些俏皮的野性和成熟感。他的手套也使用了與內襯衣相同的半透明材質，使得指甲若隱若現，增加些艷麗感。
+
+
+<br>
+<img src="https://assets.st-note.com/img/1719305406095-um60oWzG4h.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 背景
+
+<br>
+<blockquote style="font-weight:bold;color:#88dd44;"> ——這次的背景在使用光線上令人印象深刻。有哪些地方是亮點呢？ </blockquote>
+<br>
+
+
+&emsp;&emsp;這次的背景設計靈感來自於活動實裝的3DMV舞台設計，描繪出一個讓人聯想到休息廳的場所。最初，我們的設計是以電梯或手扶梯為背景，點題MMJ的「上升感」。然而，在製作過程中，我們希望傳達出她們「靠自己的力量一步一步上升」的印象，而不是「自動上升」，因此重新思考能讓她們發揮魅力的方向，最終成為現在的設計。為了凸顯出她們自身的力量和帥氣，我們加入簡潔但能反射光線的裝飾品，並細緻地調整了光線和陰影的效果。
+
+<br>
+
+&emsp;&emsp;遙的插圖中背景的色彩和物品刻意留少，想讓她那充滿力量的表情作為整張圖的焦點。她坐的椅子雖然裝飾不多，但有著厚重感，讓人聯想到王座，展現出高貴的氣質。為了反映她堅定的意志，背景使用了清晰的輪廓，在MMJ插圖中較少見地沒有使用模糊效果或柔和的元素。
+
+<br>
+
+&emsp;&emsp;我們想活用雫的背景構圖的帥氣感，使用了許多縱向線條，強調「上升感」。背景中的吊飾設計靈感來自於雫身上的飾品，使整體設計看起來和諧統一。為了突顯雫的氣質，背景選用了簡單設計和材質的物品。
+
+<br>
+
+&emsp;&emsp;KAITO的背景則是與他的服裝相呼應，展現出成熟且帥氣的印象。我們在背景中融合「帥氣」和「偶像般的光彩」，使用了金屬質感的吊飾和單色的霓虹燈管，這些都是以前MMJ的插圖中較少見的元素。背景中圍繞著KAITO的大玻璃窗，可以眺望外面的廣闊世界，這也許反映了他展望MMJ成員們在未來大展宏圖的心情。
+
+<br>
+<img src="https://assets.st-note.com/img/1719305499964-QCRZnv9uk9.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90">
+<br>
+
+### 尾聲
+
+<br>
+<blockquote style="font-weight:bold;color:#88dd44;">——請告訴我們您在繪製這次的插圖時有哪些特別注重的地方。  </blockquote>
+<br>
+
+
+&emsp;&emsp;這次的活動故事描繪了MMJ成員們思考自己未來發展的方向性並決心前進的過程。我們希望在插圖中也能表現出她們心靈上的堅強和帥氣。
+
+&emsp;&emsp;製作時，我們注重展現她們作為偶像的要素，同時透過首次展現的表情和動作，讓大家能感受到她們的決心和想法。
+
+&emsp;&emsp;希望大家能和我們一起，守護並支持即使在迷惘中，仍不斷琢磨並一步一步開闢道路的她們。
+
+<br>
+
+&emsp;&emsp;感謝您一直以來對世界計畫的支持。
