@@ -706,8 +706,8 @@
                 slot.classList.add('filled');
                 if (card.image) {
                     const rotation = bookConfig.orientation === 'landscape' ? 'rotate(90deg)' : 'rotate(0deg)';
-                    const width = bookConfig.orientation === 'landscape' ? '140%' : '75%';
-                    const height = bookConfig.orientation === 'landscape' ? '65%' : '110%';
+                    const width = bookConfig.orientation === 'landscape' ? '50%' : '75%';
+                    const height = bookConfig.orientation === 'landscape' ? '140%' : '110%';
                     slot.innerHTML = `
                     <img src="${card.image}" alt="${card.name}" class="card-image"
                         style="width: ${width}; height: ${height}; transform: translate(-50%, -50%) ${rotation};"
@@ -771,8 +771,8 @@
                     if (card.image) {
                         // Correct rotation and size for view mode
                         const rotation = bookConfig.orientation === 'landscape' ? 'rotate(90deg)' : 'rotate(0deg)';
-                        const width = bookConfig.orientation === 'landscape' ? '140%' : '75%';
-                        const height = bookConfig.orientation === 'landscape' ? '65%' : '110%';
+                        const width = bookConfig.orientation === 'landscape' ? '50%' : '75%';
+                        const height = bookConfig.orientation === 'landscape' ? '140%' : '110%';
                         slot.innerHTML = `
                             <img src="${card.image}" alt="${card.name}" class="view-card-image"
                                 style="width: ${width}; height: ${height}; transform: translate(-50%, -50%) ${rotation};"
