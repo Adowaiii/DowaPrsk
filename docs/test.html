@@ -18,6 +18,9 @@
             padding: 0;
             margin: 0;
             lang: en;
+            width: 100vw;
+            min-width: 0;
+            overflow-x: auto;
         }
         
         .container {
@@ -151,6 +154,11 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             position: relative;
         }
+
+        #pageContainer {
+            overflow-x: auto;
+            padding: 0px 15px 0px 40px;
+        }
         
         .page-container::before {
             content: '';
@@ -176,11 +184,12 @@
             width: 100%;
             max-width: 100%;
             padding: 0 20px;
+            padding-left: 35px;
         }
         
         .card-slot {
             width: 100%;
-            min-width: 200px;
+            min-width: 100px;
             height: 0;
             padding-bottom: 70%;
             border: 3px dashed #dee2e6;
@@ -411,11 +420,12 @@
             width: 100%;
             max-width: 100%;
             padding: 0 20px;
+            padding-left: 35px;
         }
         
         .view-card-slot {
             width: 100%;
-            min-width: 200px;
+            min-width: 100px;
             height: 0;
             padding-bottom: 70%;
             border: 3px solid #28a745;
@@ -503,6 +513,32 @@
             background: #495057;
         }
         
+        /* Always let grid control slot width */
+        /*.card-slot,
+        .view-card-slot {
+            min-width: 0;
+        }*/
+        
+        /* On small screens, allow horizontal scroll if needed */
+        @media (max-width: 600px) {
+            .page-container {
+                overflow-x: auto;
+                padding: 5px;
+            }
+            .card-grid,
+            .view-card-grid {
+                min-width: 350px; /* Optional: set a min width for usability */
+                padding: 0 2px;
+                gap: 6px;
+                padding-left: 35px;
+            }
+            .card-slot,
+            .view-card-slot {
+                min-width: 0;
+                padding-bottom: 100%; /* Keep square aspect */
+            }
+        }
+        
         @media (max-width: 768px) {
             .setup-grid {
                 grid-template-columns: 1fr;
@@ -514,6 +550,85 @@
             
             .card-slot, .view-card-slot {
                 min-width: 120px;
+            }
+        
+            .page-container {
+                padding: 10px;
+                margin: 10px 0;
+                border-radius: 8px;
+            }
+            .page-header h3 {
+                font-size: 1.1rem;
+            }
+        }
+        @media (max-width: 900px) {
+            .page-container {
+                overflow-x: auto;
+                padding: 5px;
+            }
+            .card-grid {
+                padding: 0 2px;
+                gap: 8px;
+            }
+            .card-slot {
+                min-width: 60px;
+                padding-bottom: 100%;
+            }
+        }
+        @media (max-width: 600px) {
+            .card-slot, .view-card-slot {
+                min-width: 0;
+                padding-bottom: 100%;
+            }
+        }
+        /* For view mode horizontal scroll on small screens */
+        @media (max-width: 600px) {
+            .view-mode {
+                overflow-x: auto;
+            }
+            .all-pages-container {
+                overflow-x: auto;
+                width: 100%;
+            }
+            .view-page {
+                min-width: 350px; /* Optional: ensures each page isn't too narrow */
+            }
+            .view-card-grid {
+                min-width: 350px; /* Optional: ensures grid isn't too narrow */
+                padding-left: 35px;
+            }
+            .view-card-slot {
+                min-width: 100px;
+                padding-bottom: 100%;
+            }
+        }
+        /* Make each view-page auto-size to its content/grid */
+        @media (max-width: 900px) {
+            .view-mode {
+                overflow-x: auto;
+            }
+            .all-pages-container {
+                display: flex;         /* Show pages in a row for horizontal scroll */
+                gap: 40px;
+                overflow-x: auto;
+                width: 100%;
+            }
+            .view-page {
+                display: inline-block; /* Shrink to fit its grid */
+                min-width: unset;      /* Remove fixed min-width */
+                width: auto;
+                padding: 10px;
+            }
+            .view-card-grid {
+                width: auto;
+                min-width: 0;
+                padding: 0 2px;
+                gap: 6px;
+                padding-left: 35px;
+            }
+            .view-card-slot {
+                min-width: 100px;
+                padding-bottom: 100%;
             }
         }
     </style>
@@ -605,6 +720,8 @@
             <div class="view-mode-header">
                 <h2 id="viewModeTitle">我的卡片收藏冊 - 瀏覽模式</h2>
                 <p id="viewModeDetails">完整瀏覽您的所有卡片收藏</p>
+                <!--<button class="btn btn-primary" onclick="downloadCurrentViewPageImage()">下載當前頁面圖片</button>-->
+                <button class="btn btn-primary" onclick="downloadAllViewPagesAsImages()">批量下載所有頁面圖片</button>
             </div>
             
             <div class="all-pages-container" id="allPagesContainer">
@@ -640,6 +757,7 @@
         </div>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
     <script>
         let bookConfig = {
             size: 'A5',
@@ -936,6 +1054,42 @@
                 document.getElementById('viewMode').style.display = 'none';
                 document.getElementById('bookSection').style.display = 'block';
             }
+        }
+        
+        function downloadCurrentViewPageImage() {
+            // Find the first visible .view-page (or let user pick one)
+            const page = document.querySelector('.view-page');
+            if (!page) {
+                alert('找不到頁面');
+                return;
+            }
+            html2canvas(page, {backgroundColor: null}).then(canvas => {
+                const link = document.createElement('a');
+                link.download = 'cardbook-page.png';
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            });
+        }
+        
+        function downloadAllViewPagesAsImages() {
+            const pages = document.querySelectorAll('.view-page');
+            if (!pages.length) {
+                alert('找不到任何頁面');
+                return;
+            }
+            // Helper to download each page sequentially
+            function downloadPage(index) {
+                if (index >= pages.length) return;
+                html2canvas(pages[index], {backgroundColor: null}).then(canvas => {
+                    const link = document.createElement('a');
+                    link.download = `cardbook-page-${index + 1}.png`;
+                    link.href = canvas.toDataURL('image/png');
+                    link.click();
+                    // Download next page after a short delay to avoid browser blocking
+                    setTimeout(() => downloadPage(index + 1), 500);
+                });
+            }
+            downloadPage(0);
         }
         
         // Initialize the first page on load
